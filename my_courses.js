@@ -3433,7 +3433,7 @@ Managing Azure IaaS with PowerShell
 Managing Certificates with AWS Certificate Manager
 Managing Configurations with Azure Automation DSC
 Managing Crowd Systems in UDK
-Managing DHCP With PowerShell
+--CO-- Managing DHCP With PowerShell
 --CO-- Managing Developers
 Managing Docker Images
 Managing Exchange Mailboxes and Distribution Groups in PowerShell
