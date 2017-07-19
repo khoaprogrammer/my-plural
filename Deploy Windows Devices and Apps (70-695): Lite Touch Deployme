@@ -630,7 +630,7 @@ Build Your Career with Michael Lopp
 --CO-- Build Your Own Bootstrap Business Application Template in MVC
 --CO-- Build a Better Blog with a Static Site Generator
 --CO-- Build a Customized SharePoint Team Site Without Writing Any Code
-Build a Lab Environment w/ Microsoft Azure &amp; Windows Server 2012
+--CO-- Build a Lab Environment w/ Microsoft Azure &amp; Windows Server 2012
 --CO-- Build an HTML Helper Library for ASP.NET MVC 5
 Build and Deploy SSRS Mobile Reports
 --CO-- Build iOS Apps with React Native
@@ -1106,7 +1106,7 @@ Conducting Network Vulnerability Analysis
 Configuring Exchange Server 2013 with SharePoint 2013
 --CO-- Configuring Kerberos for SSRS
 Configuring Service Applications in SharePoint 2016
-Configuring SharePoint 2013 Farm with PowerShell
+--CO-- Configuring SharePoint 2013 Farm with PowerShell
 Configuring SharePoint 2013 for Apps
 Configuring SharePoint 2013 for Business Intelligence
 --CO-- Configuring Windows 10 (70-697): Lab Setup
@@ -1687,7 +1687,7 @@ Demystifying Keyframe Interpolation in After Effects
 Deploy Azure Virtual Networks, VPNs, and Gateways
 Deploy Windows 10 Images
 Deploy Windows Devices and Apps (70-695): Application Compatibility
-Deploy Windows Devices and Apps (70-695): Lite Touch Deployment
+--CO-- Deploy Windows Devices and Apps (70-695): Lite Touch Deployment
 Deploy Windows Devices and Apps (70-695): Maintain Desktop Images
 Deploy Windows Devices and Apps (70-695): OSD Infrastructure
 Deploy Windows Devices and Apps (70-695): Zero Touch Deployment
@@ -1696,7 +1696,7 @@ Deploying Consul
 Deploying .NET Applications with Octopus Deploy
 Deploying Windows 10 Anniversary Edition (v1607) with MDT
 --CO-- Deploying Windows 10 Using MDT and ConfigMgr
-Deploying Windows 8.1 and Windows Server 2012 R2 using MDT 2013
+--CO-- Deploying Windows 8.1 and Windows Server 2012 R2 using MDT 2013
 Deploying a Linux Web Server for Windows Admins
 --CO-- Deploying and Integrating Azure AD
 Deploying and Managing Azure IaaS Virtual Machines
@@ -1753,7 +1753,7 @@ Designing Thought-provoking Infographics in Illustrator
 Designing Transforming Robot Concepts in Photoshop
 Designing VEX Driven Digital Assets in Houdini
 Designing VMware Infrastructure
---DOWN-- Designing Windows 8 Apps
+--CO-- Designing Windows 8 Apps
 Designing Zombie Minions in Photoshop
 Designing a Boss Battle Environment in Photoshop
 Designing a Cast of Characters in Photoshop
@@ -4044,7 +4044,7 @@ Planning and Designing Microsoft Azure Compute Solutions
 Planning and Executing a Complete Animation in Maya
 Planning and Implementing DirectAccess with Windows Server 2016
 Planning and Installing Chef
-Planning and Preparing to Migrate SCCM 2007 to SCCM 2012
+--CO-- Planning and Preparing to Migrate SCCM 2007 to SCCM 2012
 Planning for Business Analysis
 Planning for SharePoint Server 2016: Logical Architecture and Integrations
 Planning for SharePoint Server 2016: Physical Topology and Services
@@ -4069,7 +4069,7 @@ Play by Play: Crafting a Brand for Growth and Prosperity
 ​Play by Play: Cross-Browser Compatibility with Peter-Paul Koch
 ​Play by Play: Database Tuning
 Play by Play: Deploying an Angular 2 App to Azure with Git with John Papa and Shayne Boyer
-Play by Play: Discovering PowerShell with Mark Minasi
+--CO-- Play by Play: Discovering PowerShell with Mark Minasi
 Play by Play: Docker for Java Developers with Arun Gupta and Michael Hoffman
 ​Play by Play: Docker for Web Developers with John Papa and Dan Wahlin
 Play by Play: Elastic Scale and Consistency with Azure Automation DSC
@@ -4162,7 +4162,7 @@ PowerShell &amp; DevOps Global Summit 2016 Sessions
 --CO-- PowerShell Gotchas
 --CO-- PowerShell Remoting Fundamentals
 PowerShell Toolmaking Fundamentals
-PowerShell V4 New Features
+--CO-- PowerShell V4 New Features
 --CO-- PowerShell and SQL Server
 --CO-- PowerShell for Office 365
 PowerShell v2 Essentials for IT Admins Part 1
@@ -4688,7 +4688,7 @@ SQL Server 2012: Evaluating and Sizing Hardware
 --CO-- SQL Server Performance: Introduction to Query Tuning
 --CO-- SQL Server Questions and Answers
 SQL Server Reporting Services Playbook
-SQL Server on Microsoft Azure IaaS - Optimizations &amp; High Availability
+--CO-- SQL Server on Microsoft Azure IaaS - Optimizations &amp; High Availability
 --TORR-- SQL Server: Advanced Corruption Recovery Techniques
 --TORR-- SQL Server: Advanced Extended Events
 --CO-- SQL Server: Benchmarking and Baselining
@@ -4923,7 +4923,7 @@ SharePoint 2010 Social Networking for End Users
 SharePoint 2007 Tutorial for Site Administrators
 --TORR-- SharePoint 2013 Workflow - Advanced Topics
 --DOWN-- SharePoint 2013 Workflow - Fundamentals
---TORR-- SharePoint 2013 Workflow - Web Services
+--CO-- SharePoint 2013 Workflow - Web Services
 SharePoint 2010 for Web Designers - Part 5, Advanced Branding
 SharePoint 2010 for Web Designers - Part 4, Branding
 SharePoint 2010 for Web Designers - Part 1, Fundamentals
@@ -4961,7 +4961,7 @@ SharePoint Server 2010 Development (70-573) Part 4
 SharePoint Server 2010 Integrate w/ Office 2010: Advanced
 SharePoint Server 2010 Integrate w/ Office 2010: Excel
 SharePoint Server 2010 Integrate w/ Office 2010: Getting Started
-SharePoint Server 2013 Monitoring and Troubleshooting
+--CO-- SharePoint Server 2013 Monitoring and Troubleshooting
 SharePoint Server 2013 New Features
 --CO-- SharePoint Web Part Development
 --CO-- SharePoint at Work: Create Custom Lists
@@ -5148,7 +5148,7 @@ Taking a Previz Scene to Look Development in 3ds Max and V-Ray
 Taming Asynchronous .NET Code with Rx
 --CO-- Teaching Kids Programming with C#
 --CO-- Team Foundation Build 2010 Introduction
---TORR-- Team Foundation Server 2013 New Features
+--CO-- Team Foundation Server 2013 New Features
 --CO-- Team Foundation Server 2010 Version Control
 --CO-- Team Foundation Server Customization
 Technical Integration of Enterprise Components for CASP (CAS-002)
@@ -5220,7 +5220,7 @@ The Art of A/B Testing for Web Design
 The Art of Speaking: Scott Hanselman
 The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
 --TORR-- The C Programming Language in Action
-The Case for PowerShell
+--CO-- The Case for PowerShell
 --TORR-- The Dark Side of Technology Careers
 --TORR-- The Eclipse Guided Tour - Part 1
 --TORR-- The Eclipse Guided Tour - Part 2
@@ -5390,7 +5390,7 @@ Understanding Mobile App Components in InDesign
 Understanding Object Transformations in InDesign
 Understanding Perspective Drawing in Illustrator
 --CO-- Understanding Server Hardware
---TORR-- Understanding SharePoint 2013: Part 1 - Basics
+--CO-- Understanding SharePoint 2013: Part 1 - Basics
 --TORR-- Understanding SharePoint 2013: Part 2 - Behind the Scenes
 --TORR-- Understanding SharePoint 2013: Part 4 - Conventional Development
 Understanding SharePoint 2013: Part 3 - Development Overview
@@ -5750,7 +5750,7 @@ What's New in Maya 2013
 What's New in Office 2016
 --CO-- What's New in PHP 7
 What's New in Photoshop CS6
---TORR-- What's New in PowerShell Version 3 	
+--CO-- What's New in PowerShell Version 3 	
 --CO-- What's New in Prism 5.0
 What's New in SQL Server 2016 Integration Services
 What's New in SQL Server 2016 Reporting Services
@@ -5828,7 +5828,7 @@ Windows Azure Infrastructure as a Service Essentials
 --CO-- Windows Azure Mobile Services
 --CO-- Windows Azure Service Bus
 --CO-- Windows Azure Storage In-Depth
-Windows Client Administration Fundamentals
+--CO-- Windows Client Administration Fundamentals
 --CO-- Windows Embedded 8.1 Industry Jumpstart
 Windows Failover Clustering Fundamentals
 --CO-- Windows Forms Best Practices
@@ -5839,11 +5839,11 @@ Windows Home Server: Storage and Security
 --CO-- Windows Internals
 --CO-- Windows Internals 3
 --TORR-- Windows Internals 2
-Windows Kernel Debugging Fundamentals
+--CO-- Windows Kernel Debugging Fundamentals
 Windows Operating System Fundamentals: Install and Configure
-Windows Operating System Fundamentals: Managing and Maintaining
+--CO-- Windows Operating System Fundamentals: Managing and Maintaining
 --CO-- Windows Operating Systems for CompTIA A+ (220-902)
-Windows Performance Monitoring Fundamentals
+--CO-- Windows Performance Monitoring Fundamentals
 --CO-- Windows Phone 7 "Mango" Multitasking
 --CO-- Windows Phone 7 Basics
 --CO-- Windows Phone 7.5 Data
@@ -5879,7 +5879,7 @@ Windows Server 2008 Enterprise Administrator (70-647) Part 2
 Windows Server 2003 Group Policy
 Windows Server 2012 High Availability: Hyper-V
 Windows Server 2012 High Availability: Networking and Clusters
-Windows Server 2012 Hyper-V Essentials
+--CO-- Windows Server 2012 Hyper-V Essentials
 Windows Server 2012 Hyper-V New Features
 Windows Server 2012 Implementing DirectAccess
 Windows Server 2003 Internet Gateways
@@ -5887,37 +5887,37 @@ Windows Server 2008 Network Infrastructure (70-642): Part 1
 Windows Server 2008 Network Infrastructure (70-642): Part 2
 Windows Server 2008 Network Infrastructure (70-642): Part 3
 Windows Server 2003 Network Security
-Windows Server 2012 R2 (70-410) Administer Active Directory
+--CO-- Windows Server 2012 R2 (70-410) Administer Active Directory
 Windows Server 2012 R2 (70-411) Configure Active Directory
-Windows Server 2012 R2 (70-412) Configure Active Directory
+--CO-- Windows Server 2012 R2 (70-412) Configure Active Directory
 Windows Server 2012 R2 (70-411) Configure Group Policy
 Windows Server 2012 R2 (70-412) Configure High Availability
-Windows Server 2012 R2 (70-410) Configure Hyper-V
+--CO-- Windows Server 2012 R2 (70-410) Configure Hyper-V
 Windows Server 2012 R2 (70-411) Configure Network Services
 --CO-- Windows Server 2012 R2 (70-412) Configure Network Services
-Windows Server 2012 R2 (70-412) Continuity and Disaster Recovery
-Windows Server 2012 R2 (70-410) Core Network Services
+--CO-- Windows Server 2012 R2 (70-412) Continuity and Disaster Recovery
+--CO-- Windows Server 2012 R2 (70-410) Core Network Services
 Windows Server 2012 R2 (70-411) Deploy and Manage Servers
 Windows Server 2012 R2 (70-411) File and Print Services
-Windows Server 2012 R2 (70-412) File and Storage Solutions
+--CO-- Windows Server 2012 R2 (70-412) File and Storage Solutions
 Windows Server 2012 R2 (70-414) Highly Available Enterprise
-Windows Server 2012 R2 (70-414) Identity and Access Solutions
-Windows Server 2012 R2 (70-412) Identity and Access Solutions
-Windows Server 2012 R2 (70-410) Install and Configure Servers
+--CO-- Windows Server 2012 R2 (70-414) Identity and Access Solutions
+--CO-- Windows Server 2012 R2 (70-412) Identity and Access Solutions
+--CO-- Windows Server 2012 R2 (70-410) Install and Configure Servers
 --CO-- Windows Server 2012 R2 (70-413) Logical AD Infrastructure
-Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam
+--CO-- Windows Server 2012 R2 (70-410) MCSA and the 70-410 Exam
 Windows Server 2012 R2 (70-411) MCSA and the 70-411 Exam
-Windows Server 2012 R2 (70-412) MCSA and the 70-412 Exam
+--CO-- Windows Server 2012 R2 (70-412) MCSA and the 70-412 Exam
 --CO-- Windows Server 2012 R2 (70-413) MCSE and the 70-413 Exam
 Windows Server 2012 R2 (70-414) MCSE and the 70-414 Exam
-Windows Server 2012 R2 (70-410) Manage Group Policy
+--CO-- Windows Server 2012 R2 (70-410) Manage Group Policy
 --CO-- Windows Server 2012 R2 (70-413) Network Access Services
-Windows Server 2012 R2 (70-413) Network Infrastructure Services
+--CO-- Windows Server 2012 R2 (70-413) Network Infrastructure Services
 Windows Server 2012 R2 (70-411) Network Policy Server
-Windows Server 2012 R2 (70-413) Physical AD Infrastructure
+--CO-- Windows Server 2012 R2 (70-413) Physical AD Infrastructure
 --CO-- Windows Server 2012 R2 (70-413) Server Deployment
 Windows Server 2012 R2 (70-414) Server Infrastructure
-Windows Server 2012 R2 (70-410) Server Roles and Features
+--CO-- Windows Server 2012 R2 (70-410) Server Roles and Features
 Windows Server 2012 R2 (70-414) Virtualization Infrastructure
 Windows Server 2012 R2 Certificate Services
 Windows Server 2012 R2 New Features
@@ -5936,13 +5936,13 @@ Windows Server 2003 Windows Security
 Windows Server 2003 Windows Web Servers
 --CO-- Windows Server 2008 for Developers
 --CO-- Windows Server 2012 for Developers
-Windows Server Administration Fundamentals - Part 3
-Windows Server Administration Fundamentals Part 1
-Windows Server Administration Fundamentals Part 2
+--CO-- Windows Server Administration Fundamentals - Part 3
+--CO-- Windows Server Administration Fundamentals Part 1
+--CO-- Windows Server Administration Fundamentals Part 2
 Windows Server Administration Fundamentals Using PowerShell
 --CO-- Windows Server AppFabric Cache
 --CO-- Windows Server AppFabric Hosting Fundamentals
-Windows Server vNext First Look
+--CO-- Windows Server vNext First Look
 --CO-- Windows Store Apps - Data Binding in Depth
 --CO-- Windows Store Games with the Platformer Game Starter Kit
 Windows Virus and Malware Troubleshooting
