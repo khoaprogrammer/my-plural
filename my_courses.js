@@ -2534,7 +2534,7 @@ HoloLens Development Fundamentals
 Hosting SQL Server in Microsoft Azure IaaS Fundamentals
 Houdini VFX for Games
 Houdini: Intermediate Ocean FX
---TORR-- How Git Works
+--CO-- How Git Works
 How to Add Profit to Your Business by Adding Purpose
 How to Be a Great Mentee: Get More Out of Mentoring
 How to Be a Great Mentor: Get More out of Mentoring
@@ -3892,7 +3892,7 @@ Outside-In Test Driven Development SPA Edition
 Overcoming Common Android Performance Barriers
 Overcoming Tracking and Graphics Integration Issues in After Effects
 Overview of Maya Ocean Locators and Wakes
-Overview of the TOGAF� 9.1 Enterprise Architecture Framework
+--CO-- Overview of the TOGAF� 9.1 Enterprise Architecture Framework
 PCI DSS: The Big Picture
 Nginx and PHP Fundamentals
 PHP Web Application Security
