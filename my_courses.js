@@ -2062,7 +2062,7 @@ Exchange Server 2013 Core Solutions (70-341): Part 4
 Exchange Server 2010 High Availability
 Exchange Server 2013 New Features
 Exchange Server 2010 Part 4: Archiving and Unified Messaging
-Exchange Server 2007 Part 2: Configuration
+--CO-- Exchange Server 2007 Part 2: Configuration
 Exchange Server 2010 Part 2: Configuring Mailbox Settings
 Exchange Server 2003 Part 4: Disaster Recovery and Remote Access
 Exchange Server 2003 Part 1: Getting Started
@@ -2077,7 +2077,7 @@ Exchange Server 2003 Part 2: Setting up Remote Email
 Exchange Server 2003 Part 3: Storage and Server Management
 Exchange Server 2007 PowerShell
 Exchange Server 2016 Recipient Administration
-Exchange Server 2013 Regulatory Compliance
+--CO-- Exchange Server 2013 Regulatory Compliance
 Exchange Server 2013 Unified Messaging
 Exchange Server 2010 Unified Messaging
 Exchange Server 2013: Advanced Features
@@ -2726,7 +2726,7 @@ Innovative Uses for Masks and Mattes in After Effects
 Inside Guide to Becoming a Roto Artist with NUKE and Silhouette
 Inside Strategies for Growing Your Userbase
 Installation Images for Mac
-Installing SharePoint 2013 with PowerShell
+--CO-- Installing SharePoint 2013 with PowerShell
 Installing System Center 2012 Operations Manager
 Installing Windows Server 2016
 Installing and Configuring Apache Web Server
