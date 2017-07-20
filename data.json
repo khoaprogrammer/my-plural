@@ -1,8 +1,15 @@
 {
     "pluralsight": [
         {
-            "name": "ALM for Developers with Visual Studio 2012",
+            "name": "Working with Graph Algorithms in Python",
             "price": 25000,
+            "producer": "Pluralsight",
+            "url": "http://app.pluralsight.com",
+            "author": "Khoa Ngo" 
+        },
+        {
+            "name": "Moving Forward with Mongoose.js",
+            "price": 17000,
             "producer": "Pluralsight",
             "url": "http://app.pluralsight.com",
             "author": "Khoa Ngo" 
