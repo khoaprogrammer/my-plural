@@ -833,10 +833,10 @@ C++ Unit Testing Fundamentals Using Catch
 C++11 from Scratch
 --CO-- CAMWorks Fundamentals - Milling 2.5 &amp; 3 Axis
 CARA VR for NUKE
-CATIA V5 Essentials - Assembly Design Basics
-CATIA V5 Essentials - Part Modeling
-CATIA V5 Essentials - Revolve and Sweeps
-CATIA V5 Essentials: Symmetry and Patterns
+--CO-- CATIA V5 Essentials - Assembly Design Basics
+--CO-- CATIA V5 Essentials - Part Modeling
+--CO-- CATIA V5 Essentials - Revolve and Sweeps
+--CO-- CATIA V5 Essentials: Symmetry and Patterns
 CG101: 12 Principles of Animation
 CG101: Animation
 CG101: Cinematography
@@ -922,7 +922,7 @@ Characterizing Skeletons with MotionBuilder
 Check Point Certified Security Administrator: Backup and Updating
 Check Point Certified Security Administrator: Install &amp; Deploy
 Chef I
-Chocolatey NuGet Essentials for Automation Pros
+--CO-- Chocolatey NuGet Essentials for Automation Pros
 --CO-- Choosing a JavaScript Framework
 Cinema 4D Mograph Fundamentals
 Cinema 4D Rendering Fundamentals
@@ -997,7 +997,7 @@ Citrix XenServer 6: High Availability and Troubleshooting
 Citrix XenServer 6: Installing and Configuring
 --CO-- Claims-based Identity for Windows: The Big Picture
 Classification Using Tree Based Models
-Clean Architecture: Patterns, Practices, and Principles
+--CO-- Clean Architecture: Patterns, Practices, and Principles
 --CO-- Clean Code: Writing Code for Humans
 Clean Plating for Feature Films Using the NUKE to MARI Bridge
 --CO-- Clean View Models With Assisticant
@@ -1139,7 +1139,7 @@ Controlling an Agent's Actions in Massive Prime
 Converting Pixels to Vectors in Illustrator
 Converting a Photo into a VR Set in 3ds Max
 Converting 3ds Max Models to Presentation Plans in AutoCAD
-Coordinating Civil, Architecture &amp; Structure Models with Revit
+--CO-- Coordinating Civil, Architecture &amp; Structure Models with Revit
 Cordova Apps Using Angular, Typescript, and VSCode
 Core Administration - Skype for Business Server
 --CO-- Core Data Fundamentals
@@ -1213,7 +1213,7 @@ Creating Custom Inspectors in Unity
 Creating Custom Muscles in Maya
 Creating Custom Patterns in Illustrator
 Creating Custom Shaders in Houdini
-Creating Custom Structural Families in Revit
+--CO-- Creating Custom Structural Families in Revit
 Creating Custom Templates in ARCHICAD
 Creating Custom User Interfaces in Maya and Qt Designer
 Creating 3D Geometry from Vector Logos in After Effects
@@ -1339,7 +1339,7 @@ Creating Realistic Eyes in Photoshop and Softimage
 Creating Realistic Eyes in Photoshop and 3ds Max
 Creating Realistic Fire and Sparks in Maya
 Creating Realistic Terrains Using EcoSystems in Vue
-Creating Realistic Vegetation and Foliage with XGen and RenderMan
+--CO-- Creating Realistic Vegetation and Foliage with XGen and RenderMan
 Creating Realistic and Effective Product Renders in Maya
 Creating Responsive Landing Pages in Photoshop and CSS
 Creating Responsive Product Emails in Photoshop and HTML
@@ -1511,7 +1511,7 @@ Creating a Sci-fi Environment Concept in Photoshop
 Creating a Sci-fi Hero in Maya and Silo
 Creating a Sea Creature in Maya and ZBrush
 Creating a Secondary Game Vehicle in 3ds Max
-Creating a Secure Form with Acrobat DC
+--CO-- Creating a Secure Form with Acrobat DC
 Creating a Site Analysis in Revit
 Creating a Snake Rig for Animation in Maya
 Creating a Space Flight Simulator in Unreal Engine
@@ -1847,7 +1847,7 @@ Diagnostic Analyzers in Visual Studio 2015: First Look
 Digital Drawing and Painting in Illustrator and Photoshop
 Digital Forensics Tools in Kali Linux: Imaging and Hashing
 Digital Forensics: Getting Started with File Systems
-Digital Makeup in NUKE
+--CO-- Digital Makeup in NUKE
 Digitally Painting Armor and Attire for Character Designs in Photoshop
 Digitally Painting Forest Concepts in Photoshop
 Digitally Painting Visual Effects in Photoshop
@@ -1856,7 +1856,7 @@ Dinosaur Reconstruction in ZBrush
 --CO-- DirectComposition in Action
 --CO-- Direct2D Fundamentals
 --CO-- Direct2D Fundamentals - Part 2
-Disaster Recovery Planning: Step by Step
+--CO-- Disaster Recovery Planning: Step by Step
 Disaster Recovery for CompTIA Server+ (SK0-004)
 Disaster Recovery for Developers
 Discovering Business Analysis Information Through Elicitation
@@ -1943,7 +1943,7 @@ Elastic Scaling on Windows Azure
 Electron Fundamentals
 Electron Playbook
 Electronic Product Design in Rhino
-Electronics Fundamentals
+--CO-- Electronics Fundamentals
 Elements of Graphic Design
 Elm: Getting Started
 Email Template Design in Sketch and HTML
@@ -1963,7 +1963,7 @@ Energy Simulation in Revit
 Enhanced IK Animal Rigging in Maya
 Enhancing Application Communication with gRPC
 Enhancing Automotive Design Concepts in 3ds Max and Photoshop
-Enhancing 3D Families with 2D Components in Revit
+--CO-- Enhancing 3D Families with 2D Components in Revit
 Enhancing Environment Concepts with 3D Paint-overs in SketchUp and Photoshop
 Enhancing Maya Toolsets with Python
 Enhancing Rigs with Maya Muscle
@@ -2291,7 +2291,7 @@ Geospatial Mapping with D3
 --CO-- Get Involved!
 --CO-- Get Started With HTML5 Boilerplate
 Get Started with Assemblies in Autodesk Fusion 360
-Get Started with Part Modeling in Autodesk Inventor
+--CO-- Get Started with Part Modeling in Autodesk Inventor
 Getting Messy with Debris for Games in 3ds Max
 Getting More Responsiveness from Your Page in Edge Animate
 --CO-- Getting Productive with Chef Cookbooks
@@ -2357,7 +2357,7 @@ Getting Started with Ember 2
 --CO-- Getting Started with Enterprise Search Using Apache Solr
 --CO-- Getting Started with Entity Framework 5
 --DOWN-- Getting Started with Entity Framework 6
-Getting Started with Excel 2016 for Mac
+--CO-- Getting Started with Excel 2016 for Mac
 Getting Started with FPGA Programming with VHDL
 Getting Started with Freeform Modeling in Inventor
 Getting Started with Fur in MODO
@@ -2544,7 +2544,7 @@ How to Get Your Next Promotion
 How to Run Effective Meetings
 How to Speak to Business Leaders
 How to Start and Run A Consulting Business
-How to Start and Run a Successful Freelancing Business
+--CO-- How to Start and Run a Successful Freelancing Business
 How to Stop Man-in-the-Middle and Downgrade Attacks in Your Apps
 How to Think About Machine Learning Algorithms
 --CO-- Human Behavior for Technical People
@@ -2672,7 +2672,7 @@ InCopy CC Fundamentals
 InDesign CC 2017 Updates
 InDesign CC Building on the Fundamentals
 InDesign CC Business Stationery
-InDesign CC Creating AEM Mobile Apps
+--CO-- InDesign CC Creating AEM Mobile Apps
 InDesign CC Creating Fixed-Layout eBooks
 InDesign CC Designing a Book Cover and Spine
 InDesign CC Designing a Flyer
@@ -2762,7 +2762,7 @@ Integration Testing of Entity Framework Applications
 --CO-- Inter-switch Connectivity for CCNP Routing &amp; Switching 300-115 SWITCH
 Interior Lighting Manipulation in Photoshop
 Interior Lighting and Rendering Using Arnold in Maya
-Interior Modeling Techniques in 3ds Max
+--CO-- Interior Modeling Techniques in 3ds Max
 Interior Rendering Strategies with V-Ray and 3ds Max
 Interior Rendering Techniques with mental ray and 3ds Max
 Interior Rendering Techniques with mental ray and 3ds Max
@@ -2790,7 +2790,7 @@ Introduction to AI and Navigation Systems in Unreal Engine
 --CO-- Introduction to ASP.NET 4 WebForms
 --CO-- Introduction to ASP.NET MVC 3
 --CO-- Introduction to ASP.NET Web Services
-Introduction to Ableton Live 9
+--CO-- Introduction to Ableton Live 9
 --CO-- Introduction to Ada 2012
 Introduction to After Effects for Compositors
 Introduction to After Effects for Motion Designers
@@ -2816,7 +2816,7 @@ Introduction to ArtRage
 --CO-- Introduction to Async and Parallel Programming in .NET 4
 Introduction to AutoCAD
 Introduction to AutoCAD Civil 3D
-Introduction to Autodesk CFD 2016
+--CO-- Introduction to Autodesk CFD 2016
 Introduction to Autodesk Factory Design Utilities
 Introduction to Axure
 Introduction to Azure App Services
@@ -3055,7 +3055,7 @@ Introduction to Rendering in 3ds Max
 Introduction to Rendering with Cycles in Blender
 Introduction to Revit 2014
 Introduction to Revit Architecture 2016
-Introduction to Revit for Structural Engineers
+--CO-- Introduction to Revit for Structural Engineers
 Introduction to Rigging in Blender
 Introduction to Rigging in Houdini
 Introduction to Rigging in MODO
@@ -3076,8 +3076,8 @@ Introduction to Rotoscoping in Toxik
 --CO-- Introduction to Ruby on Rails 3
 --DOWN-- Introduction to Ruby on Rails 3 and 4
 --CO-- Introduction to SAP Integration for .NET Developers
-Introduction to SOLIDWORKS
-Introduction to SOLIDWORKS Motion
+--CO-- Introduction to SOLIDWORKS
+--CO-- Introduction to SOLIDWORKS Motion
 --CO-- Introduction to SQL
 --CO-- Introduction to SQL Server
 Introduction to SQuirreL Universal SQL Client
@@ -3196,7 +3196,7 @@ Introduction to the z/OS Mainframe Environment
 --CO-- Introduction to the z/OS TSO/ISPF Environment
 Inventor Essentials - Basic Drawings
 Inventor Essentials - Organic Shapes Using Loft
-Inventor Essentials - Visual Styles, Visualization, and Graphics
+--CO-- Inventor Essentials - Visual Styles, Visualization, and Graphics
 Inventor Essentials � Patterns and Symmetry
 Inventor File Management
 Inventor: Advanced Filleting Techniques
@@ -3330,7 +3330,7 @@ Lighting a Short Film Sequence in RenderMan
 Lighting and Rendering a Sci-Fi Hero using V-Ray in Maya
 Lighting and Rendering in Maya and Arnold
 Lighting and Rendering in Unity
-Lighting and Rendering with V-Ray for Revit
+--CO-- Lighting and Rendering with V-Ray for Revit
 Lighting and Shading in V-Ray for Maya
 Lighting in CryENGINE
 Lightroom CC Fundamentals
@@ -3758,7 +3758,7 @@ MySQL Fundamentals Part 2
 --CO-- .NET Regular Expressions
 --CO-- NHibernate Fundamentals
 --CO-- NPM Playbook
-NUKE Fundamentals
+--CO-- NUKE Fundamentals
 NUKE Gizmos for Guerrilla Production
 NUKE Green Screen Keying Building on the Fundamentals
 NUKE Green Screen Keying Fundamentals
@@ -3767,7 +3767,7 @@ NUKE Node Reference Library: Transform
 NUKE Rendering
 NUKE for After Effects Users
 NUKE's Deep Compositing Project Workflow
-NURBS for Organic 3D Modeling in AutoCAD
+--CO-- NURBS for Organic 3D Modeling in AutoCAD
 NanoMesh Workflows in ZBrush
 Narrative Scene Creation in ZBrush
 NativeScript: Animation Techniques
@@ -3904,20 +3904,20 @@ PMI-ACP�: Agile Methodologies (2 of 11)
 PMI-ACP�: Agile Team Dynamics, Performance, and Leadership (7 of 11)
 PMI-ACP�: Introduction to Agile Project Mgt and the PMI-ACP Exam (1 of 11)
 PMI-ACP�: Value-driven Delivery and Adaptive Planning (3 of 11)
-PMP� - Organizational Influences &amp; Project Management Lifecycle
-PMP� � Earning &amp; Retaining Your PMP� Certification
-PMP� � Introduction to Project Management &amp; the PMP� Exam
-PMP� � Project Communications Management
-PMP� � Project Cost Management
-PMP� � Project Human Resource Management
+--CO-- PMP® - Organizational Influences & Project Management Lifecycle
+--CO-- PMP® – Earning & Retaining Your PMP® Certification
+--CO-- PMP® – Introduction to Project Management & the PMP® Exam
+--CO-- PMP® – Project Communications Management
+--CO-- PMP® – Project Cost Management
+--CO-- PMP® – Project Human Resource Management
 PMP� � Project Integration Management
-PMP� � Project Procurement Management
-PMP� � Project Quality Management
-PMP� � Project Risk Management
-PMP� � Project Schedule Management
+--CO-- PMP® – Project Procurement Management
+--CO-- PMP® – Project Quality Management
+--CO-- PMP® – Project Risk Management
+--CO-- PMP® – Project Schedule Management
 PMP� � Project Scope Management
-PMP� � Project Stakeholder Management
-PMP� � Project Time Management
+--CO-- PMP® – Project Stakeholder Management
+--CO-- PMP® – Project Time Management
 POV-Ray Fundamentals
 PRINCE2 Agile� Passport
 PRINCE2� - Introducing the Value and Fundamentals
@@ -4043,7 +4043,7 @@ Planning and Deploying Office Web Apps 2013
 Planning and Designing Microsoft Azure Compute Solutions
 Planning and Executing a Complete Animation in Maya
 Planning and Implementing DirectAccess with Windows Server 2016
-Planning and Installing Chef
+--CO-- Planning and Installing Chef
 --CO-- Planning and Preparing to Migrate SCCM 2007 to SCCM 2012
 Planning for Business Analysis
 Planning for SharePoint Server 2016: Logical Architecture and Integrations
@@ -4111,7 +4111,7 @@ Play by Play: PowerShell from Idea to Action with Don Jones and Jeff Hicks
 ​Play by Play: Ruby Programming with Francis Hwang
 ​Play by Play: SQL Server Administration with Pinal Dave
 --CO-- Play by Play: Secure Remote Access with Windows Server 2012 R2
-Play by Play: Social Engineering with Troy Hunt and Lars Klint
+--CO-- Play by Play: Social Engineering with Troy Hunt and Lars Klint
 Play by Play: Solving Workplace Grumpiness
 --CO-- Play by Play: TDD with Brad Wilson
 Play by Play: Test-Driven PHP with Chris Hartjes
@@ -4213,7 +4213,7 @@ Prelude CC Fundamentals
 Premiere Clip Fundamentals
 Premiere Elements Fundamentals
 Premiere Pro CC 2017 Updates
-Premiere Pro CC Building on the Fundamentals
+--CO-- Premiere Pro CC Building on the Fundamentals
 Premiere Pro CC Fundamentals
 Premiere Pro CC Mastering Metadata
 Premiere Pro CC Multi-camera Editing
@@ -4291,7 +4291,7 @@ Professional Tips for Modeling Complex Shapes: Part 2
 Professional Tips for Modeling Complex Shapes: Part 3
 Professional Tips for Modeling Complex Shapes: Part 4
 Professional Tips for Modeling Complex Shapes: Part 1
-Professional Watercolor Renderings Using Photoshop and Revit
+--CO-- Professional Watercolor Renderings Using Photoshop and Revit
 --CO-- Professionalism for Developers
 Profile Manager for Mac
 --CO-- Programming PostgreSQL
@@ -4299,7 +4299,7 @@ Programming Tips and Tricks in Unity
 Progressive Web App Fundamentals
 Project 2013 Fundamentals for Business Professionals
 Project 2016 for Business Professionals
-Project Management Professional (PMP)�: Project Initiation
+--CO-- Project Management Professional (PMP)®: Project Initiation
 Project Management for Software Engineers
 Project Procurements, Performance, and Change Management
 --CO-- Project Server 2013 Installation
@@ -4312,7 +4312,7 @@ Prototyping Interactive Infographics and Maps in Edge Animate
 --CO-- Provable Code
 Providing Disaster Recovery with Azure Services
 Provision and Configure Web Applications in SharePoint 2016
-Psychological Editing in Adobe Premiere Pro
+--CO-- Psychological Editing in Adobe Premiere Pro
 Publishing Mobile Games with GameSalad
 Puppet 4: Hiera, the Single Source of Truth
 Puppet 4: Language Essentials
@@ -4528,7 +4528,7 @@ Restoring Old Photographs in Photoshop
 --CO-- Restoring Old and Damaged Photos in Photoshop
 Resume Development for Technical Professionals
 --CO-- Resumes and Self-marketing for Software Developers
-Resumes, Job Seeking, and Interviews in Context
+--CO-- Resumes, Job Seeking, and Interviews in Context
 Resumes, Research, and Writing on the Job Hunt
 Resurrecting Extinct Creatures in Photoshop
 Retargeting MoCap to Custom Rigs in Maya
@@ -4554,9 +4554,9 @@ Revit Architecture Conceptual Design Fundamentals
 Revit Architecture Design Development Fundamentals
 Revit Architecture Design Presentation Fundamentals
 Revit Essentials: Annotation Tools for Project Documentation
-Revit Essentials: Design Development Techniques for Interiors
-Revit Essentials: Interference Detection
-Revit Essentials: Modeling and Documenting MEP Systems
+--CO-- Revit Essentials: Design Development Techniques for Interiors
+--CO-- Revit Essentials: Interference Detection
+--CO-- Revit Essentials: Modeling and Documenting MEP Systems
 Revit MEP Essentials: Family Creation Workflows
 Revit MEP Fittings Family Creation
 Revit for AutoCAD Users
@@ -4614,44 +4614,44 @@ Rust Fundamentals
 SAP Business Warehouse Query Fundamentals
 SAP Business Warehouse: The Big Picture
 SAP Crystal Reports Fundamentals
-SAP: Getting Started
+--CO-- SAP: Getting Started
 --TORR-- SEO Fundamentals
 --TORR-- SMACSS: Scalable Modular Architecture for CSS
 --CO-- SOLID Principles of Object Oriented Design
-SOLIDWORKS - Advanced Filleting Techniques
-SOLIDWORKS - Advanced Mates
+--CO-- SOLIDWORKS - Advanced Filleting Techniques
+--CO-- SOLIDWORKS - Advanced Mates
 SOLIDWORKS - Creating Simplified General Arrangements
 SOLIDWORKS - Design Communication Documentation - Consumer Products
-SOLIDWORKS - File Management
-SOLIDWORKS - Layout Based Assembly Modeling
-SOLIDWORKS - Multi-body Part Design
+--CO-- SOLIDWORKS - File Management
+--CO-- SOLIDWORKS - Layout Based Assembly Modeling
+--CO-- SOLIDWORKS - Multi-body Part Design
 SOLIDWORKS - Preparing Designs for Sand Casting
-SOLIDWORKS - Working with Loft and Boundary Features
-SOLIDWORKS Advanced - Top-down Design
-SOLIDWORKS Drawings - Setting Up Properties and Templates
-SOLIDWORKS Essentials - Assembly Modeling
-SOLIDWORKS Essentials - Basic Drawings
-SOLIDWORKS Essentials - Basic Part Modeling
+--CO-- SOLIDWORKS - Working with Loft and Boundary Features
+--CO-- SOLIDWORKS Advanced - Top-down Design
+--CO-- SOLIDWORKS Drawings - Setting Up Properties and Templates
+--CO-- SOLIDWORKS Essentials - Assembly Modeling
+--CO-- SOLIDWORKS Essentials - Basic Drawings
+--CO-- SOLIDWORKS Essentials - Basic Part Modeling
 SOLIDWORKS Essentials - Configurations and Display States
-SOLIDWORKS Essentials - Designing Molded &amp; Casted Parts
-SOLIDWORKS Essentials - Editing Errors and Design Changes
-SOLIDWORKS Essentials - In-depth Drawings
+--CO-- SOLIDWORKS Essentials - Designing Molded &amp; Casted Parts
+--CO-- SOLIDWORKS Essentials - Editing Errors and Design Changes
+--CO-- SOLIDWORKS Essentials - In-depth Drawings
 SOLIDWORKS Essentials - In-depth Sweeps
-SOLIDWORKS Essentials - Revolve and Sweep
+--CO-- SOLIDWORKS Essentials - Revolve and Sweep
 SOLIDWORKS Essentials - Simulation XPress
-SOLIDWORKS Essentials - Symmetry and Basic Patterns
-SOLIDWORKS Mold Tools: 3D Printing a Mold
-SOLIDWORKS Sheet Metal - Enclosure Part Design
-SOLIDWORKS Sheet Metal - Sketch-driven Enclosure Assembly Design
+--CO-- SOLIDWORKS Essentials - Symmetry and Basic Patterns
+--CO-- SOLIDWORKS Mold Tools: 3D Printing a Mold
+--CO-- SOLIDWORKS Sheet Metal - Enclosure Part Design
+--CO-- SOLIDWORKS Sheet Metal - Sketch-driven Enclosure Assembly Design
 SOLIDWORKS Simulation - Dynamics
-SOLIDWORKS Simulation - Linear Static Assembly Analysis
-SOLIDWORKS Simulation - Linear Static Part Analysis
-SOLIDWORKS Simulation - Nonlinear
-SOLIDWORKS Simulation - Save Time with Simplification Methods
+--CO-- SOLIDWORKS Simulation - Linear Static Assembly Analysis
+--CO-- SOLIDWORKS Simulation - Linear Static Part Analysis
+--CO-- SOLIDWORKS Simulation - Nonlinear
+--CO-- SOLIDWORKS Simulation - Save Time with Simplification Methods
 SOLIDWORKS Simulation - Troubleshooting Common Errors
-SOLIDWORKS Simulation � Design Studies/Optimization
-SOLIDWORKS � Working with Curves and Splines
-SOLIDWORKS: Consumer Product Surfacing Design Techniques
+--CO-- SOLIDWORKS Simulation – Design Studies/Optimization
+--CO-- SOLIDWORKS – Working with Curves and Splines
+--CO-- SOLIDWORKS: Consumer Product Surfacing Design Techniques
 SOLIDWORKS: Design for Mill Manufacturing
 SOLIDWORKS: Weldments in Assemblies
 --CO-- SQL Azure
@@ -4730,13 +4730,13 @@ SQL Server: Understanding and Using Azure SQL Database
 --TORR-- SQL Server: Why Physical Database Design Matters
 --CO-- SQL on Hadoop - Analyzing Big Data with Hive
 --CO-- SQLite with Modern C++
-SSCP�: Access Controls
-SSCP�: Cryptography
-SSCP�: Incident Response and Recovery
-SSCP�: Introduction and the Exam Requirements
+--CO-- SSCP®: Access Controls
+--CO-- SSCP®: Cryptography
+--CO-- SSCP®: Incident Response and Recovery
+--CO-- SSCP®: Introduction and the Exam Requirements
 --CO-- SSCP�: Network and Communications Security
-SSCP�: Risk Identification, Monitoring, and Analysis
-SSCP�: Security Operations and Administration
+--CO-- SSCP®: Risk Identification, Monitoring, and Analysis
+--CO-- SSCP®: Security Operations and Administration
 SSCP�: Systems and Application Security
 --CO-- SSIS Design Patterns for Data Warehousing
 --CO-- SVG Fundamentals
@@ -5038,7 +5038,7 @@ Softimage Render Tree Reference Library: Illumination Nodes
 Softimage Render Tree Reference Library: Texture Nodes
 Software Defined Networking (SDN): The Big Picture
 --CO-- Software Engineering Essentials
---TORR-- Software Process Management
+--CO-- Software Process Management
 --CO-- Software Troubleshooting for CompTIA A+ (220-902)
 --CO-- Solution Modeling with UML in Visual Studio 2010
 Solve Math Problems with JavaScript
@@ -5256,7 +5256,7 @@ Threat Modeling: The Big Picture
 Tileable Texture Creation in ZBrush
 Time Management for Technical Professionals
 Time Management in a World of Interruptions
-Time-saving Workflows for Preparing Project Submittals in Revit
+--CO-- Time-saving Workflows for Preparing Project Submittals in Revit
 TimeLiner Simulation with Autodesk Navisworks
 10 Tips and Tricks for Compositing 3D Renders in Maya and NUKE
 Tips and Tricks in After Effects
@@ -5349,7 +5349,7 @@ Typography for the Web
 --CO-- UI Prototyping with Framer.js
 --CO-- URL Rewrite for Developers
 USB Forensics: Duplication
-USB Forensics: Fundamentals
+--CO-- USB Forensics: Fundamentals
 USB Forensics: Writeblocking and Impersonation
 UV Mapping Techniques for Games in 3ds Max
 UV Mapping Workflows in Blender
@@ -5448,7 +5448,7 @@ Usability Testing Approaches for UX Design
 --CO-- Useful jQuery Plugins
 --CO-- User Experience First and in Context
 User Experience Flow Modeling for Portfolio Websites in Photoshop
---TORR-- User Experience Tips and Tricks for Developers
+--CO-- User Experience Tips and Tricks for Developers
 User Experience: The Big Picture
 Using ASP.NET Core to Build Single-page Applications
 --CO-- Using ASP.NET MVC with Umbraco
@@ -5475,7 +5475,7 @@ Using Functoids in the BizTalk 2013 Mapper
 --TORR-- Using Git with a GUI
 --CO-- Using GitFlow
 --CO-- Using Glimpse With ASP.NET, MVC4, and Entity Framework
---DOWN-- Using Google PageSpeed Insights to Improve Web Performance
+--CO-- Using Google PageSpeed Insights to Improve Web Performance
 --TORR-- Using Google's Cloud For Developers - Google BigQuery
 Using HDR Images for 3D Lighting in Maya
 --CO-- Using HTML5 and CSS3
