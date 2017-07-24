@@ -96,7 +96,7 @@ Acrobat DC Fundamentals
 Acrobat DC Updates
 Acrobat DC Working with Forms
 Acrobat XI Fundamentals for Business Professionals
-Action Scene Editing Techniques
+--CO-- Action Scene Editing Techniques
 --CO-- Active Directory Programming for Developers
 Adding Dynamics to a Mermaid Animation with Bifrost in Maya
 Adding Facial Topology in Maya
@@ -135,7 +135,7 @@ Advanced Character Modeling in ZBrush and Photoshop
 Advanced Character Rigging in Maya
 Advanced Character Rigging in 3ds Max
 Advanced Clean Plate Techniques in NUKE
-Advanced Color Grading in Adobe SpeedGrade CC and Premiere Pro CC
+--CO-- Advanced Color Grading in Adobe SpeedGrade CC and Premiere Pro CC
 Advanced Compositing Techniques in NUKE: Space Scene
 Advanced Creature-painting Techniques in Photoshop
 Advanced Editing Theories and Techniques in Premiere Pro
@@ -166,7 +166,7 @@ Advanced Redux
 Advanced Rigid Body Dynamics Using Proxy Objects in Houdini
 Advanced Rotoscope and Keying Techniques in mocha and NUKE
 Advanced Routing for Cisco CCNA 200-125/200-105
-Advanced SOLIDWORKS: Solid and Surface Hybrid Modeling
+--CO-- Advanced SOLIDWORKS: Solid and Surface Hybrid Modeling
 Advanced SQL Queries in Oracle and SQL Server
 Advanced Salt Master Tools
 Advanced Security for CCNA Security (210-260) IINS
@@ -191,15 +191,15 @@ After Effects CC Animating Lip Sync
 After Effects CC Animating with Shape Layers
 After Effects CC Building on the Fundamentals
 After Effects CC Character Animator
-After Effects CC Compositing
-After Effects CC Creating Your First Animation
+--CO-- After Effects CC Compositing
+--CO-- After Effects CC Creating Your First Animation
 After Effects CC 3D Titling in Cinema 4D Lite
-After Effects CC Fundamentals
+--CO-- After Effects CC Fundamentals
 After Effects CC Paint Tools
 After Effects CC Puppet Pin Tool
 After Effects CC Rendering
 After Effects CC Rotoscoping
-After Effects CC Shape and Type Animation
+--CO-- After Effects CC Shape and Type Animation
 After Effects CC Updates
 After Effects CC With Cinema 4D Lite
 After Effects Expressions Made Easy
@@ -221,7 +221,7 @@ Aircraft Modeling and Texturing Techniques in Maya and Silo
 --CO-- Akka.NET Persistence Fundamentals
 --CO-- Akka.NET Testing Fundamentals
 --CO-- Alan Turing's Wonderful Machine
-Alchemy Synth Fundamentals in Logic Pro
+--CO-- Alchemy Synth Fundamentals in Logic Pro
 --CO-- Algorithms and Data Structures - Part 2
 --CO-- Algorithms and Data Structures - Part 1
 Alien Concept Design in ZBrush
@@ -395,7 +395,7 @@ Apple Certified Technical Coordinator 10.11: Using Collaborative Services
 Application Layer Protocols for Cisco CCNA 200-125/100-105
 --CO-- Applied Windows Azure
 --CO-- Applying Concurrency and Multi-threading to Common Java Patterns
-Applying Filters in ARCHICAD
+--CO-- Applying Filters in ARCHICAD
 --CO-- Applying Functional Principles in C#
 Applying MapReduce to Common Data Problems
 Applying Matte Painting Techniques to Image Editing for the Web in Photoshop
@@ -515,7 +515,7 @@ Basics of Unit Testing for C# Developers
 --CO-- Become a Full-stack .NET Developer
 --CO-- Become a Full-stack .NET Developer - Advanced Topics
 --CO-- Become a Full-stack .NET Developer - Architecture and Testing
-Becoming a Better Listener
+--CO-- Becoming a Better Listener
 Becoming a Character Setup Artist in CINEMA 4D
 --CO-- Becoming a .NET Developer
 Becoming a SAP Business Warehouse Query Expert
@@ -558,9 +558,9 @@ Beginner's Guide to Vector Drawing in Illustrator
 Beginner's Guide to Vue
 Beginner's Guide to ZBrush
 Beginner's Guide to 3ds Max
-Beginning After Effects CC
+--CO-- Beginning After Effects CC
 --CO-- Beginning Automated Testing of Xamarin Applications
-Beginning 2D Computer Animation in After Effects
+--CO-- Beginning 2D Computer Animation in After Effects
 Beginning Data Exploration and Analysis with Apache Spark
 --CO-- Beginning Data Visualization with R
 --CO-- Beginning HTML 5 Game Development With Quintus
@@ -668,7 +668,7 @@ Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio, and C# - P
 Building Cross-platform Applications with .NET Core
 Building Data Centric Apps with Angular and BreezeJS
 --CO-- Building Data-Centric Single Page Apps with Breeze
-Building Data-driven Prototypes in Axure
+--CO-- Building Data-driven Prototypes in Axure
 --CO-- Building Data-driven React Applications with Relay, GraphQL, and Flux
 --CO-- Building Distributed Applications with Go
 --CO-- Building Distributed Systems with Akka.NET Clustering
@@ -831,7 +831,7 @@ C# 7: First Look
 --CO-- C++11 Language Features
 C++ Unit Testing Fundamentals Using Catch
 C++11 from Scratch
-CAMWorks Fundamentals - Milling 2.5 &amp; 3 Axis
+--CO-- CAMWorks Fundamentals - Milling 2.5 &amp; 3 Axis
 CARA VR for NUKE
 CATIA V5 Essentials - Assembly Design Basics
 CATIA V5 Essentials - Part Modeling
@@ -888,7 +888,7 @@ Case Studies in Project Management
 Cellular Death Animation Using RealFlow and Cinema 4D
 Centralized Logging with the Elastic Stack: Getting Started
 Change It Up!
-Changing Seasons in After Effects and Photoshop
+--CO-- Changing Seasons in After Effects and Photoshop
 Character Capturing Using Proximity in Houdini
 Character Capturing with Capture Regions in Houdini
 Character Concept Design and Development in Photoshop
@@ -1023,7 +1023,7 @@ Coding Dojo: Test Driven Development
 Coding for Views
 --CO-- CoffeeScript Fundamentals
 Collaborative Workflows in Storyboard Pro
-Color Correction and Grading in Premiere Pro and SpeedGrade
+--CO-- Color Correction and Grading in Premiere Pro and SpeedGrade
 Color Theory for Today's Creative Professionals
 Coloring a Beauty Sketch in Photoshop
 Combining Painted and Image-based Textures in MARI
@@ -1046,9 +1046,9 @@ CompTIA Security+ (SY0-401) Access Control and Identity Management
 --CO-- CompTIA Security+ (SY0-401) Cryptography
 CompTIA Security+ (SY0-401) Network Security
 --CO-- CompTIA Security+ (SY0-401) Threats and Vulnerabilities
-CompTIA Storage+ Part 3: Data Protection &amp; Storage
-CompTIA Storage+ Part 2: Network Storage &amp; Data Replication
-CompTIA Storage+ Part 1: Storage Fundamentals
+--CO-- CompTIA Storage+ Part 3: Data Protection &amp; Storage
+--CO-- CompTIA Storage+ Part 2: Network Storage &amp; Data Replication
+--CO-- CompTIA Storage+ Part 1: Storage Fundamentals
 Compiled Data Binding Fundamentals in UWP Using XAML
 Complex Surface Modeling in Rhino
 Composer: Getting Started
@@ -1268,7 +1268,7 @@ Creating Graphs in Illustrator
 Creating HDRI Environments for 3D Lighting in Photoshop and Maya
 Creating Hair for Next-Gen Game Characters in Maya
 Creating Hairstyles with Maya Hair
-Creating Hi-tech Projectile Weaponry In NUKE
+--CO-- Creating Hi-tech Projectile Weaponry In NUKE
 Creating High Resolution Characters in ZBrush
 Creating High Resolution Studio Renders in 3ds Max and V-Ray
 Creating Hologram Effects for Video in Maya and After Effects
@@ -1505,7 +1505,7 @@ Creating a Rocket Swarm with Procedural Volume Copying in Houdini
 Creating a Roman Warrior Agent in Massive Prime
 Creating a Sci-Fi Gun in Blender
 Creating a Sci-Fi Robot Warrior in ZBrush
-Creating a Sci-Fi UI with Trapcode Form in After Effects
+--CO-- Creating a Sci-Fi UI with Trapcode Form in After Effects
 Creating a Sci-Fi Villain in Maya and Silo
 Creating a Sci-fi Environment Concept in Photoshop
 Creating a Sci-fi Hero in Maya and Silo
@@ -1527,7 +1527,7 @@ Creating a Stylized Set Element for Games in Maya
 Creating a Sunset Environment with Daylight Shots in Photoshop
 Creating a Swampy Landscape Using V-Ray Scatter in Maya
 Creating a T-Shirt Design in Illustrator and Photoshop
-Creating a Teleportation Effect with Cloud Tank Effects Footage
+--CO-- Creating a Teleportation Effect with Cloud Tank Effects Footage
 Creating a Tileable Material in Substance Designer
 Creating a Time-lapse in CINEMA 4D
 Creating a Toy Model for Rapid Prototyping in Rhino
@@ -1637,7 +1637,7 @@ Cyber Security Awareness: The Protection and Destruction of Portable Data
 Cyber Security While Traveling
 --CO-- Cybersecurity Threats: Ransomware
 3D Assisted Facial Morphing in CINEMA 4D and NUKE
-2D CNC Milling at Its Best in Autodesk Inventor HSM
+--CO-- 2D CNC Milling at Its Best in Autodesk Inventor HSM
 3D Concept Creation in V-Ray for Maya
 3D Integration and Relighting in NUKE
 3D Pan and Tile Sky Replacement in NUKE
@@ -1932,7 +1932,7 @@ EMC� Unity� Virtual Storage Appliance - Deploy and Configure
 Easily Estimate Projects Using Statistics and Excel
 Edge Animate Fundamentals
 Editing Dialogue in Premiere Pro
-Editing a Music Video in AVID Media Composer
+--CO-- Editing a Music Video in AVID Media Composer
 Editing for Documentaries in Premiere Pro
 Effective C# Unit Testing for Enterprise Applications
 Effective Email Communication
@@ -2461,7 +2461,7 @@ Google Analytics for Creative Professionals
 --CO-- Google Charts By Example
 Google Glass: First Look
 --CO-- Google Maps API: Get Started
-Google+ For Business
+--CO-- Google+ For Business
 Gory Effects on a Budget in CINEMA 4D and NUKE
 Grading with Feature Lines in Civil 3D
 Gradle Fundamentals
@@ -2786,7 +2786,7 @@ Introduction To Visualforce
 Introduction to ABAP Objects: Concepts &amp; Class Builder
 Introduction to ABAP for SAP Business Warehouse Developers
 Introduction to AI and Navigation Systems in Unreal Engine
-Introduction to ANSYS
+--CO-- Introduction to ANSYS
 --CO-- Introduction to ASP.NET 4 WebForms
 --CO-- Introduction to ASP.NET MVC 3
 --CO-- Introduction to ASP.NET Web Services
@@ -3344,7 +3344,7 @@ Linear Workflow Rendering Strategies in 3ds Max
 Linear Workflow Strategies in MARI
 Linear Workflow in After Effects
 LinkedIn Fundamentals
-LinkedIn Strategy: Optimize Your Profile
+--CO-- LinkedIn Strategy: Optimize Your Profile
 --CO-- LinkedIn: Proactive Strategies
 Linux Administration with sed and awk
 Linux Advanced File System Management (LPIC-2)
@@ -3721,7 +3721,7 @@ Motorcycle Modeling Techniques in Maya
 Motorcycle Modeling Techniques in 3ds Max
 --TORR-- Moving Beyond JSON and XML with Protocol Buffers
 Moving Beyond the Basics with Xamarin.Forms
-Moving Character Morphs in NUKE
+--CO-- Moving Character Morphs in NUKE
 Moving from Technical Professional to Management
 --CO-- Moving from VB6 to VB.NET
 Mudbox for ZBrush Artists
@@ -3839,7 +3839,7 @@ Office 365: Introduction to OneDrive for Business
 Office 365: Introduction to the Outlook Web App
 On Polyglot Programming
 On-premises Installation of SharePoint 2016
-Onboard Yourself: What to Do After You Land Your Dream Job
+--CO-- Onboard Yourself: What to Do After You Land Your Dream Job
 --CO-- One ASP.NET From Scratch
 One Size Does Not Fit All: Find the Job You Want
 --CO-- OneDrive for Business
@@ -5033,7 +5033,7 @@ Small Business Server 2003: Installation
 --TORR-- Smash into Vim
 So You Want to be an Entrepreneur?
 Social Media Marketing for Your Startup
-Social Media: The Big Picture
+--CO-- Social Media: The Big Picture
 Softimage Render Tree Reference Library: Illumination Nodes
 Softimage Render Tree Reference Library: Texture Nodes
 Software Defined Networking (SDN): The Big Picture
@@ -6007,7 +6007,7 @@ Working with Sheets in Revit
 Working with Spotlight in ZBrush
 Working with Surfaces in AutoCAD Civil 3D
 Working with Tables in InDesign
-Working with Walls, Floors and Roofs in Revit
+--CO-- Working with Walls, Floors and Roofs in Revit
 --CO-- Working with the Sysinternals Toolkit
 Working with the Type Tool in Photoshop
 --CO-- Write Less Code with Xamarin Designer
