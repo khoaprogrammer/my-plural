@@ -70,7 +70,7 @@ AWS Security Fundamentals
 AWS Security Operations: Designing for Acceptable Risk and Compliance
 AWS Security Operations: Securing Access to Object Storage
 AWS Security Operations: Securing Core AWS Infrastructure Services
-AWS VPC Operations
+--CO-- AWS VPC Operations
 --CO-- Abstract Art: Getting Things "Just Right"
 --CO-- Accelerated C# Fundamentals
 --CO-- Accelerated Introduction to C++
@@ -177,13 +177,13 @@ Advanced Subsurface Scattering Techniques in Maya and mental ray
 Advanced Techniques and Workflows in Vue
 --CO-- Advanced Techniques in JavaScript and jQuery
 --CO-- Advanced Theming For Drupal 7
-Advanced TypeScript
+--CO-- Advanced TypeScript
 --CO-- Advanced Unit Testing
 Advanced V-Ray Techniques for Film and TV
 Advanced Web Application Penetration Testing with Burp Suite
 --CO-- Advanced Windows Debugging - Part 1
 --CO-- Advanced Windows Debugging - Part 2
-Advanced Windows PowerShell Desired State Configuration
+--CO-- Advanced Windows PowerShell Desired State Configuration
 Advancing Your Matchmoving Techniques in PFTrack and Maya
 Advancing Your Skills in PFDepth
 After Effects CC 2017 Updates
@@ -266,7 +266,7 @@ Android Fundamentals: Styles and Themes
 --CO-- Android Processes and Threads
 --CO-- Android Programming with Intents
 Android Realm Fundamentals
-Android Services Fundamentals
+--CO-- Android Services Fundamentals
 --CO-- Android for .NET Developers: 3 Adopting The Android Mindset
 --CO-- Android for .NET Developers: 2 Building Apps With Android Studio
 --CO-- Android for .NET Developers: 1 Getting Started
@@ -279,8 +279,8 @@ Angular Forms
 --CO-- Angular Material Fundamentals
 Angular Reactive Forms
 --CO-- Angular Routing In-depth
-Angular: First Look
-Angular: Getting Started
+--CO-- Angular: First Look
+--CO-- Angular: Getting Started
 AngularJS Application Development
 AngularJS Best Practices
 AngularJS Directives Fundamentals
@@ -665,7 +665,7 @@ Building Complex Surface Geometry in SOLIDWORKS
 Building Cross-Platform Mobile Apps with Telerik AppBuilder
 Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio and C# - Part 2
 Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio, and C# - Part 1
-Building Cross-platform Applications with .NET Core
+--CO-- Building Cross-platform Applications with .NET Core
 Building Data Centric Apps with Angular and BreezeJS
 --CO-- Building Data-Centric Single Page Apps with Breeze
 --CO-- Building Data-driven Prototypes in Axure
@@ -687,7 +687,7 @@ Building High-Performance Windows 8 Applications
 Building JAX-WS Web Services with Apache CXF
 --CO-- Building Line of Business Applications with Visual Studio LightSwitch 2015
 --CO-- Building Mobile Apps With the Ionic Framework and AngularJS
-Building Mobile Apps with Ionic 2, Angular 2, and TypeScript
+--CO-- Building Mobile Apps with Ionic 2, Angular 2, and TypeScript
 Building Mobile Apps with Visual Studio Tools for Apache Cordova
 --CO-- Building Mobile Web Sites Using Web Forms, Bootstrap, and HTML5
 Building Modern Navigation Designs in Photoshop and HTML
@@ -737,7 +737,7 @@ Building Windows 8 Apps with C++ and XAML
 Building Windows Store Business Apps with Prism
 Building Your Cyber Security Vocabulary
 Building Your First API with ASP.NET Core
-Building Your First ASP.NET Core Web Application
+--CO-- Building Your First ASP.NET Core Web Application
 Building Your First Android Database Application with SQLite
 --CO-- Building Your First Game For Android And The PC Using Java
 --CO-- Building Your First Windows Phone App
@@ -766,7 +766,7 @@ Building a Parametric Tree in Revit
 Building a Pop-up Style Broadcast Opener in CINEMA 4D and After Effects
 Building a Pragmatic Unit Test Suite
 Building a Professional Tracking Pipeline in Maya and SynthEyes
-Building a RESTful API with ASP.NET Core
+--CO-- Building a RESTful API with ASP.NET Core
 Building a Re-lighting Filter in Pixel Bender
 --CO-- Building a Real Application With Kinect
 --CO-- Building a Real World iOS Application with Swift
@@ -1124,7 +1124,7 @@ Constructing Glyphs for Logos by Hand in Illustrator
 --CO-- Consuming Web Services and Using Local Storage on iOS
 Containers and Images: The Big Picture
 --CO-- Context and Dependency Injection (CDI 1.1)
-Continuous Delivery Using Docker And Ansible
+--CO-- Continuous Delivery Using Docker And Ansible
 --CO-- Continuous Deployment with Team Foundation Server 2010
 --CO-- Continuous Integration
 Continuous Integration and Continuous Delivery: The Big Picture
@@ -1655,7 +1655,7 @@ DSLR Video Fundamentals
 --CO-- Data Layer Validation with Entity Framework 4.1+
 --CO-- Data Mining Algorithms in SSAS, Excel, and R
 --CO-- Data Science &amp; Hadoop Workflows at Scale With Scalding
-Data Science with R
+--CO-- Data Science with R
 Data Transformations with Apache Pig
 --CO-- Data Visualization for Developers
 --CO-- Data Visualizations Using Tableau Public
@@ -1672,7 +1672,7 @@ Dealing with Irrational Customers and Escalating Complaints
 Debugging Chronicles I
 Debugging Chronicles II
 --CO-- Debugging Chronicles III
-Debugging Go Applications with Delve
+--CO-- Debugging Go Applications with Delve
 Debugging the Web with FireBug, WebDeveloper, and Fiddler
 Deep Compositing Techniques in V-Ray and NUKE
 Deep Compositing an Alien Invasion in NUKE and Arnold
@@ -1785,7 +1785,7 @@ Designing an Action Composition in Illustrator
 Designing an Album Cover in Photoshop
 Designing an Underwater Scene in CINEMA 4D and After Effects
 Designing an iPhone App in Axure
-Designing and Building Component-based AngularJS Applications
+--CO-- Designing and Building Component-based AngularJS Applications
 Designing and Documenting a Building in Revit
 Designing and Implementing Security Policies
 Designing and Modeling a Sci-fi Prop in Blender
@@ -1868,7 +1868,7 @@ Distorting Nature in After Effects
 Docker Deep Dive
 Docker Networking
 Docker Swarm: Native Docker Clustering
-Docker and Containers: The Big Picture
+--CO-- Docker and Containers: The Big Picture
 --CO-- Docker for Web Developers
 --CO-- Dojo Fundamentals
 --CO-- Domain-Driven Design Fundamentals
@@ -2026,9 +2026,9 @@ Ethical Hacking: Evading IDS, Firewalls, and Honeypots
 --CO-- Ethical Hacking: Malware Threats
 Ethical Hacking: Penetration Testing
 --CO-- Ethical Hacking: Reconnaissance/Footprinting
-Ethical Hacking: SQL Injection
+--CO-- Ethical Hacking: SQL Injection
 --CO-- Ethical Hacking: Scanning Networks
-Ethical Hacking: Session Hijacking
+--CO-- Ethical Hacking: Session Hijacking
 --CO-- Ethical Hacking: Sniffing
 Ethical Hacking: Social Engineering
 --CO-- Ethical Hacking: System Hacking
@@ -2321,9 +2321,9 @@ Getting Started with After Effects
 Getting Started with After Effects CS4
 --CO-- Getting Started with Android Material Design
 Getting Started with Ansible on Windows
-Getting Started with Apache Kafka
+--CO-- Getting Started with Apache Kafka
 Getting Started with Assets in Maya
---DOWN-- Getting Started with Asynchronous Programming in .NET
+--CO-- Getting Started with Asynchronous Programming in .NET
 Getting Started with Audition
 --CO-- Getting Started with Augmented Reality on Android Devices
 --CO-- Getting Started with Augmented Reality on Android Devices
@@ -2652,7 +2652,7 @@ Implementing a Security Assessment and Authorization Process
 --CO-- Implementing an API in ASP.NET Web API
 Implementing and Managing Azure Multi-factor Authentication
 --CO-- Implementing and Securing Windows Server 2016 Core Networking
-Implementing and Securing an API with ASP.NET Core
+--CO-- Implementing and Securing an API with ASP.NET Core
 --CO-- Implementing the Reactive Manifesto with Azure and AWS
 Importing and Exporting Oracle Data for DBAs
 Importing and Exporting Oracle Data for Developers
@@ -2729,7 +2729,7 @@ Installation Images for Mac
 --CO-- Installing SharePoint 2013 with PowerShell
 Installing System Center 2012 Operations Manager
 Installing Windows Server 2016
-Installing and Configuring Apache Web Server
+--CO-- Installing and Configuring Apache Web Server
 Installing and Configuring Citrix XenMobile on VMware vSphere
 Installing and Configuring Office Online Server
 Installing and Configuring Windows 10
@@ -2740,7 +2740,7 @@ Integrating Angular with Node.js RESTful Services
 Integrating 3D Renders into 2D Art in Photoshop
 Integrating 3D Titles into Footage in NUKEX
 Integrating 3D Type into Images in Photoshop
---DOWN-- Integrating Docker with DevOps Automated Workflows
+--CO-- Integrating Docker with DevOps Automated Workflows
 Integrating Lead Forms, Salesforce, Slack, and Email with AWS
 --CO-- Integrating Linux in a Windows Enterprise Environment
 Integrating Live Action and CG in NUKE and RenderMan for Maya
@@ -3237,7 +3237,7 @@ JavaScript Asynchronous Module Definition (AMD) Explained
 --CO-- JavaScript From Scratch
 --CO-- JavaScript Fundamentals
 --CO-- JavaScript Fundamentals for ES6
-JavaScript Module Fundamentals
+--CO-- JavaScript Module Fundamentals
 --CO-- JavaScript Objects and Prototypes
 --TORR-- JavaScript Templating with Handlebars
 --CO-- JavaScript for C# Developers
@@ -4061,7 +4061,7 @@ Play by Play: AngularJS Application Design with John Papa and Ward Bell
 ​Play by Play: App Development in Rails and Ember.js with Yehuda Katz
 ​Play by Play: Application Development with Shawn Wildermuth
 Play by Play: Azure Beyond Websites
-Play by Play: Azure Security with Mark Russinovich
+--CO-- Play by Play: Azure Security with Mark Russinovich
 --CO-- ​Play by Play: Building a Node Web API with Sam Artioli and John Papa
 ​Play by Play: Building a Python Code Stats Tool with Zed Shaw
 ​--CO-- Play by Play: C# Q&amp;A with Scott Allen and Jon Skeet
@@ -4071,7 +4071,7 @@ Play by Play: Crafting a Brand for Growth and Prosperity
 Play by Play: Deploying an Angular 2 App to Azure with Git with John Papa and Shayne Boyer
 --CO-- Play by Play: Discovering PowerShell with Mark Minasi
 Play by Play: Docker for Java Developers with Arun Gupta and Michael Hoffman
-​Play by Play: Docker for Web Developers with John Papa and Dan Wahlin
+--CO-- Play by Play: Docker for Web Developers with John Papa and Dan Wahlin
 Play by Play: Elastic Scale and Consistency with Azure Automation DSC
 Play by Play: Enterprise Data Encryption with Azure Revealed
 Play by Play: Ethical Hacking - Deconstructing the Hack
@@ -4456,7 +4456,7 @@ Realistic Skin Shading, Lighting, and Rendering in 3ds Max and V-Ray
 Realistic Texturing of Modular Structures in Substance Painter 2
 Reasoning About Asynchronous JavaScript
 Rebranding Workflows in Illustrator and Photoshop
-Rebuilding Web Forms Applications in MVC
+--CO-- Rebuilding Web Forms Applications in MVC
 Recoloring Artwork in Illustrator
 Recreating Retro Typefaces for Logos in Illustrator
 Recreating a Character Sketch in Illustrator
@@ -5386,7 +5386,7 @@ Understanding Machine Learning
 Understanding Mobile App Components in InDesign
 --CO-- Understanding .NET and WCF Transactions
 --CO-- Understanding NoSQL
---TORR-- Understanding OWIN and Katana
+--CO-- Understanding OWIN and Katana
 Understanding Object Transformations in InDesign
 Understanding Perspective Drawing in Illustrator
 --CO-- Understanding Server Hardware
