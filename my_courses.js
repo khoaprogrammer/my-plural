@@ -467,7 +467,7 @@ AutoCAD Essentials: Creating Sheet Sets
 --CO-- Automated ASP.NET MVC Testing: End to End
 --CO-- Automated Acceptance Testing with SpecFlow and Gherkin
 --CO-- Automated Business Readable Web Tests with Selenium and SpecFlow
--_CO-- Automated Testing for Fraidy Cats Like Me
+--CO-- Automated Testing for Fraidy Cats Like Me
 --CO-- Automated Testing in ASP.NET With SpecsFor and SpecsFor.Mvc
 --CO-- Automated Testing: End to End
 --CO-- Automated Tests with PHPUnit
