@@ -648,8 +648,8 @@ Building Applications Using Spring JDBC
 --CO-- Building Applications with React and Flux
 --CO-- Building Applications with React and Redux in ES6
 --CO-- Building Apps With Durandal 2, MVC 5, Breeze, and Bootstrap 3
-Building Apps with AngularJS and Breeze - Part 1
-Building Apps with AngularJS and Breeze - Part 2
+--CO-- Building Apps with AngularJS and Breeze - Part 1
+--CO-- Building Apps with AngularJS and Breeze - Part 2
 --CO-- Building Apps with Azure Mobile Svcs, SignalR, MVC, Win 8 and WP8
 --CO-- Building Asynchronous RESTful Services With Jersey
 Building Attractive Banner Ads in Flash and Photoshop
@@ -1163,7 +1163,7 @@ Creating Animal Fur for Games in Substance Painter
 Creating Animated Graphs in CINEMA 4D
 Creating Animated Icons for the Web in Flash
 Creating Animated Web and Social Media Banners in Photoshop and Flash
-Creating Apps With AngularJS, Node, and Token Authentication
+--CO-- Creating Apps With AngularJS, Node, and Token Authentication
 Creating Architectural Visualizations Using Enlighten in Unity
 Creating Artistic Playing Cards in Photoshop
 Creating Artistic Water Drops in CINEMA 4D
@@ -2487,7 +2487,7 @@ HTML Document Flow
 --CO-- HTML Fundamentals
 --CO-- HTML5 Fundamentals
 --CO-- HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API
-HTML5 Offline Applications with AngularJS, IndexedDB, and Bootstrap
+--CO-- HTML5 Offline Applications with AngularJS, IndexedDB, and Bootstrap
 --CO-- HTML5 Web Component Fundamentals
 --CO-- HTML5 Web Storage, IndexedDB and File System
 --CO-- HTML for the XAML Developer
