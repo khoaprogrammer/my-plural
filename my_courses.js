@@ -34,7 +34,7 @@ ASA Threat Control for CCNP Security (300-206) SENSS
 --CO-- ASP.NET Ajax JavaScript and jQuery
 --CO-- ASP.NET Bundling, Minification &amp; Resource Optimization
 --CO-- ASP.NET Core 1.0 Fundamentals
-ASP.NET Core Fundamentals
+--CO-- ASP.NET Core Fundamentals
 ASP.NET Core Internationalization Deep Dive
 ASP.NET Core MVC Testing Fundamentals
 ASP.NET Core Razor Deep Dive
@@ -277,15 +277,15 @@ Angular Forms
 --CO-- Angular Fundamentals
 --CO-- Angular Fundamentals
 --CO-- Angular Material Fundamentals
-Angular Reactive Forms
+--CO-- Angular Reactive Forms
 --CO-- Angular Routing In-depth
 --CO-- Angular: First Look
 --CO-- Angular: Getting Started
 AngularJS Application Development
-AngularJS Best Practices
+--CO-- AngularJS Best Practices
 AngularJS Directives Fundamentals
 --CO-- AngularJS Forms Using Bootstrap and MVC 5
-AngularJS Front to Back with Web API
+--CO-- AngularJS Front to Back with Web API
 --CO-- AngularJS In-Depth
 --CO-- AngularJS Line of Business Applications
 --CO-- AngularJS Patterns: Clean Code
@@ -1014,7 +1014,7 @@ Cloud Design Patterns for Azure: Data Management and Performance
 Cloud Design Patterns for Azure: Design and Implementation
 --CO-- Cloud Foundry for Developers
 Cloud Oriented Programming
---TORR-- Code Contracts 				
+--CO-- Code Contracts 				
 --CO-- Code Testability
 Code with Us: Angular Quick Start
 Code-first Entity Framework with Legacy Databases
@@ -5707,7 +5707,7 @@ WPF Productivity Playbook
 10 Ways to Improve Your Modeling in Maya
 10 Ways to Improve Your Modeling in 3ds Max
 10 Ways to Work Faster in NUKE
---TORR-- Web API Design
+--CO-- Web API Design
 --TORR-- Web API v2 Security
 --CO-- Web Accessibility: Getting Started
 Web App Hacking: Caching Problems
