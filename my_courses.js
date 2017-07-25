@@ -639,7 +639,7 @@ Build and Deploy SSRS Mobile Reports
 --CO-- Building ASP.NET Web API OData Services
 Building Advanced JavaScript Animations with GSAP
 Building Advanced PowerShell Functions and Modules
-Building AngularJS and Node.js Apps with the MEAN Stack
+--CO-- Building AngularJS and Node.js Apps with the MEAN Stack
 Building Applications Using Elastic Beanstalk
 Building Applications Using Spring JDBC
 --CO-- Building Applications with ASP.NET MVC 4
@@ -755,7 +755,7 @@ Building a Custom Re/RimLighter Tool with NUKE
 --CO-- Building a Game of Memory with SignalR
 Building a Global App with Azure PaaS
 --CO-- Building a High Traffic, Profitable Blog
-Building a JavaScript Development Environment
+--CO-- Building a JavaScript Development Environment
 Building a Landscape from the Ground Up in World Machine
 --CO-- Building a Linux Server for Ruby on Rails Development
 Building a Logo for a Law Firm in Illustrator
@@ -1002,7 +1002,7 @@ Classification Using Tree Based Models
 Clean Plating for Feature Films Using the NUKE to MARI Bridge
 --CO-- Clean View Models With Assisticant
 --CO-- ClickOnce Deployment Fundamentals
-Client-Side PowerShell Scripting for Reliable SCCM Deployments
+--CO-- Client-Side PowerShell Scripting for Reliable SCCM Deployments
 --CO-- Clojure Concurrency
 --CO-- Clojure Fundamentals - Part 1
 Cloth Sculpting Workflows in ZBrush
@@ -1049,7 +1049,7 @@ CompTIA Security+ (SY0-401) Network Security
 --CO-- CompTIA Storage+ Part 3: Data Protection &amp; Storage
 --CO-- CompTIA Storage+ Part 2: Network Storage &amp; Data Replication
 --CO-- CompTIA Storage+ Part 1: Storage Fundamentals
-Compiled Data Binding Fundamentals in UWP Using XAML
+--CO-- Compiled Data Binding Fundamentals in UWP Using XAML
 Complex Surface Modeling in Rhino
 Composer: Getting Started
 Compositing CG into Live Action for Production in NUKE
@@ -1807,7 +1807,7 @@ Detailing Next-gen Characters in ZBrush
 Detailing and Aging Props in Mudbox
 DevExpress CodeRush and Refactor!
 DevOps Skills for Developers with Visual Studio &amp; TFS 2015
-DevOps: The Big Picture
+--CO-- DevOps: The Big Picture
 --CO-- Developer to Architect
 --CO-- Developer to Manager
 --CO-- Developer's Guide to Photo &amp; Design Techniques in Action
@@ -1819,7 +1819,7 @@ Developing Enemy Archetypes for Games
 Developing Expert Product Visualizations in Maya and V-Ray
 --CO-- Developing Extensible Software
 Developing GUI-based Tools for Production in NUKE
-Developing HTML5 Games with Construct 2
+--CO-- Developing HTML5 Games with Construct 2
 --CO-- Developing OData Clients
 Developing Project Schedules and Budgets
 Developing Python Tools in NUKE
@@ -1865,7 +1865,7 @@ Disintegration, Teleportation and Reintegration Effects in Houdini
 Distorting Nature in After Effects
 --CO-- Django Fundamentals
 --CO-- D3.js Data Visualization Fundamentals
-Docker Deep Dive
+--CO-- Docker Deep Dive
 Docker Networking
 Docker Swarm: Native Docker Clustering
 --CO-- Docker and Containers: The Big Picture
@@ -3409,7 +3409,7 @@ Making 3D Character Previsualizations in ZBrush
 Making Presentation-Ready Graphics from Simple Images in 3ds Max
 --CO-- Making Sense of UX and Design in the Enterprise
 Making Work from Home Work for You
-Making Your C# Code More Object-oriented
+--CO-- Making Your C# Code More Object-oriented
 Making Your First Game in GameMaker: Studio
 Making a Responsive and Interactive Animation with SVGs in CSS
 Making a VR Experience in Unreal Engine 4
@@ -5429,7 +5429,7 @@ Understanding the Versatility of Your Toolset in SolidWorks
 --CO-- Unit Testing with Python
 Unity Audio Fundamentals
 Unity 2D Fundamentals - Character Control
-Unity Multiplayer Game Development with Node
+--CO-- Unity Multiplayer Game Development with Node
 Unity Particle System Fundamentals
 --TORR-- Unity3D Web Fundamentals with C#
 Unlocking Parametric Door Families in Revit
