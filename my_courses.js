@@ -4350,9 +4350,9 @@ Quick Start to Animation in Maya: Volume 3
 Quick Start to Animation in 3ds Max: Volume 1
 Quick Start to Animation in 3ds Max: Volume 2
 Quick Start to Animation in 3ds Max: Volume 3
-Quick Start to JavaScript: Volume 3
-Quick Start to JavaScript: Volume 1
-Quick Start to JavaScript: Volume 2
+--CO-- Quick Start to JavaScript: Volume 3
+--CO-- Quick Start to JavaScript: Volume 1
+--CO-- Quick Start to JavaScript: Volume 2
 Quick Start to Modeling in MODO: Volume 2
 Quick Start to Modeling in MODO: Volume 1
 Quick Start to Modeling in MODO: Volume 3
