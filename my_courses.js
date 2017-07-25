@@ -1602,7 +1602,7 @@ Cross-platform C# Programming with JetBrains' Rider
 Cross-platform Development in .NET and WinRT
 Crowdfunding Fundamentals
 Crowds in Houdini 15
-Cryptography Fundamentals for Developers and Security Professionals
+--CO-- Cryptography Fundamentals for Developers and Security Professionals
 Cryptography: The Big Picture
 Cultivate Your Personal Strengths Using Gallup Tools
 Curve-based Facial Rigging in Maya
