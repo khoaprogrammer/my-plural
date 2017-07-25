@@ -32,7 +32,7 @@ ASA Threat Control for CCNP Security (300-206) SENSS
 --CO-- ASP.NET Ajax Advanced Topics
 --CO-- ASP.NET Ajax Fundamentals
 --CO-- ASP.NET Ajax JavaScript and jQuery
---CO-- ASP.NET Bundling, Minification &amp; Resource Optimization
+--CO-- ASP.NET Bundling, Minification & Resource Optimization
 --CO-- ASP.NET Core 1.0 Fundamentals
 --CO-- ASP.NET Core Fundamentals
 ASP.NET Core Internationalization Deep Dive
@@ -52,7 +52,7 @@ ASP.NET Identity 2 Fundamentals
 --CO-- ASP.NET MVC Scaffolding
 --CO-- ASP.NET MVC Testing From Scratch
 --CO-- ASP.NET Security Secrets Revealed
---CO-- ASP.NET Web Forms Internals: Requests, ViewState &amp; Page Lifecycle
+--CO-- ASP.NET Web Forms Internals: Requests, ViewState & Page Lifecycle
 --CO-- ASP.NET XML Reporting by Example
 --CO-- ASP.NET in Multi-tenant App, Examples in MVC, ExtJS, and Angular
 AWS Certified DevOps Engineer: Continuous Delivery and Automation
@@ -111,7 +111,7 @@ Administering an Elasticsearch Cluster
 Administrating Office 365 Identities
 Adobe Analytics Analysis Workspace
 Adobe Analytics Fundamentals
-Adobe Brush CC &amp; Illustrator Art Brushes
+Adobe Brush CC & Illustrator Art Brushes
 Adobe CC Color Grading Tips
 Adobe Comp CC Fundamentals
 Adobe DPS Adding Content From HTML and WordPress
@@ -281,7 +281,7 @@ Angular Forms
 --CO-- Angular Routing In-depth
 --CO-- Angular: First Look
 --CO-- Angular: Getting Started
-AngularJS Application Development
+--CO-- AngularJS Application Development
 --CO-- AngularJS Best Practices
 AngularJS Directives Fundamentals
 --CO-- AngularJS Forms Using Bootstrap and MVC 5
@@ -294,9 +294,9 @@ AngularJS Routing In-depth
 --CO-- AngularJS Services In-depth
 --CO-- AngularJS Unit Testing in-depth, Using ngMock
 AngularJS for .NET Developers
-AngularJS with TypeScript
+--CO-- AngularJS with TypeScript
 --CO-- AngularJS: Get Started
-AngularJS: The Big Picture
+--CO-- AngularJS: The Big Picture
 --CO-- AngularUI Fundamentals
 Animate CC Animation Techniques
 Animate CC Building AIR Desktop Applications
@@ -586,7 +586,7 @@ Better Code Quality with ESLint
 --CO-- Better User Experiences and More Robust Applications with Polly
 Beyond ASP.NET MVC: Modern Web Development Demystified
 --CO-- Beyond the Basics in Windows Phone 8
---CO-- Big Data &amp; Reporting with MongoDB
+--CO-- Big Data & Reporting with MongoDB
 --CO-- Big Data Analytics with Tableau
 --CO-- Big Data on Amazon Web Services
 --DIRECT-- Big Data: The Big Picture
@@ -630,7 +630,7 @@ Build Your Career with Michael Lopp
 --CO-- Build Your Own Bootstrap Business Application Template in MVC
 --CO-- Build a Better Blog with a Static Site Generator
 --CO-- Build a Customized SharePoint Team Site Without Writing Any Code
---CO-- Build a Lab Environment w/ Microsoft Azure &amp; Windows Server 2012
+--CO-- Build a Lab Environment w/ Microsoft Azure & Windows Server 2012
 --CO-- Build an HTML Helper Library for ASP.NET MVC 5
 Build and Deploy SSRS Mobile Reports
 --CO-- Build iOS Apps with React Native
@@ -674,7 +674,7 @@ Building Data Centric Apps with Angular and BreezeJS
 --CO-- Building Distributed Systems with Akka.NET Clustering
 --CO-- Building Dynamic Websites with PHP and MySQL
 --CO-- Building End-to-End Multi-Client Service Oriented Applications
-Building End-to-end Multi-client Service Oriented Applications - AngularJS Edition
+--CO-- Building End-to-end Multi-client Service Oriented Applications - AngularJS Edition
 --CO-- Building Extensible Applications with MEF
 --CO-- Building F# Type Providers
 Building FX Tools in Houdini
@@ -701,7 +701,7 @@ Building Offline Web Apps with Service Worker
 Building PowerShell GUIs in WPF for Free
 --CO-- Building Reactive Concurrent WPF Applications with Akka.NET
 Building Real-time Applications with Socket.io
-Building Realtime AngularJS Controls
+--CO-- Building Realtime AngularJS Controls
 Building Regression Models Using TensorFlow
 --CO-- Building Ruby Gems
 Building Ruby Web Apps with Rack
@@ -724,7 +724,7 @@ Building Walk Cycles in Maya 2017
 --CO-- Building Web Applications with Node.js and Express 4.0
 --CO-- Building Web Applications with Open-Source Software on Windows
 --CO-- Building Web Applications with hapi
-Building Web Apps &amp; Services with Entity Framework and Web API
+Building Web Apps & Services with Entity Framework and Web API
 --CO-- Building Web Apps With Node.js
 Building Websites with Foundation 6
 --CO-- Building Windows 8 Applications with JavaScript and HTML
@@ -744,7 +744,7 @@ Building Your First Android Database Application with SQLite
 --CO-- Building Your First Xamarin.Android App from Start to Store
 --CO-- Building Your First Xamarin.iOS App from Start to Store
 Building a Better Business Case � Building a Better Business
-Building a Client Troubleshooting Tool in PowerShell
+--CO-- Building a Client Troubleshooting Tool in PowerShell
 --CO-- Building a Cloud-Based iOS Application With Parse Framework
 Building a Complex Polyhedron in Revit
 --CO-- Building a Consistent RESTful API with OData V4 in ASP.NET
@@ -831,7 +831,7 @@ C# 7: First Look
 --CO-- C++11 Language Features
 C++ Unit Testing Fundamentals Using Catch
 C++11 from Scratch
---CO-- CAMWorks Fundamentals - Milling 2.5 &amp; 3 Axis
+--CO-- CAMWorks Fundamentals - Milling 2.5 & 3 Axis
 CARA VR for NUKE
 --CO-- CATIA V5 Essentials - Assembly Design Basics
 --CO-- CATIA V5 Essentials - Part Modeling
@@ -920,7 +920,7 @@ Character and Scene Development in Maya and Mudbox
 Character and Scene Development in ZBrush
 Characterizing Skeletons with MotionBuilder
 Check Point Certified Security Administrator: Backup and Updating
-Check Point Certified Security Administrator: Install &amp; Deploy
+Check Point Certified Security Administrator: Install & Deploy
 Chef I
 --CO-- Chocolatey NuGet Essentials for Automation Pros
 --CO-- Choosing a JavaScript Framework
@@ -936,15 +936,15 @@ Cisco CCIE Routing and Switching: Implement WAN Technologies
 --CO-- Cisco CCIE Routing and Switching: MPLS
 --CO-- Cisco CCIE Security: Addressing and Protocols
 --CO-- Cisco CCNA Data Center: Intro to Data Center Networking
---CO-- Cisco CCNA Data Center: Nexus, Advanced Switching &amp; SAN
---CO-- Cisco CCNA Data Center: Unified Fabric, UCS, &amp; Network Services
+--CO-- Cisco CCNA Data Center: Nexus, Advanced Switching & SAN
+--CO-- Cisco CCNA Data Center: Unified Fabric, UCS, & Network Services
 Cisco CCNA Security: AAA and IP Security
 Cisco CCNA Security: Firewalls and VPNs
 Cisco CCNA Security: Introduction to Network Security
 Cisco CCNA Voice: Configuration and Advanced Features
 Cisco CCNA Voice: Voice Overview and Lab Setup
 Cisco CCNA Wireless: Design and Troubleshooting
-Cisco CCNA Wireless: Unified Wireless Networking &amp; Security
+Cisco CCNA Wireless: Unified Wireless Networking & Security
 Cisco CCNA Wireless: Wireless LAN Fundamentals
 --CO-- Cisco CCNA: IP Routing
 Cisco CCNP ROUTE: Advanced Routing
@@ -1046,8 +1046,8 @@ CompTIA Security+ (SY0-401) Access Control and Identity Management
 --CO-- CompTIA Security+ (SY0-401) Cryptography
 CompTIA Security+ (SY0-401) Network Security
 --CO-- CompTIA Security+ (SY0-401) Threats and Vulnerabilities
---CO-- CompTIA Storage+ Part 3: Data Protection &amp; Storage
---CO-- CompTIA Storage+ Part 2: Network Storage &amp; Data Replication
+--CO-- CompTIA Storage+ Part 3: Data Protection & Storage
+--CO-- CompTIA Storage+ Part 2: Network Storage & Data Replication
 --CO-- CompTIA Storage+ Part 1: Storage Fundamentals
 --CO-- Compiled Data Binding Fundamentals in UWP Using XAML
 Complex Surface Modeling in Rhino
@@ -1100,7 +1100,7 @@ Conceptualizing Products for Industrial Design in Photoshop
 Conceptualizing a Movie Poster in Illustrator
 Conceptualizing a Sci-fi Environment in Photoshop and Maya
 --CO-- Concurrent Programming with Go
-Conducting Business Analysis &amp; Developing Requirements
+Conducting Business Analysis & Developing Requirements
 Conducting Network Vulnerability Analysis
 --CO-- Confident Coding: A Journey to Automated Testing in ASP.NET MVC
 Configuring Exchange Server 2013 with SharePoint 2013
@@ -1139,7 +1139,7 @@ Controlling an Agent's Actions in Massive Prime
 Converting Pixels to Vectors in Illustrator
 Converting a Photo into a VR Set in 3ds Max
 Converting 3ds Max Models to Presentation Plans in AutoCAD
---CO-- Coordinating Civil, Architecture &amp; Structure Models with Revit
+--CO-- Coordinating Civil, Architecture & Structure Models with Revit
 Cordova Apps Using Angular, Typescript, and VSCode
 Core Administration - Skype for Business Server
 --CO-- Core Data Fundamentals
@@ -1391,7 +1391,7 @@ Creating Web APIs That Developers Will Love
 --CO-- Creating Web Applications with Go
 --CO-- Creating Web Applications with Go
 Creating Web and App Prototypes with InVision
---DOWN-- Creating Well-tested Applications in Go
+--CO-- Creating Well-tested Applications in Go
 Creating Working Drawings for Your Construction Documents in AutoCAD
 Creating Your First Big Data Hadoop Cluster Using Cloudera CDH
 Creating Your First Broadcast Opener in CINEMA 4D and After Effects
@@ -1654,7 +1654,7 @@ DSLR Video Fundamentals
 --CO-- Data Analytics: Hands On
 --CO-- Data Layer Validation with Entity Framework 4.1+
 --CO-- Data Mining Algorithms in SSAS, Excel, and R
---CO-- Data Science &amp; Hadoop Workflows at Scale With Scalding
+--CO-- Data Science & Hadoop Workflows at Scale With Scalding
 --CO-- Data Science with R
 Data Transformations with Apache Pig
 --CO-- Data Visualization for Developers
@@ -1704,7 +1704,7 @@ Deployment Options for Mac
 Depth-Based Compositing in After Effects
 Depth-Based Compositing in Composite
 Depth-Based Compositing in NUKE
-Design &amp; Stop Motion with SNASK
+Design & Stop Motion with SNASK
 --CO-- Design Patterns Library
 --CO-- Design Patterns On-Ramp
 Design Patterns in C++: Behavioral - Chain of Responsibility to Memento
@@ -1730,7 +1730,7 @@ Designing Controls with Deformation Feedback in Maya
 Designing Custom Sites Using Child Themes in WordPress and CSS
 Designing Effective Storyboards in Illustrator and InDesign
 Designing Electrical Circuits in Revit
-Designing Elegant Product Visualizations in CINEMA 4D &amp; After Effects
+Designing Elegant Product Visualizations in CINEMA 4D & After Effects
 --CO-- Designing Fluent APIs in C#
 Designing Futuristic Menus in Illustrator
 Designing Game Puzzles in Unity
@@ -1794,10 +1794,10 @@ Designing for Injection Molding and 3D Printing in SolidWorks
 --CO-- Designing in Duotone in Photoshop and InDesign
 Designing in SketchUp: Workspace Setup and Optimization
 --CO-- Designing/Deploying Exchange 2016 (70-345): Client Access
---CO-- Designing/Deploying Exchange 2016 (70-345): Compliance &amp; Archiving
---CO-- Designing/Deploying Exchange 2016 (70-345): Hybrid &amp; Migrations
+--CO-- Designing/Deploying Exchange 2016 (70-345): Compliance & Archiving
+--CO-- Designing/Deploying Exchange 2016 (70-345): Hybrid & Migrations
 --CO-- Designing/Deploying Exchange 2016 (70-345): Mailbox Databases
---CO-- Designing/Deploying Exchange 2016 (70-345): Recipients &amp; Security
+--CO-- Designing/Deploying Exchange 2016 (70-345): Recipients & Security
 --CO-- Designing/Deploying Exchange 2016 (70-345): Transport
 Destroying Urban Environments in NUKEX
 Destroying Your Assets with thinkingParticles in 3ds Max
@@ -1806,11 +1806,11 @@ Destructive Shattering Effects in CINEMA 4D
 Detailing Next-gen Characters in ZBrush
 Detailing and Aging Props in Mudbox
 DevExpress CodeRush and Refactor!
-DevOps Skills for Developers with Visual Studio &amp; TFS 2015
+DevOps Skills for Developers with Visual Studio & TFS 2015
 --CO-- DevOps: The Big Picture
 --CO-- Developer to Architect
 --CO-- Developer to Manager
---CO-- Developer's Guide to Photo &amp; Design Techniques in Action
+--CO-- Developer's Guide to Photo & Design Techniques in Action
 --CO-- Developer's Guide to SQL Server CLR Integration
 --CO-- Developer's T-SQL Playbook
 Developing Alexa Skills for Amazon Echo
@@ -1860,14 +1860,14 @@ Dinosaur Reconstruction in ZBrush
 Disaster Recovery for CompTIA Server+ (SK0-004)
 Disaster Recovery for Developers
 Discovering Business Analysis Information Through Elicitation
-Discovering the Use of Weldments &amp; Sheet Metal Design: SolidWorks
+Discovering the Use of Weldments & Sheet Metal Design: SolidWorks
 Disintegration, Teleportation and Reintegration Effects in Houdini
 Distorting Nature in After Effects
 --CO-- Django Fundamentals
 --CO-- D3.js Data Visualization Fundamentals
 --CO-- Docker Deep Dive
 Docker Networking
-Docker Swarm: Native Docker Clustering
+--CO-- Docker Swarm: Native Docker Clustering
 --CO-- Docker and Containers: The Big Picture
 --CO-- Docker for Web Developers
 --CO-- Dojo Fundamentals
@@ -2038,7 +2038,7 @@ Evaluating Your vSphere Environment for Best Practices and Security
 --CO-- Everyday PowerShell for Developers
 Exaggerated Facial Expressions in ZBrush and Maya
 Exaggerated Facial Modeling in Maya and ZBrush
-Exam Review for CCNP R&amp;S 300-135 TSHOOT
+Exam Review for CCNP R&S 300-135 TSHOOT
 Exam Review for CompTIA Linux+ (LX0-103) and LPI LPIC-1 (101-400)
 Exam Review for CompTIA Linux+ (LX0-104) and LPI LPIC-1 (102-400)
 Excel 2013 - ClipTraining
@@ -2066,7 +2066,7 @@ Exchange Server 2010 Part 4: Archiving and Unified Messaging
 Exchange Server 2010 Part 2: Configuring Mailbox Settings
 Exchange Server 2003 Part 4: Disaster Recovery and Remote Access
 Exchange Server 2003 Part 1: Getting Started
-Exchange Server 2010 Part 5: High Availability &amp; Monitoring
+Exchange Server 2010 Part 5: High Availability & Monitoring
 Exchange Server 2010 Part 1: Initial Install and Configuration
 --CO-- Exchange Server 2007 Part 1: Install and Initial Configuration
 Exchange Server 2007 Part 5: Integration and SP1
@@ -2347,7 +2347,7 @@ Getting Started with 3D-Coat
 Getting Started with Digital Painting in Photoshop CC 2014
 Getting Started with Digital Painting in Photoshop CS5
 Getting Started with Django CMS
-Getting Started with Docker
+--CO-- Getting Started with Docker
 Getting Started with Docker Datacenter
 Getting Started with Docker Swarm Mode
 Getting Started with Docker on Windows
@@ -2356,7 +2356,7 @@ Getting Started with Ember 2
 --CO-- Getting Started with Emmet
 --CO-- Getting Started with Enterprise Search Using Apache Solr
 --CO-- Getting Started with Entity Framework 5
---DOWN-- Getting Started with Entity Framework 6
+--CO-- Getting Started with Entity Framework 6
 --CO-- Getting Started with Excel 2016 for Mac
 Getting Started with FPGA Programming with VHDL
 Getting Started with Freeform Modeling in Inventor
@@ -2377,7 +2377,7 @@ Getting Started with Jade
 Getting Started with JavaScript in Salesforce
 Getting Started with Jenkins 2
 Getting Started with Kotlin
-Getting Started with Kubernetes
+--CO-- Getting Started with Kubernetes
 Getting Started with Laravel (PHP Framework) - Models and Data
 Getting Started with Laravel (PHP Framework) - The Basics
 Getting Started with Laravel (PHP Framework) � Users and Authentication
@@ -2507,10 +2507,10 @@ Hands On Foundation 5
 Hands on Responsive Design Using a CSS Preprocessor
 Hands on with Python Jinja Templating
 Hands-On Incident Response Fundamentals
-Hands-on Ansible
+--CO-- Hands-on Ansible
 Hands-on JavaScript Project: JSON
 Hands-on JavaScript Project: Solar Calculator
-Hands-on Responsive Web Design 1: Media Queries &amp; CSS Preprocessing
+Hands-on Responsive Web Design 1: Media Queries & CSS Preprocessing
 --CO-- Hands-on Windows Phone 7 Development
 Hard Surface Modeling Fundamentals in 3ds Max
 Hard Surface Modeling Techniques in MODO
@@ -2518,7 +2518,7 @@ Hard Surface Modeling Workflows in 3ds Max
 Hard Surface Modeling a Modular Structure for Games in 3ds Max
 Hard Surface Techniques in ZBrush 4R5
 --CO-- Hardcore Functional Programming in JavaScript
---CO-- Hardware &amp; Network Troubleshooting for CompTIA A+ (220-901)
+--CO-- Hardware & Network Troubleshooting for CompTIA A+ (220-901)
 --CO-- Hardware for CompTIA A+ (220-901)
 --CO-- Harnessing the Power of Photoshop Actions
 --CO-- Haskell Fundamentals Part 2
@@ -2554,7 +2554,7 @@ Hyper Detailing Workflows in ZBrush
 ICE Nodes Reference Library: Array
 ICE Nodes Reference Library: Attribute
 ICE Nodes Reference Library: Color
-ICE Nodes Reference Library: Comment &amp; Execution
+ICE Nodes Reference Library: Comment & Execution
 ICE Nodes Reference Library: Constant
 ICE Nodes Reference Library: Conversion
 ICE Nodes Reference Library: Data Access
@@ -2562,7 +2562,7 @@ ICE Nodes Reference Library: Geometry Queries
 ICE Nodes Reference Library: Math Basic
 ICE Nodes Reference Library: Math General
 ICE Nodes Reference Library: Math Vector
-ICE Nodes Reference Library: Simulation &amp; Point Cloud
+ICE Nodes Reference Library: Simulation & Point Cloud
 ICE Particle States in Softimage
 ICE Volume Rendering in Softimage
 --CO-- IDisposable Best Practices for C# Developers
@@ -2581,7 +2581,7 @@ IT Innovation: What It Is and How to Get More of It
 IT Outsourcing - Preparing for an Outsourcing Initiative
 ITIL� Foundations
 ITIL� Service Operation
-Identifying &amp; Fixing Performance Issues Caused by Parameter Sniffing
+Identifying & Fixing Performance Issues Caused by Parameter Sniffing
 --CO-- Identity and Access Control in ASP.NET 4.5
 --CO-- Identity and Access Control in WCF 4.5
 --CO-- Idiomatic Ruby
@@ -2703,7 +2703,7 @@ Indie Game Development Pipeline Volume 1: Visual Development
 'Infiltrator' Production Pipeline Volume 5: Animation
 'Infiltrator' Production Pipeline Volume 7: Compositing in Composite
 'Infiltrator' Production Pipeline Volume 7: Compositing in NUKE
-'Infiltrator' Production Pipeline Volume 1: Concept Design &amp; Storyboarding
+'Infiltrator' Production Pipeline Volume 1: Concept Design & Storyboarding
 'Infiltrator' Production Pipeline Volume 4: Match Moving
 'Infiltrator' Production Pipeline Volume 2: Modeling
 'Infiltrator' Production Pipeline Volume 6: Rendering
@@ -2715,7 +2715,7 @@ Information Systems Auditor: Operations, Maintenance, and Service
 Information Systems Auditor: Protection of Information Assets
 Information Systems Auditor: The Process of Auditing
 --CO-- Informational Interviews
---CO-- Infrastructure Security for CCNP Routing &amp; Switching 300-115 SWITCH
+--CO-- Infrastructure Security for CCNP Routing & Switching 300-115 SWITCH
 Infrastructure Testing with Pester
 Infrastructure from Code: The Big Picture
 Infusing Energy into Illustrations Using Adobe CC
@@ -2759,7 +2759,7 @@ Integrating a 3D Vehicle into Video in Maya and NUKE
 --CO-- Integration Services Fundamentals
 Integration Testing of Entity Framework Applications
 --CO-- IntelliTrace
---CO-- Inter-switch Connectivity for CCNP Routing &amp; Switching 300-115 SWITCH
+--CO-- Inter-switch Connectivity for CCNP Routing & Switching 300-115 SWITCH
 Interior Lighting Manipulation in Photoshop
 Interior Lighting and Rendering Using Arnold in Maya
 --CO-- Interior Modeling Techniques in 3ds Max
@@ -2783,7 +2783,7 @@ Introducing the Windows Server 2016 MCSA and the 70-740 Exam
 --CO-- Introduction To Hibernate
 --CO-- Introduction To Kendo UI
 Introduction To Visualforce
-Introduction to ABAP Objects: Concepts &amp; Class Builder
+Introduction to ABAP Objects: Concepts & Class Builder
 Introduction to ABAP for SAP Business Warehouse Developers
 Introduction to AI and Navigation Systems in Unreal Engine
 --CO-- Introduction to ANSYS
@@ -2830,7 +2830,7 @@ Introduction to Blueprint in Unreal Engine
 --CO-- Introduction to Building Universal Store Apps With C# and XAML
 Introduction to Building Website Layouts
 --CO-- Introduction to Building Windows 8 Applications
-Introduction to Business Analysis &amp; Needs Assessment
+Introduction to Business Analysis & Needs Assessment
 --CO-- Introduction to Business Information Technology
 Introduction to C# and .NET
 Introduction to C# in Unity
@@ -2922,14 +2922,14 @@ Introduction to InfraWorks 360
 --CO-- Introduction to Integration With Apache Camel
 Introduction to Internet Explorer 10
 Introduction to Inventor
---CO-- Introduction to JavaScript &amp; jQuery
+--CO-- Introduction to JavaScript & jQuery
 Introduction to Job Control Language (JCL)
 --CO-- Introduction to Joomla!  				
 Introduction to Key Frame Animation in Toon Boom Harmony
 --CO-- Introduction to Koa Javascript
 --CO-- Introduction to Leadership and Management for Developers
 Introduction to Light Shading in Harmony Premium
-Introduction to Lighting Analysis with Insight 360 &amp; Revit
+Introduction to Lighting Analysis with Insight 360 & Revit
 Introduction to Lighting Concepts and Rigs with Maya and RenderMan
 Introduction to Lighting and Rendering with V-Ray for NUKE
 Introduction to Lighting in CINEMA 4D
@@ -3241,8 +3241,8 @@ JavaScript Asynchronous Module Definition (AMD) Explained
 --CO-- JavaScript Objects and Prototypes
 --TORR-- JavaScript Templating with Handlebars
 --CO-- JavaScript for C# Developers
---CO-- JavaScript: Advanced Fundamentals to jQuery &amp; Pure DOM Scripting
---DOWN-- JavaScript: From Fundamentals to Functional JS
+--CO-- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
+--CO-- JavaScript: From Fundamentals to Functional JS
 JavaScript: The Good Parts
 Joint-based Facial Rigging in Maya
 --CO-- JsRender Fundamentals
@@ -3266,7 +3266,7 @@ Keying Greenscreens in Composite
 Keying Greenscreens in NUKE
 Keys to Amazing Graphic Design Layouts
 Kinect Interaction with WPF and Beyond
-Kit Bashing Game Assets to Speed Up Workflows in 3ds Max &amp; Unity
+Kit Bashing Game Assets to Speed Up Workflows in 3ds Max & Unity
 Kit Bashing a Mech Soldier Concept in Photoshop
 --CO-- Knockout For the XAML Developer
 --CO-- Knockout Fundamentals
@@ -3378,11 +3378,11 @@ Look Development with Substance Painter and RenderMan 21
 Look Development, Lighting and Compositing for a Noir Scene in RenderMan RIS
 --CO-- Looking Ahead to Entity Framework 7
 Low Polygon Texturing in MARI
-Lync Server 2013 Core Solutions Pt. 2: Design &amp; Plan Features
-Lync Server 2013 Core Solutions Pt. 3: Migrate &amp; Troubleshoot
-Lync Server 2013 Core Solutions Pt. 1: Planning &amp; Installing
+Lync Server 2013 Core Solutions Pt. 2: Design & Plan Features
+Lync Server 2013 Core Solutions Pt. 3: Migrate & Troubleshoot
+Lync Server 2013 Core Solutions Pt. 1: Planning & Installing
 Lync Server 2013: Initial Configuration
-Lync Server 2013: Intro to Enterprise Voice &amp; Unified Messaging
+Lync Server 2013: Intro to Enterprise Voice & Unified Messaging
 MARI Filter Reference Library
 MARI Shader Module Reference Library
 --CO-- MATLAB Fundamentals
@@ -3439,7 +3439,7 @@ Managing Docker Images
 Managing Exchange Mailboxes and Distribution Groups in PowerShell
 Managing Hyper-V Using VMware's Multi-Hypervisor Manager
 Managing Information Security Incidents (ISO/IEC 27002)
-Managing Information Security Threats &amp; Risks (ISO/IEC 27002)
+Managing Information Security Threats & Risks (ISO/IEC 27002)
 Managing Infrastructure with Microsoft Azure - Getting Started
 Managing Inventory, Change, and Compliance with AWS Config
 Managing Line Weights and Linetype in AutoCAD
@@ -3459,7 +3459,7 @@ Map Baking Techniques in Maya LT
 --CO-- Marketing and Selling Your Own Products and Services
 Marvelous Designer Fundamentals
 Master Modeling Multi-Body Parts in SolidWorks
---CO-- Master Your Domain: User Roles &amp; Capabilities in WordPress
+--CO-- Master Your Domain: User Roles & Capabilities in WordPress
 Master the Art of Toning Black and White Photographs
 --CO-- Master-Detail Workflow Apps with EF, MVC, Identity 2, and Modals
 Mastercam - Introduction to the Basics
@@ -3470,7 +3470,7 @@ Mastering Compression Settings in Premiere Pro and Media Encoder
 Mastering Data Visualization with R
 Mastering Displacement Maps in Maya
 Mastering Flux and Redux
-Mastering Git
+--CO-- Mastering Git
 --CO-- Mastering Java Swing - Part 1
 --CO-- Mastering Java Swing - Part 2
 --CO-- Mastering Java Swing - Part 3
@@ -3691,7 +3691,7 @@ Modeling and Texturing a Next-gen Building for Games in 3ds Max
 Modeling for Photorealistic Interiors with CINEMA 4D
 Modeling for Product Visualization in CINEMA 4D
 Modeling, Lighting, and Rendering Interior Visualizations in 3ds Max
-Modern Asynchronous JavaScript
+--CO-- Modern Asynchronous JavaScript
 --CO-- Modern C++ Concurrency
 --CO-- Modern C++ Libraries
 --CO-- Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
@@ -3704,10 +3704,10 @@ Modo Lighting Fundamentals
 Modo Rendering Fundamentals
 --CO-- Module Development for Drupal 7
 --CO-- Monetizing GameSalad Games with In-App Purchases
-MongoDB Administration
---CO-- Monitoring &amp; Security for CCNP Routing and Switching 300-101 ROUTE
+--CO-- MongoDB Administration
+--CO-- Monitoring & Security for CCNP Routing and Switching 300-101 ROUTE
 Monitoring MySQL with Performance Schema
-Monitoring Requirements &amp; Evaluating Business Analysis Solutions
+Monitoring Requirements & Evaluating Business Analysis Solutions
 Monitoring Servers and Services with AWS CloudWatch
 --CO-- Mono for Android
 --CO-- MonoTouch
@@ -3719,7 +3719,7 @@ Motion Flow Rigging in Maya
 Motorcycle Modeling Techniques in CINEMA 4D
 Motorcycle Modeling Techniques in Maya
 Motorcycle Modeling Techniques in 3ds Max
---TORR-- Moving Beyond JSON and XML with Protocol Buffers
+--CO-- Moving Beyond JSON and XML with Protocol Buffers
 Moving Beyond the Basics with Xamarin.Forms
 --CO-- Moving Character Morphs in NUKE
 Moving from Technical Professional to Management
@@ -3751,8 +3751,8 @@ MySQL Fundamentals Part 2
 --CO-- .NET Internals and Advanced Debugging Techniques
 --CO-- .NET Interoperability Fundamentals
 --CO-- .NET Micro ORMs
---CO-- .NET Performance Optimization &amp; Profiling with JetBrains dotTrace
---CO-- .NET Puzzles, Gotchas &amp; Cautionary Tales
+--CO-- .NET Performance Optimization & Profiling with JetBrains dotTrace
+--CO-- .NET Puzzles, Gotchas & Cautionary Tales
 --CO-- .NET Reactive Extensions Fundamentals 1.0
 --CO-- .NET Reflector by Example
 --CO-- .NET Regular Expressions
@@ -3831,10 +3831,10 @@ Occasionally Connected Windows Mobile Apps: Collaboration
 Occasionally Connected Windows Mobile Apps: Consumer
 --CO-- Occasionally Connected Windows Mobile Apps: Enterprise LOB
 --CO-- Office 365 APIs: Contacts
---CO-- Office 365 APIs: Overview, Authentication &amp; the Discovery Service
+--CO-- Office 365 APIs: Overview, Authentication & the Discovery Service
 Office 365 Development: Getting Started
 Office 365 Exchange Online Administration
-Office 365: Deploying &amp; Updating Microsoft Office 365 ProPlus
+Office 365: Deploying & Updating Microsoft Office 365 ProPlus
 Office 365: Introduction to OneDrive for Business
 Office 365: Introduction to the Outlook Web App
 On Polyglot Programming
@@ -3867,7 +3867,7 @@ Optimizing Video Footage in After Effects
 Oracle Cloud for Developers
 Oracle Compute Cloud Service Foundations
 Oracle Database 12c Disaster Recovery and Data Movement
-Oracle Database 12c Fundamentals
+--CO-- Oracle Database 12c Fundamentals
 Oracle Database 12c Performance Tuning and Optimization
 Oracle Database 12c: Installation and Upgrade
 --DOWN-- Oracle Developer Essentials: Data Types
@@ -3875,12 +3875,12 @@ Oracle Developer Essentials: Tables and Indexes
 --CO-- Oracle Developer Essentials: Views, Synonyms and Triggers
 --CO-- Oracle PL/SQL Fundamentals - Part 1
 --CO-- Oracle PL/SQL Fundamentals - Part 2
---CO-- Oracle PL/SQL: Transactions, Dynamic SQL &amp; Debugging
+--CO-- Oracle PL/SQL: Transactions, Dynamic SQL & Debugging
 --CO-- Oracle Performance Tuning for Developers
 --CO-- Orchard Fundamentals
 Organizational BI With SSAS 2012 Tabular - Introduction
 Organizational BI with SSAS 2012 Tabular - Intermediate
---CO-- Other Operating Systems &amp; Technologies for CompTIA A+ (220-902)
+--CO-- Other Operating Systems & Technologies for CompTIA A+ (220-902)
 Outlook 2013 Fundamentals for Business Professionals
 Outlook 2010: Calendar, Tasks, and Search
 Outlook 2007: Calendars, Tasks, and Contacts
@@ -3978,7 +3978,7 @@ Penetration Testing: Setting the Scope and Rules of Engagement
 Performance-Based Dynamics in Maya
 Performing OSINT Gathering on Corporate Targets
 Performing and Analyzing Network Reconnaissance
---CO-- Personal Productivity &amp; Performance Tools for Windows Developers
+--CO-- Personal Productivity & Performance Tools for Windows Developers
 Personality Tests: How Employers Use Them
 PgMP� - Identifying Your Objectives
 PgMP� - Planning Your Program
@@ -4018,7 +4018,7 @@ Photoshop CC Working with Shape Tools
 --CO-- Photoshop CC for the Web
 --CO-- Photoshop CC: Working with Filters
 --CO-- Photoshop Elements Fundamentals
-Photoshop Filters Reference Library: Blur &amp; Sharpen
+Photoshop Filters Reference Library: Blur & Sharpen
 Photoshop for Technical Drawings
 --CO-- Photoshop: Advanced Tips and Tricks for Developers
 Photoshop: Tips and Tricks For Developers
@@ -4038,7 +4038,7 @@ Pivotal Cloud Foundry Developer
 Pivotal GemFire Developer
 Pivotal Greenplum Developer
 --CO-- Plan, Create, and Deploy to Azure With Visual Studio Online
-Planning &amp; Creating Applications in System Center ConfigMgr 2012
+Planning & Creating Applications in System Center ConfigMgr 2012
 Planning and Deploying Office Web Apps 2013
 Planning and Designing Microsoft Azure Compute Solutions
 Planning and Executing a Complete Animation in Maya
@@ -4064,7 +4064,7 @@ Play by Play: Azure Beyond Websites
 --CO-- Play by Play: Azure Security with Mark Russinovich
 --CO-- ​Play by Play: Building a Node Web API with Sam Artioli and John Papa
 ​Play by Play: Building a Python Code Stats Tool with Zed Shaw
-​--CO-- Play by Play: C# Q&amp;A with Scott Allen and Jon Skeet
+​--CO-- Play by Play: C# Q&A with Scott Allen and Jon Skeet
 Play by Play: Crafting a Brand for Growth and Prosperity
 ​Play by Play: Cross-Browser Compatibility with Peter-Paul Koch
 ​Play by Play: Database Tuning
@@ -4150,14 +4150,14 @@ PostgreSQL: Index Tuning and Performance Optimization
 --CO-- PowerPivot for Microsoft Excel 2010
 PowerPivot for SharePoint 2010 - System Setup
 PowerPoint 2013 Essentials
-PowerPoint 2007 Part 4: Audio, Video, &amp; Flash Style Presentations
+PowerPoint 2007 Part 4: Audio, Video, & Flash Style Presentations
 PowerPoint 2007 Part 1: Getting Started
 PowerPoint 2007 Part 2: Making a Speaker-Led Presentation
 PowerPoint 2007 Part 3: Presentation Prep and Animations
 PowerPoint 2010: Animations and Producing Your Presentation
 PowerPoint 2010: Getting Started
 PowerPoint 2010: Tables, Charts, Pictures, Audio, and Video
-PowerShell &amp; DevOps Global Summit 2016 Sessions
+PowerShell & DevOps Global Summit 2016 Sessions
 --CO-- PowerShell Cmdlet Development in C# - The Ins and Outs
 --CO-- PowerShell Gotchas
 --CO-- PowerShell Remoting Fundamentals
@@ -4244,10 +4244,10 @@ Principles for Establishing Character Age
 Principles of Composition for Motion Designers
 Principles of Graphic Design
 Prioritizing Tasks and Managing Time for Greater Productivity
---CO-- Prism Problems &amp; Solutions: Loading Dependent Views
---CO-- Prism Problems &amp; Solutions: Loading Modules Based on User Roles
---CO-- Prism Problems &amp; Solutions: Mastering TabControl
---CO-- Prism Problems &amp; Solutions: Showing Multiple Shells
+--CO-- Prism Problems & Solutions: Loading Dependent Views
+--CO-- Prism Problems & Solutions: Loading Modules Based on User Roles
+--CO-- Prism Problems & Solutions: Mastering TabControl
+--CO-- Prism Problems & Solutions: Showing Multiple Shells
 Pro Tools Fundamentals
 Procedural ICE Modeling in Softimage
 Procedural Rigging with Python in Maya
@@ -4328,7 +4328,7 @@ Pushing Your Character Rigs Beyond the Basics in 3ds Max
 --CO-- Python Fundamentals
 Python Quick Start for Linux System Administrators
 Python in Houdini
-Python � Beyond the Basics
+--CO-- Python – Beyond the Basics
 Python: Getting Started
 --CO-- Qt Quick Fundamentals
 --CO-- Querying the Entity Framework
@@ -4404,7 +4404,7 @@ Quixel Suite 2.0, NDO Essentials
 --CO-- REST Fundamentals
 REST for Rails 2
 --CO-- RESTFul Services in Java using Jersey
---TORR-- RESTful Web Services with Node.js and Express
+--CO-- RESTful Web Services with Node.js and Express
 --CO-- RESTful Web Services with PHP and Laravel
 RF Fundamentals for Cisco WIFUND (200-355)
 RIB Archives in RenderMan for Maya
@@ -4421,7 +4421,7 @@ Rails Rendering
 --TORR-- Rapid Application Prototyping with SharePoint and LightSwitch
 Rapid Concept Art Techniques in Photoshop and ZBrush
 Rapid Concept Illustration for AAA Productions in Photoshop
-Rapid ES6 Training
+--CO-- Rapid ES6 Training
 --CO-- Rapid JavaScript Training
 Rapidly Creating Stylized Game Assets in ZBrush
 Raspberry Pi Home Server
@@ -4523,13 +4523,13 @@ Responsive Style Guide and Pattern Library Creation in Axure
 --CO-- Hands On Responsive Web Design
 Responsive Web Images
 Responsive Websites With Bootstrap 3
-Restore &amp; Master Audio for Video in Audition &amp; Premiere Pro
+Restore & Master Audio for Video in Audition & Premiere Pro
 Restoring Old Photographs in Photoshop
 --CO-- Restoring Old and Damaged Photos in Photoshop
-Resume Development for Technical Professionals
+--CO-- Resume Development for Technical Professionals
 --CO-- Resumes and Self-marketing for Software Developers
 --CO-- Resumes, Job Seeking, and Interviews in Context
-Resumes, Research, and Writing on the Job Hunt
+--CO-- Resumes, Research, and Writing on the Job Hunt
 Resurrecting Extinct Creatures in Photoshop
 Retargeting MoCap to Custom Rigs in Maya
 Retargeting Mocap to Custom Rigs in CINEMA 4D
@@ -4633,7 +4633,7 @@ SOLIDWORKS - Preparing Designs for Sand Casting
 --CO-- SOLIDWORKS Essentials - Basic Drawings
 --CO-- SOLIDWORKS Essentials - Basic Part Modeling
 SOLIDWORKS Essentials - Configurations and Display States
---CO-- SOLIDWORKS Essentials - Designing Molded &amp; Casted Parts
+--CO-- SOLIDWORKS Essentials - Designing Molded & Casted Parts
 --CO-- SOLIDWORKS Essentials - Editing Errors and Design Changes
 --CO-- SOLIDWORKS Essentials - In-depth Drawings
 SOLIDWORKS Essentials - In-depth Sweeps
@@ -4671,7 +4671,7 @@ SQL Server 2012 Database Administration (70-462) Part 2
 SQL Server 2012 Database Administration (70-462) Part 3
 SQL Server 2008 Database Development (70-433) Part 1
 SQL Server 2008 Database Development (70-433) Part 2
-SQL Server 2016 New Features for Developers
+--CO-- SQL Server 2016 New Features for Developers
 SQL Server 2012 Querying (70-461) Part 1
 SQL Server 2012 Querying (70-461) Part 2
 --CO-- SQL Server 2012-2014 Native File Streaming
@@ -4688,7 +4688,7 @@ SQL Server 2012: Evaluating and Sizing Hardware
 --CO-- SQL Server Performance: Introduction to Query Tuning
 --CO-- SQL Server Questions and Answers
 SQL Server Reporting Services Playbook
---CO-- SQL Server on Microsoft Azure IaaS - Optimizations &amp; High Availability
+--CO-- SQL Server on Microsoft Azure IaaS - Optimizations & High Availability
 --TORR-- SQL Server: Advanced Corruption Recovery Techniques
 --TORR-- SQL Server: Advanced Extended Events
 --CO-- SQL Server: Benchmarking and Baselining
@@ -4744,7 +4744,7 @@ Salt: Getting Started
 Sample course
 --CO-- Scala for Java Developers
 --CO-- Scala: Getting Started
---TORR-- Scalable Dynamic Graphs &amp; Charts Using AngularJS and SVG
+--CO-- Scalable Dynamic Graphs & Charts Using AngularJS and SVG
 Scaling Agile for Enterprise: Daikibo
 Scaling Applications with Microservices and NServiceBus 5
 Scaling Applications with Microservices and NServiceBus 6
@@ -4765,7 +4765,7 @@ Scripted Item Swapping in Maya
 Scripting a 1st Person Assault Course in Unreal Engine
 Scripting in RealFlow
 Scripting with Python in Houdini
---CO-- Scrum Development with Jira &amp; JIRA Agile
+--CO-- Scrum Development with Jira & JIRA Agile
 --CO-- Scrum Fundamentals
 Scrum Master Fundamentals - Becoming a Great Scrum Master
 Scrum Master Fundamentals - Foundations
@@ -4909,8 +4909,8 @@ SharePoint 2010 Fundamentals
 SharePoint 2013 Fundamentals for Business Professionals
 SharePoint 2007 Fundamentals for Developers
 SharePoint 2010 Introduction for End Users
-SharePoint 2010 Lists &amp; Libraries for End Users
-SharePoint 2010 Managing Sites &amp; Site Collections
+SharePoint 2010 Lists & Libraries for End Users
+SharePoint 2010 Managing Sites & Site Collections
 SharePoint 2010 No-Code Customizations for Power Users
 --TORR-- SharePoint 2013 PerformancePoint Services
 SharePoint 2010 Personalizing SharePoint for End Users
@@ -4921,8 +4921,8 @@ SharePoint 2010 Security Part 2
 --CO-- SharePoint 2007 Services Client Programming
 SharePoint 2010 Social Networking for End Users
 SharePoint 2007 Tutorial for Site Administrators
---TORR-- SharePoint 2013 Workflow - Advanced Topics
---DOWN-- SharePoint 2013 Workflow - Fundamentals
+--CO-- SharePoint 2013 Workflow - Advanced Topics
+--CO-- SharePoint 2013 Workflow - Fundamentals
 --CO-- SharePoint 2013 Workflow - Web Services
 SharePoint 2010 for Web Designers - Part 5, Advanced Branding
 SharePoint 2010 for Web Designers - Part 4, Branding
@@ -4948,9 +4948,9 @@ SharePoint Server 2007 Administration: Getting Started
 SharePoint Server 2013 Advanced Solutions (70-332) Part 1
 SharePoint Server 2013 Advanced Solutions (70-332) Part 2
 SharePoint Server 2013 Advanced Solutions (70-332) Part 3
-SharePoint Server 2013 Core Solutions (70-331) Part 1
-SharePoint Server 2013 Core Solutions (70-331) Part 2
-SharePoint Server 2013 Core Solutions (70-331) Part 3
+--CO-- SharePoint Server 2013 Core Solutions (70-331) Part 1
+--CO-- SharePoint Server 2013 Core Solutions (70-331) Part 2
+--CO-- SharePoint Server 2013 Core Solutions (70-331) Part 3
 SharePoint Server 2010 Design and Deployment (70-668) Part 1
 SharePoint Server 2010 Design and Deployment (70-668) Part 2
 SharePoint Server 2010 Design and Deployment (70-668) Part 3
@@ -4982,7 +4982,7 @@ Shotgun Tracking Fundamentals
 --CO-- Silverlight 3 Advanced Topics
 --CO-- Silverlight 3 Fundamentals
 --CO-- Silverlight Server Communication
-Simplified .NET Background Tasks with Hangfire
+--CO-- Simplified .NET Background Tasks with Hangfire
 --CO-- Simplifying CSS in Visual Studio With Sass
 Simulating Dust Dynamics for Object Impacts in Maya
 Simulating Fast-moving Smoke Characters in Maya and NUKE
@@ -5030,7 +5030,7 @@ Small Business Server 2011 Part 3: Server Management
 Small Business Server 2003: Advanced Features
 Small Business Server 2003: Configuration
 Small Business Server 2003: Installation
---TORR-- Smash into Vim
+--CO-- Smash into Vim
 So You Want to be an Entrepreneur?
 Social Media Marketing for Your Startup
 --CO-- Social Media: The Big Picture
@@ -5058,7 +5058,7 @@ Speed Skinning Techniques in Maya
 SpeedGrade CC Fundamentals
 Speeding up Your CSS Workflow with Sass and Compass
 Sports Bottle Package Design in Photoshop and Illustrator
---TORR-- Spring Boot: Efficient Development, Configuration, and Deployment
+--CO-- Spring Boot: Efficient Development, Configuration, and Deployment
 Spring Cloud Fundamentals
 --CO-- Spring Fundamentals
 --CO-- Spring Security Fundamentals
@@ -5135,7 +5135,7 @@ TCP and UDP Operation for Cisco CCNA 200-125/100-105
 --TORR-- TFS Integration
 --CO-- TPL Async
 --TORR-- Tactical Design Patterns in .NET: Control Flow
---TORR-- Tactical Design Patterns in .NET: Creating Objects
+--CO-- Tactical Design Patterns in .NET: Creating Objects
 --CO-- Tactical Design Patterns in .NET: Managing Responsibilities
 Tactics and Tools for Troubleshooting Front-end Web Development
 Take Control of Your Big Data with HUE in Cloudera CDH
@@ -5170,7 +5170,7 @@ Terrains in Vue
 --CO-- Test-Driven Development with F#
 --TORR-- Test-First Development for Rails
 Test-driven Development: The Big Picture
---TORR-- Test-driven Rails with RSpec, Capybara, and Cucumber
+--CO-- Test-driven Rails with RSpec, Capybara, and Cucumber
 --CO-- Testable Windows 8 Applications
 --CO-- Testing AngularJS From Scratch
 Testing C# Code in Production with Scientist.NET
@@ -5218,11 +5218,11 @@ The Anatomy of an Expression for Facial Animation in Maya
 The Art of A/B Testing for Web Design
 --CO-- The Art of Public Speaking and Effective Presentations
 The Art of Speaking: Scott Hanselman
-The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
---TORR-- The C Programming Language in Action
+--CO-- The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
+--CO-- The C Programming Language in Action
 --CO-- The Case for PowerShell
 --TORR-- The Dark Side of Technology Careers
---TORR-- The Eclipse Guided Tour - Part 1
+--CO-- The Eclipse Guided Tour - Part 1
 --TORR-- The Eclipse Guided Tour - Part 2
 --CO-- The Elements of Distributed Architecture
 --CO-- The Essentials of COM
@@ -5250,7 +5250,7 @@ The Successful Technical Interview for Interviewers
 --CO-- The xUnit.net Testing Framework
 --TORR-- Theming Basics For Drupal 7
 10 Things Every Designer Should Know About Illustrator
-Thinking Functionally in Scala
+--CO-- Thinking Functionally in Scala
 Thinking Outside the Box with CSS Shapes
 Threat Modeling: The Big Picture
 Tileable Texture Creation in ZBrush
@@ -5319,11 +5319,11 @@ Transitioning From Live Action Footage to Cell Shaded Drawings in After Effects
 Traveling and Loyalty Programs Best Practices
 --CO-- Triggers in Oracle
 Troubleshooting ACLs with Wireshark
-Troubleshooting Cisco Networks: IPv4 Routing Protocols for CCNP R&amp;S 300-135 TSHOOT
-Troubleshooting Cisco Networks: IPv6 Routing Protocols for CCNP R&amp;S 300-135 TSHOOT
-Troubleshooting Cisco Networks: Infrastructure Services for CCNP R&amp;S 300-135 TSHOOT
-Troubleshooting Cisco Networks: Internet Security for CCNP R&amp;S 300-135 TSHOOT
-Troubleshooting Cisco Networks: Layer 2 Protocols for CCNP R&amp;S 300-135 TSHOOT
+Troubleshooting Cisco Networks: IPv4 Routing Protocols for CCNP R&S 300-135 TSHOOT
+Troubleshooting Cisco Networks: IPv6 Routing Protocols for CCNP R&S 300-135 TSHOOT
+Troubleshooting Cisco Networks: Infrastructure Services for CCNP R&S 300-135 TSHOOT
+Troubleshooting Cisco Networks: Internet Security for CCNP R&S 300-135 TSHOOT
+Troubleshooting Cisco Networks: Layer 2 Protocols for CCNP R&S 300-135 TSHOOT
 Troubleshooting Common Rendering Errors in After Effects
 Troubleshooting Essentials for Cisco CCNA 200-125/100-105
 Troubleshooting Processes and Registry with Sysinternals Process Monitor
@@ -5339,7 +5339,7 @@ Turning the Corporate Ladder into an Escalator
 Twig Templates in Craft CMS
 --TORR-- Twilio Service Basics
 Twitter for Business
-Two Tier Enterprise App and API Development with AngularJS &amp; Sails
+--CO-- Two Tier Enterprise App and API Development with AngularJS & Sails
 Type-Driven Development with F#
 --CO-- TypeScript Fundamentals
 --CO-- TypeScript In-depth
@@ -5374,14 +5374,14 @@ Understanding Basic Matchmoving Techniques in PFTrack and MatchMover
 Understanding Color Theory in Concept Art and Illustration
 Understanding Customer Service Processes and Procedures
 Understanding 3D in Photoshop
---TORR-- Understanding Distributed Version Control Systems
+--CO-- Understanding Distributed Version Control Systems
 --CO-- Understanding Enterprise Architecture
 Understanding Facial Anatomy in ZBrush
 Understanding Gradient Meshes in Illustrator
 Understanding Illustrator's Advanced Color Features
 Understanding Machine Learning
 --CO-- Understanding Machine Learning with Python
---TORR-- Understanding Machine Learning with R
+--CO-- Understanding Machine Learning with R
 --CO-- Understanding Metaprogramming
 Understanding Mobile App Components in InDesign
 --CO-- Understanding .NET and WCF Transactions
@@ -5391,9 +5391,9 @@ Understanding Object Transformations in InDesign
 Understanding Perspective Drawing in Illustrator
 --CO-- Understanding Server Hardware
 --CO-- Understanding SharePoint 2013: Part 1 - Basics
---TORR-- Understanding SharePoint 2013: Part 2 - Behind the Scenes
+--CO-- Understanding SharePoint 2013: Part 2 - Behind the Scenes
 --TORR-- Understanding SharePoint 2013: Part 4 - Conventional Development
-Understanding SharePoint 2013: Part 3 - Development Overview
+--CO-- Understanding SharePoint 2013: Part 3 - Development Overview
 --TORR-- Understanding SharePoint 2013: Part 5 - REST and CSOM
 --TORR-- Understanding SharePoint 2013: Part 6 - SharePoint Apps Basics
 --CO-- Understanding Web Service Specifications in WCF
@@ -5422,7 +5422,7 @@ Understanding the Shellshock Bash Bug
 Understanding the Surface Modeling Tools in SOLIDWORKS
 Understanding the Versatility of Your Toolset in SolidWorks
 --CO-- Unit Testing In Java With JUnit
---TORR-- Unit Testing T-SQL Code with tSQLt
+--CO-- Unit Testing T-SQL Code with tSQLt
 --CO-- Unit Testing with F#
 --CO-- Unit Testing with MSTest
 --CO-- Unit Testing with Node.js
@@ -5444,7 +5444,7 @@ Updates and Downloads for Mac
 Updating Legacy SharePoint Customizations to the Add-in Model
 Upgrading Your Farm to SharePoint 2016
 Upgrading Your vSphere Environment
-Usability Testing Approaches for UX Design
+--CO-- Usability Testing Approaches for UX Design
 --CO-- Useful jQuery Plugins
 --CO-- User Experience First and in Context
 User Experience Flow Modeling for Portfolio Websites in Photoshop
@@ -5472,7 +5472,7 @@ Using Failover Clusters in Windows Server 2016
 Using Filter to Control Particles in RealFlow
 --TORR-- Using Force.com Integration APIs to Connect Your Applications
 Using Functoids in the BizTalk 2013 Mapper
---TORR-- Using Git with a GUI
+--CO-- Using Git with a GUI
 --CO-- Using GitFlow
 --CO-- Using Glimpse With ASP.NET, MVC4, and Entity Framework
 --CO-- Using Google PageSpeed Insights to Improve Web Performance
@@ -5498,7 +5498,7 @@ Using MoGraph Effectors to Create a Sports Opener in CINEMA 4D
 --CO-- Using MongoDB with ASP.NET MVC
 Using Morph and Magic Daemons in RealFlow
 Using MotionBuilder's FBIK Control Rigs
---TORR-- Using OAuth to Secure Your ASP.NET API
+--CO-- Using OAuth to Secure Your ASP.NET API
 Using Office Delve 365 (2016)
 Using Office PowerPoint (2016)
 Using Office Sway (2016)
@@ -5575,7 +5575,7 @@ Utilizing the Node Editor in Maya 2015
 V-Ray Hypershade Nodes in Maya
 --TORR-- VBA Fundamentals						--CURRENT--
 --CO-- VB.NET Fundamentals
---CO-- VLANs &amp; Trunking for CCNP Routing &amp; Switching 300-115 SWITCH
+--CO-- VLANs & Trunking for CCNP Routing & Switching 300-115 SWITCH
 VMware Advanced Features Up Close
 VMware Certified Associate - Cloud (VCA-Cloud)
 VMware Certified Associate � Data Center Virtualization (VCA-DCV)
@@ -5625,9 +5625,9 @@ VMware vSphere 5: Installing
 VMware vSphere Advanced Networking
 VMware vSphere Data Protection
 VMware vSphere Networking
-VMware vSphere Optimize &amp; Scale: Monitoring &amp; Automation
-VMware vSphere Optimize &amp; Scale: Performance &amp; High Availability
-VMware vSphere Optimize &amp; Scale: Storage &amp; Networking
+VMware vSphere Optimize & Scale: Monitoring & Automation
+VMware vSphere Optimize & Scale: Performance & High Availability
+VMware vSphere Optimize & Scale: Storage & Networking
 VMware vSphere Performance Monitoring: Tuning vSphere Resources
 VMware vSphere Performance Monitoring: vSphere Performance Tools
 VMware vSphere Performance Monitoring: vSphere Resources
@@ -5695,7 +5695,7 @@ WAN Technologies for Cisco CCNA 200-125/200-105
 --CO-- WPF Advanced Topics
 --CO-- WPF Data Binding in Depth
 --CO-- WPF MVVM In Depth
-WPF Productivity Playbook
+--CO-- WPF Productivity Playbook
 --CO-- WPF and MVVM: Advanced Model Treatment
 --CO-- WPF and MVVM: Test Driven Development of ViewModels
 --CO-- WPF and XAML Fundamentals
@@ -5792,7 +5792,7 @@ Windows 10 Configuring (70-697): Manage Data Access and Protection
 Windows 10 Configuring (70-697): Manage Identity
 Windows 10 Configuring (70-697): Manage Remote Access
 Windows 10 Configuring (70-697): Manage Updates and Recovery
---CO-- Windows 10 Configuring (70-697): Plan Desktop &amp; Device Deployment
+--CO-- Windows 10 Configuring (70-697): Plan Desktop & Device Deployment
 Windows 10 Configuring (70-697): Plan and Implement Microsoft Intune
 Windows 7 Deployment (70-681): Deploying with WDS and SCCM
 Windows 7 Deployment (70-681): Getting Ready to Deploy
@@ -5852,7 +5852,7 @@ Windows Operating System Fundamentals: Install and Configure
 --CO-- Windows Phone Testing and Error Management
 --CO-- Windows Phone and Windows Store Apps With Caliburn.Micro
 Windows PowerShell Best Practices and Patterns
-Windows PowerShell Desired State Configuration Fundamentals
+--CO-- Windows PowerShell Desired State Configuration Fundamentals
 Windows Registry Troubleshooting
 --CO-- Windows Runtime Internals
 Windows Server 2008 Active Directory (70-640) Part 1
@@ -5865,7 +5865,7 @@ Windows Server 2003 Active Directory Fundamentals
 Windows Server 2003 Active Directory Management
 Windows Server 2008 Admin with PowerShell Management Essentials
 Windows Server 2008 Admin with PowerShell Performance Monitoring
-Windows Server 2008 Admin with PowerShell Services &amp; File Systems
+Windows Server 2008 Admin with PowerShell Services & File Systems
 Windows Server 2012 Advanced Infrastructure Management
 Windows Server 2003 Advanced Network Security
 Windows Server 2008 Applications Infrastructure (70-643): Part 1
@@ -5957,8 +5957,8 @@ Windows Workflows with PowerShell
 Windows XP (70-270) Part 3: Backup and Restore and Domain Users
 Windows XP (70-270) Part 1: Initial Configuration
 Windows XP (70-270) Part 2: Security, Printers and Disks
-Windows XP (70-270) Part 4: Troubleshooting &amp; Additional Features
-Windows: How It's Hacked, How to Protect It
+Windows XP (70-270) Part 4: Troubleshooting & Additional Features
+--CO-- Windows: How It's Hacked, How to Protect It
 Wireless Network Penetration Testing
 --CO-- Wireshark 2.0: Fundamentals
 Wireshark Core Protocol Analysis
@@ -6014,7 +6014,7 @@ Working with the Type Tool in Photoshop
 Writing Complex Analytical Queries with Hive
 --CO-- Writing Content With Markdown
 Writing Functional JavaScript Using Ramda
-Writing Highly Maintainable Unit Tests
+--CO-- Writing Highly Maintainable Unit Tests
 Writing Process Instructions and Directions
 Writing Testable Code
 Writing a Business Plan
@@ -6098,10 +6098,10 @@ iPads in the Enterprise
 --CO-- jQuery Fundamentals
 --CO-- jQuery In-Depth
 --CO-- jQuery Mobile and ASP.NET MVC 4
---CO-- jQuery Plugins &amp; jQuery UI
+--CO-- jQuery Plugins & jQuery UI
 --CO-- jQuery Template Fundamentals
 --CO-- jQuery Tips and Tricks
---CO-- jQuery Plugins &amp; jQuery UI
+--CO-- jQuery Plugins & jQuery UI
 --CO-- jQuery-free JavaScript
 --CO-- jQuery: Getting Started
 macOS Development Fundamentals
