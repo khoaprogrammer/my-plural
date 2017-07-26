@@ -122,9 +122,9 @@ Adobe Photoshop Fix Fundamentals
 Adobe Story CC Fundamentals
 Adopting AWS: Watch This First
 Advanced Access Control with Cisco ISE for CCNP Security (300-208) SISAS
-Advanced Analysis Services
+--CO-- Advanced Analysis Services
 Advanced Angular Workflows
-Advanced Array Mesh Techniques in ZBrush
+--CO-- Advanced Array Mesh Techniques in ZBrush
 Advanced Backburner Job Submission
 --CO-- Advanced BizTalk Server 2009
 --CO-- Advanced BizTalk Server 2010
@@ -167,7 +167,7 @@ Advanced Rigid Body Dynamics Using Proxy Objects in Houdini
 Advanced Rotoscope and Keying Techniques in mocha and NUKE
 Advanced Routing for Cisco CCNA 200-125/200-105
 --CO-- Advanced SOLIDWORKS: Solid and Surface Hybrid Modeling
-Advanced SQL Queries in Oracle and SQL Server
+--CO-- Advanced SQL Queries in Oracle and SQL Server
 Advanced Salt Master Tools
 Advanced Security for CCNA Security (210-260) IINS
 Advanced Stereo Workflows in After Effects: Disparity
@@ -230,7 +230,7 @@ Altering Body Weight in ZBrush
 Alternate Uses for Fur in modo
 Alternative Uses for Hair Dynamics in CINEMA 4D
 --CO-- Amazing Things You Can Do With a Web Browser (And a Bit of Code)
-Amazon Web Services (AWS) Fundamentals for System Administrators
+--CO-- Amazon Web Services (AWS) Fundamentals for System Administrators
 --CO-- Amazon Web Services Databases in Depth
 --CO-- An AngularJS Playbook
 --CO-- An Introduction to Algorithmics
@@ -283,13 +283,13 @@ Angular Forms
 --CO-- Angular: Getting Started
 --CO-- AngularJS Application Development
 --CO-- AngularJS Best Practices
-AngularJS Directives Fundamentals
+--CO-- AngularJS Directives Fundamentals
 --CO-- AngularJS Forms Using Bootstrap and MVC 5
 --CO-- AngularJS Front to Back with Web API
 --CO-- AngularJS In-Depth
 --CO-- AngularJS Line of Business Applications
 --CO-- AngularJS Patterns: Clean Code
-AngularJS Routing In-depth
+--CO-- AngularJS Routing In-depth
 --CO-- AngularJS Security Fundamentals
 --CO-- AngularJS Services In-depth
 --CO-- AngularJS Unit Testing in-depth, Using ngMock
@@ -298,7 +298,7 @@ AngularJS for .NET Developers
 --CO-- AngularJS: Get Started
 --CO-- AngularJS: The Big Picture
 --CO-- AngularUI Fundamentals
-Animate CC Animation Techniques
+--CO-- Animate CC Animation Techniques
 Animate CC Building AIR Desktop Applications
 Animate CC Creating a Walk Cycle
 Animate CC Dynamic Anime Action
@@ -458,7 +458,7 @@ Auditing SQL Server With Policy-Based Management
 Audition CC Building on the Fundamentals
 Audition CC Fundamentals
 --CO-- Aurelia Fundamentals
-Authenticating Your AngularJS SPA with ASP.NET Web API and Auth0
+--CO-- Authenticating Your AngularJS SPA with ASP.NET Web API and Auth0
 Authoring Real-time Destruction in Unity 5
 Authoring Sci-fi Visual Effects in Unity 5
 AutoCAD 2017 Essentials: Rendering Interior and Exterior Scenes
@@ -804,7 +804,7 @@ Business Solutions with MDX
 --CO-- C Programming Language Fundamentals
 --CO-- C# 4.0 New Features
 --CO-- C# 6 from Scratch
-C# 7: First Look
+--CO-- C# 7: First Look
 --CO-- C# Best Practices: Collections and Generics
 --CO-- C# Best Practices: Improving on the Basics
 --CO-- C# Collections Fundamentals
@@ -915,7 +915,7 @@ Character Rigging in Softimage
 Character Rigging with Deformers in Toon Boom Harmony
 Character Setup in XSI
 Character Skeleton Building in Houdini
-Character Skin-Weighting Techniques in Maya
+--CO-- Character Skin-Weighting Techniques in Maya
 Character and Scene Development in Maya and Mudbox
 Character and Scene Development in ZBrush
 Characterizing Skeletons with MotionBuilder
@@ -1120,7 +1120,7 @@ Connecting Our Macs to Directory Services
 --CO-- Consolidating MVC Views Using Single Page Techniques
 --CO-- Construct 2 Fundamentals
 Constructing Commercial Storyboards in Photoshop
-Constructing Glyphs for Logos by Hand in Illustrator
+--CO-- Constructing Glyphs for Logos by Hand in Illustrator
 --CO-- Consuming Web Services and Using Local Storage on iOS
 Containers and Images: The Big Picture
 --CO-- Context and Dependency Injection (CDI 1.1)
@@ -1137,7 +1137,7 @@ Contrasting Elements for Portraiture
 Controlling Your Fractures in Houdini
 Controlling an Agent's Actions in Massive Prime
 Converting Pixels to Vectors in Illustrator
-Converting a Photo into a VR Set in 3ds Max
+--CO-- Converting a Photo into a VR Set in 3ds Max
 Converting 3ds Max Models to Presentation Plans in AutoCAD
 --CO-- Coordinating Civil, Architecture & Structure Models with Revit
 Cordova Apps Using Angular, Typescript, and VSCode
@@ -1149,11 +1149,11 @@ Core Data Fundamentals with Swift
 --CO-- Core Windows Phone 7 Development
 CouchDB with Rails
 Crafting Characters from Design to Composite in ZBrush and Maya
-Crafting a Visual Identity in Illustrator CC
+--CO-- Crafting a Visual Identity in Illustrator CC
 --CO-- Create a Windows 10 Image
 --CO-- Creating A Chrome Extension 			
 Creating AI Algorithms Using Kismet in UDK
-Creating AI with Behavior States in Unreal Engine
+--CO-- Creating AI with Behavior States in Unreal Engine
 Creating Acceptance Tests With FitNesse
 Creating Advanced Character Rigs in Harmony
 Creating Advanced Shapes in Illustrator
@@ -1175,7 +1175,7 @@ Creating Automotive Materials in Unreal Engine 4
 Creating Beautiful Animated Sets in NUKE and Photoshop
 Creating Billboard Artwork in Photoshop
 Creating Blood FX in Maya and RealFlow
-Creating Branding Designs for Video Games in Illustrator
+--CO-- Creating Branding Designs for Video Games in Illustrator
 --CO-- Creating Calculated Columns in SharePoint
 Creating Caricatures in Mudbox
 Creating Caricatures in ZBrush
@@ -1201,7 +1201,7 @@ Creating Contrasting Animations with Solid Shapes in After Effects
 Creating Copic Marker Illustrations in SketchBook Pro
 Creating Costumes for Production in Maya
 Creating Crowds with Populate in 3ds Max
-Creating Custom Brush Presets in Toon Boom Harmony
+--CO-- Creating Custom Brush Presets in Toon Boom Harmony
 --CO-- Creating Custom Builds with Dojo
 --CO-- Creating Custom Controls in Xamarin.Forms
 --CO-- Creating Custom Controls in iOS
@@ -1242,7 +1242,7 @@ Creating Foliage Brushes for Digital Illustration
 Creating Fullscreen HTML5 Video Backgrounds
 Creating Functional Threads in SOLIDWORKS
 Creating Furniture, Fixture, and Appliance Symbols in AutoCAD
-Creating GUIs Using PowerShell Studio 2015 - The Essentials
+--CO-- Creating GUIs Using PowerShell Studio 2015 - The Essentials
 Creating Game Animations in Blender
 Creating Game Assets in ZBrush
 Creating Game Characters with Maya and ZBrush
@@ -1358,7 +1358,7 @@ Creating Section Drawings in Revit
 Creating Slow Motion Fluid Effects in RealFlow
 Creating Sprite Sheets in Flash for Edge Animate
 Creating Stationery Packages for Clients in Illustrator
-Creating Stylized Art for Isometric Games in 3ds Max
+--CO-- Creating Stylized Art for Isometric Games in 3ds Max
 Creating Stylized Digital Artwork in Photoshop
 Creating Stylized Female Character Concepts in Photoshop
 Creating Stylized Females in CINEMA 4D
@@ -1395,7 +1395,7 @@ Creating Web and App Prototypes with InVision
 Creating Working Drawings for Your Construction Documents in AutoCAD
 Creating Your First Big Data Hadoop Cluster Using Cloudera CDH
 Creating Your First Broadcast Opener in CINEMA 4D and After Effects
-Creating Your First Character in Maya
+--CO-- Creating Your First Character in Maya
 --CO-- Creating Your First Spring Boot Application
 Creating Your Own Custom Pyro FX in Houdini
 Creating a Ballistic Hit in CINEMA 4D and TurbulenceFD
@@ -1691,7 +1691,7 @@ Deploy Windows Devices and Apps (70-695): Application Compatibility
 Deploy Windows Devices and Apps (70-695): Maintain Desktop Images
 Deploy Windows Devices and Apps (70-695): OSD Infrastructure
 Deploy Windows Devices and Apps (70-695): Zero Touch Deployment
-Deploying Consul
+--CO-- Deploying Consul
 --DOWN-- Deploying GameSalad Games for Testing
 Deploying .NET Applications with Octopus Deploy
 Deploying Windows 10 Anniversary Edition (v1607) with MDT
@@ -1711,7 +1711,7 @@ Design Patterns in C++: Behavioral - Chain of Responsibility to Memento
 Design Patterns in C++: Behavioral - Observer to Visitor
 Design Patterns in C++: Creational
 --CO-- Design Patterns in C++: Structural - Adapter to Decorator
-Design Patterns in C++: Structural - Fa�ade to Proxy
+--CO-- Design Patterns in C++: Structural - Façade to Proxy
 Design Patterns in Java: Behavioral
 --CO-- Design Patterns in Java: Creational
 --CO-- Design Patterns in Java: Structural
@@ -1757,7 +1757,7 @@ Designing VMware Infrastructure
 Designing Zombie Minions in Photoshop
 Designing a Boss Battle Environment in Photoshop
 Designing a Cast of Characters in Photoshop
-Designing a Character for Mobile Games in ZBrush
+--CO-- Designing a Character for Mobile Games in ZBrush
 Designing a Concert Poster in Photoshop
 Designing a Cosmetic Billboard in Illustrator and Photoshop
 Designing a Creative Print Shot in Photoshop
@@ -1775,7 +1775,7 @@ Designing a Rocket for 3D Printing in Tinkercad
 Designing a Scary Female Monster in ZBrush
 Designing a Sea Creature in ZBrush
 Designing a Single Page Product Website in Photoshop and HTML
-Designing a Splash Page for Your Mobile App
+--CO-- Designing a Splash Page for Your Mobile App
 Designing a Surreal Female Character in ZBrush
 Designing a Surreal Skull in Photoshop
 Designing a Two Color T-Shirt in Illustrator
@@ -1833,7 +1833,7 @@ Developing Symbol Systems in Illustrator
 Developing UX for an iOS Social Media App
 Developing Unified Asset Systems in Illustrator
 Developing Your First JD Edwards EnterpriseOne Interactive Application
-Developing a Killer Personal Brand
+--CO-- Developing a Killer Personal Brand
 --CO-- Developing a Real World Application With Kendo UI
 Developing a Workflow for Rendering Fur in V-Ray
 --CO-- Developing and Deploying SQL Server ISV Applications
@@ -2129,7 +2129,7 @@ Exploring Different Smoke Types in 3ds Max and FumeFX
 Exploring Dynamo Geometry
 Exploring Human Muscles Setup in Maya
 Exploring Layer Effects and Styles in Photoshop
-Exploring Maya 2017
+--CO-- Exploring Maya 2017
 Exploring Maya 2016
 Exploring Modeling Workflows in Maya
 Exploring NURBS in Maya
@@ -2198,7 +2198,7 @@ Force Layout Graphs in D3
 Force.com Platform - The Big Picture
 --CO-- Force.com and Apex Fundamentals for Developers
 --CO-- Force.com for Developers
-Force.com for .NET Developers
+--CO-- Force.com for .NET Developers
 Forefront Threat Management Gateway 2010: Configuring
 Forefront Threat Management Gateway 2010: Planning and Installing
 Forefront Unified Access Gateway (UAG) Essentials
@@ -2268,7 +2268,7 @@ Game Character Creation in 3ds Max and ZBrush
 Game Character Rigging Fundamentals
 Game Character UVs Made Easy in 3ds Max
 Game Environment Modeling Fundamentals
-Game Environment Texturing Fundamentals
+--CO-- Game Environment Texturing Fundamentals
 Game Optimization Techniques in Unity
 --CO-- Game Programming with Python and PyGame
 Game Prop Concept Fundamentals
@@ -2358,7 +2358,7 @@ Getting Started with Ember 2
 --CO-- Getting Started with Entity Framework 5
 --CO-- Getting Started with Entity Framework 6
 --CO-- Getting Started with Excel 2016 for Mac
-Getting Started with FPGA Programming with VHDL
+--CO-- Getting Started with FPGA Programming with VHDL
 Getting Started with Freeform Modeling in Inventor
 Getting Started with Fur in MODO
 Getting Started with Fusion 360 Surface Modeling
@@ -2412,7 +2412,7 @@ Getting Started with Progressive Web Apps
 Getting Started with Project Online with Dux Raymond Sy
 Getting Started with Python Scripting in Maya
 Getting Started with Raygun in .NET
-Getting Started with Reactive Programming Using RxJS
+--CO-- Getting Started with Reactive Programming Using RxJS
 Getting Started with RealFlow
 Getting Started with Replicators in MODO
 Getting Started with Sculpting in MODO
@@ -2436,7 +2436,7 @@ Getting Started with VR in Unity
 --CO-- Getting Started with Wijmo 3
 Getting Started with ZBrush
 Getting Started with ZSketching
-Getting Started with a Tablet in Illustrator
+--CO-- Getting Started with a Tablet in Illustrator
 Getting Started with mocha for After Effects
 Getting Started with the Freeform Modeling Tools in 3ds Max
 Getting Started with the Graphite Modeling Tools in 3ds Max
@@ -2515,7 +2515,7 @@ Hands-on Responsive Web Design 1: Media Queries & CSS Preprocessing
 Hard Surface Modeling Fundamentals in 3ds Max
 Hard Surface Modeling Techniques in MODO
 Hard Surface Modeling Workflows in 3ds Max
-Hard Surface Modeling a Modular Structure for Games in 3ds Max
+--CO-- Hard Surface Modeling a Modular Structure for Games in 3ds Max
 Hard Surface Techniques in ZBrush 4R5
 --CO-- Hardcore Functional Programming in JavaScript
 --CO-- Hardware & Network Troubleshooting for CompTIA A+ (220-901)
@@ -2531,7 +2531,7 @@ High-resolution Game Character Creation Pipeline in ZBrush and Maya
 High-resolution Product Rendering in CINEMA 4D
 HoloLens Development Fundamentals
 --CO-- Home Automation Fundamentals
-Hosting SQL Server in Microsoft Azure IaaS Fundamentals
+--CO-- Hosting SQL Server in Microsoft Azure IaaS Fundamentals
 Houdini VFX for Games
 Houdini: Intermediate Ocean FX
 --CO-- How Git Works
@@ -2599,7 +2599,7 @@ Illustrator CC Curvature Tool
 Illustrator CC Designing Type With Graphic Styles
 Illustrator CC Drawing and Coloring with Live Paint
 Illustrator CC Fundamentals
-Illustrator CC Pen Tool
+--CO-- Illustrator CC Pen Tool
 Illustrator CC Perspective Tool
 Illustrator CC Recolor Artwork
 Illustrator CC Simple Designs
@@ -2764,7 +2764,7 @@ Interior Lighting Manipulation in Photoshop
 Interior Lighting and Rendering Using Arnold in Maya
 --CO-- Interior Modeling Techniques in 3ds Max
 Interior Rendering Strategies with V-Ray and 3ds Max
-Interior Rendering Techniques with mental ray and 3ds Max
+--CO-- Interior Rendering Techniques with mental ray and 3ds Max
 Interior Rendering Techniques with mental ray and 3ds Max
 Interior Scene Reconstruction Techniques in Photoshop
 Interior UV and Texture Tips in Maya
@@ -2860,7 +2860,7 @@ Introduction to Cisco Network Design for CCDA DESGN (200-310)
 Introduction to Citrix XenDesktop 7.1
 Introduction to ColdFusion
 Introduction to Collisions in Houdini
-Introduction to Color Grading in DaVinci Resolve
+--CO-- Introduction to Color Grading in DaVinci Resolve
 Introduction to CompTIA and the Network+ Exam (N10-006)
 Introduction to Compositor in Blender
 Introduction to Conceptual Design in Autodesk FormIt 360 Pro
@@ -2963,7 +2963,7 @@ Introduction to Maya 2015
 Introduction to Maya 2014
 Introduction to Maya 2009
 Introduction to Maya 2012
-Introduction to Maya 2017
+--CO-- Introduction to Maya 2017
 Introduction to Maya Fur
 Introduction to Maya Muscle
 Introduction to Mecanim in Unity
@@ -3063,7 +3063,7 @@ Introduction to Rigging in Maya
 Introduction to Rigging in Maya 2008
 Introduction to Rigging in Maya 2013
 Introduction to Rigging in Maya 2014
-Introduction to Rigging in Maya 2017
+--CO-- Introduction to Rigging in Maya 2017
 Introduction to Rigging in Softimage
 Introduction to Rigging in XSI
 Introduction to Rigging in 3ds Max
@@ -3186,7 +3186,7 @@ Introduction to the Bash Shell on Mac OS and Linux
 --CO-- Introduction to the Facebook Graph API
 --CO-- Introduction to the Flask Microframework
 --CO-- Introduction to the Java API for WebSockets
-Introduction to the Junos OS
+--CO-- Introduction to the Junos OS
 --CO-- Introduction to the .NET Compiler Platform
 Introduction to the RotoPaint Node in NUKE
 --CO-- Introduction to the Web Audio API
@@ -3243,7 +3243,7 @@ JavaScript Asynchronous Module Definition (AMD) Explained
 --CO-- JavaScript for C# Developers
 --CO-- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
 --CO-- JavaScript: From Fundamentals to Functional JS
-JavaScript: The Good Parts
+--CO-- JavaScript: The Good Parts
 Joint-based Facial Rigging in Maya
 --CO-- JsRender Fundamentals
 Juniper JNCIA-Junos - Introduction to Junos OS
@@ -3480,7 +3480,7 @@ Mastering Microsoft Azure Resource Manager
 --CO-- Mastering Portrait Editing in Photoshop
 --CO-- Mastering React Testing with Jest
 --CO-- Mastering Visual Studio 2012
---DOWN-- Mastering Visual Studio 2013
+--CO-- Mastering Visual Studio 2013
 --CO-- Mastering Your Own Domain
 Mastering Your SAP GUI
 Mastering the Graph Editor in After Effects
@@ -3666,7 +3666,7 @@ Modeling a Female Character for Animation in Maya
 Modeling a Female Hero in ZBrush and Maya
 Modeling a Hard Surface Sci-Fi Asset in 3ds Max
 Modeling a High-Resolution Tank in 3ds Max
-Modeling a High-performance Vehicle in 3ds Max
+--CO-- Modeling a High-performance Vehicle in 3ds Max
 Modeling a Human Marionette in Softimage and ZBrush
 Modeling a Large Multi-Level Parking Structure in Revit
 Modeling a Machine Gun Turret in CINEMA 4D
@@ -3685,7 +3685,7 @@ Modeling and Rendering a Concept Design for Footwear in Blender and KeyShot
 Modeling and Rendering a Face Mask with ZBrush and KeyShot
 Modeling and Rigging a Cartoon Shark in 3ds Max
 Modeling and Rigging a Hydraulic Crane in 3ds Max
-Modeling and Texturing a Low Poly Game Environment in Maya
+--CO-- Modeling and Texturing a Low Poly Game Environment in Maya
 Modeling and Texturing a Low Poly Helmet for Games in 3ds Max
 Modeling and Texturing a Next-gen Building for Games in 3ds Max
 Modeling for Photorealistic Interiors with CINEMA 4D
@@ -4086,7 +4086,7 @@ Play by Play: JitJea with Jeffrey Snover
 Play by Play: Just Enough Administration (JEA)
 ​--CO-- Play by Play: Knockout Cart with Scott Hanselman
 ​--CO-- Play by Play: Knockout Refactoring
-Play by Play: Knowing When to Code in Salesforce
+--CO-- Play by Play: Knowing When to Code in Salesforce
 ​--CO-- Play by Play: Learning AngularJS With Ken Cenerelli and John Papa
 Play by Play: Leveraging Storage Policies in vSphere with PowerShell
 ​Play by Play: MVP Scope Discovery with Steven Maguire
@@ -4288,8 +4288,8 @@ Professional Series: Texturing Military Vehicles in MARI
 Professional Site Design and Plan Production in AutoCAD
 Professional Tips for Creating Thumbnails in SketchBook Pro
 Professional Tips for Modeling Complex Shapes: Part 2
-Professional Tips for Modeling Complex Shapes: Part 3
-Professional Tips for Modeling Complex Shapes: Part 4
+--CO-- Professional Tips for Modeling Complex Shapes: Part 3
+--CO-- Professional Tips for Modeling Complex Shapes: Part 4
 Professional Tips for Modeling Complex Shapes: Part 1
 --CO-- Professional Watercolor Renderings Using Photoshop and Revit
 --CO-- Professionalism for Developers
@@ -4320,7 +4320,7 @@ Puppet 4: Server and Puppet Enterprise
 Puppet 4: Working with Files and Templates
 Puppet 4: Working with Modules and Classes
 --CO-- Puppet Fundamentals for System Administrators
-Pushing Your C# Skills Beyond the Basics in Unity
+--CO-- Pushing Your C# Skills Beyond the Basics in Unity
 Pushing Your Character Rigs Beyond the Basics in Maya
 Pushing Your Character Rigs Beyond the Basics in 3ds Max
 --CO-- Python Desktop Application Development
@@ -4394,7 +4394,7 @@ Quick Start to ZBrush: Volume 2
 Quick Start to ZBrush: Volume 3
 Quick Start to ZBrush: Volume 4
 Quick Start to ZBrush: Volume 5
-Quick and Dirty VFX Tips in Maya
+--CO-- Quick and Dirty VFX Tips in Maya
 Quick and Effective Character Illustration in Photoshop
 Quick and Effective Environment Illustration in Photoshop
 Quickly Rendering Architectural Visualizations in Maya and Maxwell Render
@@ -4608,7 +4608,7 @@ Rotoscoping in After Effects
 Routing IPv4 and IPv6 for Cisco CCNA 200-125/100-105
 --CO-- Ruby Beyond the Basics
 --CO-- Ruby Fundamentals
---DOWN-- Ruby on Rails - A Jumpstart for .NET Developers
+--CO-- Ruby on Rails - A Jumpstart for .NET Developers
 --CO-- Ruby on Rails 4: Getting Started
 Rust Fundamentals
 SAP Business Warehouse Query Fundamentals
@@ -4679,7 +4679,7 @@ SQL Server 2012 Querying (70-461) Part 2
 SQL Server 2012: Evaluating and Sizing Hardware
 --TORR-- SQL Server 2012: Installation and Configuration
 --TORR-- SQL Server 2012: Nonclustered Columnstore Indexes
---TORR-- SQL Server 2012: Transact-SQL Error Handling
+--CO-- SQL Server 2012: Transact-SQL Error Handling
 --CO-- SQL Server Business Intelligence Overview
 --CO-- SQL Server Continuous Database Delivery with Flyway
 --TORR-- SQL Server Fundamentals
@@ -4695,12 +4695,12 @@ SQL Server Reporting Services Playbook
 SQL Server: Building Simple Asynchronous Applications
 --CO-- SQL Server: Change Data Capture
 --TORR-- SQL Server: Collecting and Analyzing Trace Data
---TORR-- SQL Server: Common Performance Issue Patterns
+--CO-- SQL Server: Common Performance Issue Patterns
 --CO-- SQL Server: Common Query Tuning Problems and Solutions - Part 1
 --CO-- SQL Server: Common Query Tuning Problems and Solutions - Part 2
 SQL Server: Consolidation Tactics and Best Practices
 --TORR-- SQL Server: Database Creation, Configuration, and Alteration
---TORR-- SQL Server: Deadlock Analysis and Prevention
+--CO-- SQL Server: Deadlock Analysis and Prevention
 --CO-- SQL Server: Detecting and Correcting Database Corruption
 SQL Server: Improving Storage Subsystem Performance
 --CO-- SQL Server: Index Fragmentation Internals, Analysis, and Solutions
@@ -4709,7 +4709,7 @@ SQL Server: Installing and Configuring SQL Server 2016
 SQL Server: Introduction to Query Store
 --CO-- SQL Server: Logging, Recovery, and the Transaction Log
 --CO-- SQL Server: Maintenance Plans
---TORR-- SQL Server: Myths and Misconceptions
+--CO-- SQL Server: Myths and Misconceptions
 --CO-- SQL Server: Optimizing Ad Hoc Statement Performance
 --CO-- SQL Server: Optimizing Stored Procedure Performance
 --CO-- SQL Server: Optimizing Stored Procedure Performance - Part 2
@@ -4718,7 +4718,7 @@ SQL Server: Introduction to Query Store
 SQL Server: Replacing Profiler with Extended Events
 SQL Server: Scaling SQL Server 2012 and 2014: Part 2
 --TORR-- SQL Server: Temporary Objects
---TORR-- SQL Server: Transact-SQL Basic Data Modification
+--CO-- SQL Server: Transact-SQL Basic Data Modification
 --TORR-- SQL Server: Transact-SQL Basic Data Retrieval
 SQL Server: Transact-SQL Common Table Expressions
 --CO-- SQL Server: Transactional Replication Fundamentals
@@ -4915,7 +4915,7 @@ SharePoint 2010 No-Code Customizations for Power Users
 --TORR-- SharePoint 2013 PerformancePoint Services
 SharePoint 2010 Personalizing SharePoint for End Users
 SharePoint 2013 Search Back To Front
---TORR-- SharePoint 2013 Search Development
+--CO-- SharePoint 2013 Search Development
 --CO-- SharePoint 2010 Security
 SharePoint 2010 Security Part 2
 --CO-- SharePoint 2007 Services Client Programming
@@ -4992,11 +4992,11 @@ Simulating Large and Small Scale Liquids in Bifrost
 Simulating Realistic Melting Wax in RealFlow
 Simulating Sandman Effects in Maya
 Simulating a Burning Matchstick Effect in Maya
-Simulating a Burning Tree in Maya
+--CO-- Simulating a Burning Tree in Maya
 Simulating a Disintegration Effect in Maya
 Simulating a Dry Ice Effect in Maya
 Simulating a Flamethrower Effect in Maya
-Simulating a Fluid Driven Particle System in Maya
+--CO-- Simulating a Fluid Driven Particle System in Maya
 Simulating a Ground Dust Explosion in Maya
 Simulating a Large Dust Storm in Maya
 Simulating a Rocket Launch Sequence in 3ds Max and FumeFX
@@ -5054,7 +5054,7 @@ Speed Painting Environment Concepts in Photoshop
 Speed Painting Techniques for Environment Work in Photoshop
 Speed Sculpting a Cartoon Head in ZBrush
 Speed Skinning Techniques in Maya
---TORR-- Speed: ASP.NET MVC Edition
+--CO-- Speed: ASP.NET MVC Edition
 SpeedGrade CC Fundamentals
 Speeding up Your CSS Workflow with Sass and Compass
 Sports Bottle Package Design in Photoshop and Illustrator
@@ -5134,7 +5134,7 @@ TCP and UDP Operation for Cisco CCNA 200-125/100-105
 --CO-- TFS Build 2015: First Look
 --TORR-- TFS Integration
 --CO-- TPL Async
---TORR-- Tactical Design Patterns in .NET: Control Flow
+--CO-- Tactical Design Patterns in .NET: Control Flow
 --CO-- Tactical Design Patterns in .NET: Creating Objects
 --CO-- Tactical Design Patterns in .NET: Managing Responsibilities
 Tactics and Tools for Troubleshooting Front-end Web Development
@@ -5252,7 +5252,7 @@ The Successful Technical Interview for Interviewers
 10 Things Every Designer Should Know About Illustrator
 --CO-- Thinking Functionally in Scala
 Thinking Outside the Box with CSS Shapes
-Threat Modeling: The Big Picture
+--CO-- Threat Modeling: The Big Picture
 Tileable Texture Creation in ZBrush
 Time Management for Technical Professionals
 Time Management in a World of Interruptions
@@ -5358,7 +5358,7 @@ UV Mapping Workflows in Maya 2008
 UV Mapping Workflows in 3ds Max
 UV Master in ZBrush
 UWP Audio Fundamentals
---TORR-- UX Engineering Process
+--CO-- UX Engineering Process
 UX Fundamentals
 UX-driven Software Design
 Ultimate Fluids
@@ -5392,10 +5392,10 @@ Understanding Perspective Drawing in Illustrator
 --CO-- Understanding Server Hardware
 --CO-- Understanding SharePoint 2013: Part 1 - Basics
 --CO-- Understanding SharePoint 2013: Part 2 - Behind the Scenes
---TORR-- Understanding SharePoint 2013: Part 4 - Conventional Development
+--CO-- Understanding SharePoint 2013: Part 4 - Conventional Development
 --CO-- Understanding SharePoint 2013: Part 3 - Development Overview
---TORR-- Understanding SharePoint 2013: Part 5 - REST and CSOM
---TORR-- Understanding SharePoint 2013: Part 6 - SharePoint Apps Basics
+--CO-- Understanding SharePoint 2013: Part 5 - REST and CSOM
+--CO-- Understanding SharePoint 2013: Part 6 - SharePoint Apps Basics
 --CO-- Understanding Web Service Specifications in WCF
 Understanding and Applying Factor Analysis and PCA
 Understanding and Applying Financial Risk Modeling Techniques
@@ -5460,7 +5460,7 @@ Using Cisco ACI with VMware vSphere Integration
 Using Cisco VIRL for CCENT and CCNA Studies
 Using Cloth Simulations with a Mechanical Rig in Maya
 Using DWG Files to Create 3D Models in SketchUp
-Using DataTables to Create Data Driven Gameplay in Unreal Engine
+--CO-- Using DataTables to Create Data Driven Gameplay in Unreal Engine
 Using Docker on AWS
 Using Docker with AWS Elastic Beanstalk
 Using Dynamics for Destruction in Maya
@@ -5573,7 +5573,7 @@ Utilizing the Muscle System in CINEMA 4D
 Utilizing the Node Editor in Maya 2013
 Utilizing the Node Editor in Maya 2015
 V-Ray Hypershade Nodes in Maya
---TORR-- VBA Fundamentals						--CURRENT--
+--TORR-- VBA Fundamentals
 --CO-- VB.NET Fundamentals
 --CO-- VLANs & Trunking for CCNP Routing & Switching 300-115 SWITCH
 VMware Advanced Features Up Close
@@ -6146,4 +6146,3 @@ vSphere 6 Data Center: Introduction
 --CO-- vSphere 6 Foundations: Introduction
 vSphere 6 Foundations: Perform Basic Monitoring
 vSphere 6 Foundations: Perform Basic Troubleshooting
-
