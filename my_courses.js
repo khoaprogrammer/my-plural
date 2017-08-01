@@ -663,8 +663,8 @@ Building Complex Surface Geometry in SOLIDWORKS
 --CO-- Building Cross Platform Mobile Apps with C#, Xamarin, and Azure
 --CO-- Building Cross Platform Native Mobile Applications with NativeScript
 Building Cross-Platform Mobile Apps with Telerik AppBuilder
-Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio and C# - Part 2
-Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio, and C# - Part 1
+--CO-- Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio and C# - Part 2
+--CO-- Building Cross-Platform iOS/Android Apps with Xamarin, Visual Studio, and C# - Part 1
 --CO-- Building Cross-platform Applications with .NET Core
 Building Data Centric Apps with Angular and BreezeJS
 --CO-- Building Data-Centric Single Page Apps with Breeze
@@ -2500,7 +2500,7 @@ HTML Document Flow
 Hacking Ghost
 Hacking VS Code: Write Your First Extension for Visual Studio Code
 Hacking the User Experience / UX for Developers
-Hadoop for .NET Developers
+--CO-- Hadoop for .NET Developers
 Haml and Sass
 Hands On Foundation 5
 --CO-- Hands On Responsive Web Design
@@ -2967,6 +2967,7 @@ Introduction to Maya 2012
 Introduction to Maya Fur
 Introduction to Maya Muscle
 Introduction to Mecanim in Unity
+--CO-- Introduction to Microsoft Azure Infrastructure as a Service
 Introduction to Microsoft Business Intelligence End-user Tools
 --CO-- Introduction to Microsoft Office Open XML
 --CO-- Introduction to Microsoft Orleans
@@ -3129,8 +3130,8 @@ Introduction to VMware vCloud Automation Center (vCAC)
 Introduction to Virtualization
 --CO-- Introduction to Visual Studio 2013 - Part 1
 --CO-- Introduction to Visual Studio 2013 - Part 2
-Introduction to Visual Studio 2010 - Part 1
-Introduction to Visual Studio 2010 - Part 2
+--CO-- Introduction to Visual Studio 2010 - Part 1
+--CO-- Introduction to Visual Studio 2010 - Part 2
 --CO-- Introduction to Visual Studio 2012 - Part 1
 --CO-- Introduction to Visual Studio 2012 - Part 2
 --CO-- Introduction to Visual Studio LightSwitch 2011
@@ -3149,7 +3150,7 @@ Introduction to Windows 10
 --CO-- Introduction to Windows Embedded Standard 7
 --CO-- Introduction to Windows Forms
 Introduction to Windows Phone 8
-Introduction to Wireshark
+--CO-- Introduction to Wireshark
 Introduction to WordPress
 --CO-- Introduction to WordPress Plugin Development
 Introduction to Workflow Development with VMware vRealize Orchestrator (vRO)
@@ -3508,14 +3509,14 @@ Maya Animation Reference Library: Animate
 Maya Animation Reference Library: Birds
 Maya Character and Environment FX with Bifrost and XGen
 Maya Dynamics: BOSS Ocean Simulations
-Maya Dynamics: Bifrost for Small-scale Simulations
+--CO-- Maya Dynamics: Bifrost for Small-scale Simulations
 Maya Dynamics: Creating Effects With Multiple Solvers
 Maya Dynamics: Quick Tips for Essential Effects
 Maya Dynamics: Using Particles to Create Magical Smoke
 Maya Dynamics: nHair, Xgen, and Interactive Grooming
 Maya Dynamics: nParticles and Expressions
-Maya Fluid Fundamentals
-Maya Modeling Fundamentals
+--CO-- Maya Fluid Fundamentals
+--CO-- Maya Modeling Fundamentals
 Maya Modeling Reference Library: Create UVs
 Maya Modeling Reference Library: Edit Mesh
 Maya Modeling Reference Library: Edit UVs
@@ -3535,7 +3536,7 @@ Maya Shading and Texturing Fundamentals
 Maya and Fume FX Dust in Production
 Maya for CINEMA 4D Artists
 Maya for Softimage Artists
-Maya nParticle Fundamentals
+--CO-- Maya nParticle Fundamentals
 Maya to MotionBuilder Integration
 --CO-- Measuring .NET Performance
 Meet CoffeeScript
@@ -3697,7 +3698,7 @@ Modeling, Lighting, and Rendering Interior Visualizations in 3ds Max
 --CO-- Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
 --CO-- Modern Structured Logging With Serilog and Seq
 --CO-- Modern Web Layout with Flexbox and CSS Grid
---TORR-- Modern, Modular JavaScript with SystemJS and jspm
+--CO-- Modern, Modular JavaScript with SystemJS and jspm
 --CO-- Modernizing Your Websites with Azure Platform as a Service
 Modifying an Existing Prosthetic Design with Tinkercad
 Modo Lighting Fundamentals
@@ -3780,7 +3781,7 @@ Network Infrastructure Protection for CCNP Security (300-206) SENSS
 Network Interface Layer and Ethernet Operation for Cisco CCNA 200-125/100-105
 Network Layer Addressing and Operation for Cisco CCNA 200-125/100-105
 --CO-- Network Operations for CompTIA Network+ (N10-006)
-Network Penetration Testing Using Python and Kali Linux
+--CO-- Network Penetration Testing Using Python and Kali Linux
 --CO-- Network Security Testing With NMAP
 Network Security for CompTIA Network+ (N10-006)
 Network Services for Cisco CCNA 200-125/200-105
@@ -3810,7 +3811,7 @@ Node.js for .NET Developers
 Non-destructive Retargeting of MOCAP Animation in Maya
 Nuke Stereoscopic Compositing and Conversion
 OAuth2 and OpenID Connect Strategies for AngularJS and ASP.NET
-OCP Upgrade to Oracle Database 12c Management
+--CO-- OCP Upgrade to Oracle Database 12c Management
 OCP 12c Performing Backup and Recovery Using New Features of RMAN
 OCP 12c Using Performance Enhancements in Oracle 12c
 OCP 12c Using the New Security Features
@@ -3868,8 +3869,8 @@ Oracle Cloud for Developers
 Oracle Compute Cloud Service Foundations
 Oracle Database 12c Disaster Recovery and Data Movement
 --CO-- Oracle Database 12c Fundamentals
-Oracle Database 12c Performance Tuning and Optimization
-Oracle Database 12c: Installation and Upgrade
+--CO-- Oracle Database 12c Performance Tuning and Optimization
+--CO-- Oracle Database 12c: Installation and Upgrade
 --DOWN-- Oracle Developer Essentials: Data Types
 Oracle Developer Essentials: Tables and Indexes
 --CO-- Oracle Developer Essentials: Views, Synonyms and Triggers
@@ -3894,7 +3895,7 @@ Overcoming Tracking and Graphics Integration Issues in After Effects
 Overview of Maya Ocean Locators and Wakes
 --CO-- Overview of the TOGAF� 9.1 Enterprise Architecture Framework
 PCI DSS: The Big Picture
-Nginx and PHP Fundamentals
+--CO-- PHP Fundamentals
 PHP Web Application Security
 --CO-- PHP: Get Started
 PMI-ACP�: Agile Communications Practices and Agile Tools (5 of 11)
@@ -3955,7 +3956,7 @@ Painting and Rendering Ptex Textures Using Mudbox and Maya
 --CO-- Pair Programming
 --CO-- Parallel Computing with CUDA
 Parametric Modeling and Sketch Constraints in Fusion 360
-Parametric Modeling and Sketch Constraints in Inventor
+--CO-- Parametric Modeling and Sketch Constraints in Inventor
 --CO-- Parent-Child Data with EF, MVC, Knockout, Ajax, and Validation
 Particle Effects in CryENGINE
 Particle Morphing in RealFlow
@@ -4418,7 +4419,7 @@ Ragdoll Techniques in MotionBuilder
 --CO-- Rails 4.1 Performance Fundamentals
 Rails 2 from Scratch
 Rails Rendering
---TORR-- Rapid Application Prototyping with SharePoint and LightSwitch
+--CO-- Rapid Application Prototyping with SharePoint and LightSwitch
 Rapid Concept Art Techniques in Photoshop and ZBrush
 Rapid Concept Illustration for AAA Productions in Photoshop
 --CO-- Rapid ES6 Training
@@ -4510,9 +4511,9 @@ Replicating Materials and Textures in ArtRage
 Replicating an Italian Renaissance Era Temple in Rhino
 --CO-- Reporting Services Advanced Topics
 --CO-- Reporting Services Report Development Fundamentals - Part 1
-Reporting Services Report Development Fundamentals -Part 2
+--CO-- Reporting Services Report Development Fundamentals -Part 2
 --CO-- Reporting Services Report Server Administration
---TORR-- Reporting on Dynamics CRM Data
+--CO-- Reporting on Dynamics CRM Data
 Reporting, Monitoring and Diagnostics with PowerCLI
 --CO-- RequireJS: JavaScript Dependency Injection and Module Loading
 Research and Analysis for CASP (CAS-002)
@@ -4615,7 +4616,7 @@ SAP Business Warehouse Query Fundamentals
 SAP Business Warehouse: The Big Picture
 SAP Crystal Reports Fundamentals
 --CO-- SAP: Getting Started
---TORR-- SEO Fundamentals
+--CO-- SEO Fundamentals
 --TORR-- SMACSS: Scalable Modular Architecture for CSS
 --CO-- SOLID Principles of Object Oriented Design
 --CO-- SOLIDWORKS - Advanced Filleting Techniques
@@ -4655,7 +4656,7 @@ SOLIDWORKS Simulation - Troubleshooting Common Errors
 SOLIDWORKS: Design for Mill Manufacturing
 SOLIDWORKS: Weldments in Assemblies
 --CO-- SQL Azure
---TORR-- SQL Big Data Convergence - The Big Picture
+--CO-- SQL Big Data Convergence - The Big Picture
 SQL Data Wrangling in Oracle: Table Data
 SQL Server 2008 Administration (70-432): Part 1
 SQL Server 2008 Administration (70-432): Part 2
@@ -4672,18 +4673,18 @@ SQL Server 2012 Database Administration (70-462) Part 3
 SQL Server 2008 Database Development (70-433) Part 1
 SQL Server 2008 Database Development (70-433) Part 2
 --CO-- SQL Server 2016 New Features for Developers
-SQL Server 2012 Querying (70-461) Part 1
-SQL Server 2012 Querying (70-461) Part 2
+--CO-- SQL Server 2012 Querying (70-461) Part 1
+--CO-- SQL Server 2012 Querying (70-461) Part 2
 --CO-- SQL Server 2012-2014 Native File Streaming
 --CO-- SQL Server - TSQL
 SQL Server 2012: Evaluating and Sizing Hardware
 --TORR-- SQL Server 2012: Installation and Configuration
---TORR-- SQL Server 2012: Nonclustered Columnstore Indexes
+--CO-- SQL Server 2012: Nonclustered Columnstore Indexes
 --CO-- SQL Server 2012: Transact-SQL Error Handling
 --CO-- SQL Server Business Intelligence Overview
 --CO-- SQL Server Continuous Database Delivery with Flyway
---TORR-- SQL Server Fundamentals
---TORR-- SQL Server Management Studio by Example
+--CO-- SQL Server Fundamentals
+--CO-- SQL Server Management Studio by Example
 --CO-- SQL Server Performance: Indexing Basics
 --CO-- SQL Server Performance: Introduction to Query Tuning
 --CO-- SQL Server Questions and Answers
@@ -4699,7 +4700,7 @@ SQL Server: Building Simple Asynchronous Applications
 --CO-- SQL Server: Common Query Tuning Problems and Solutions - Part 1
 --CO-- SQL Server: Common Query Tuning Problems and Solutions - Part 2
 SQL Server: Consolidation Tactics and Best Practices
---TORR-- SQL Server: Database Creation, Configuration, and Alteration
+--CO-- SQL Server: Database Creation, Configuration, and Alteration
 --CO-- SQL Server: Deadlock Analysis and Prevention
 --CO-- SQL Server: Detecting and Correcting Database Corruption
 SQL Server: Improving Storage Subsystem Performance
@@ -4725,9 +4726,9 @@ SQL Server: Transact-SQL Common Table Expressions
 --CO-- SQL Server: Troubleshooting Query Plan Quality Issues
 SQL Server: Understanding and Using Azure SQL Database
 --CO-- SQL Server: Understanding and Using DBCC Commands
---TORR-- SQL Server: Using SQL Sentry Plan Explorer
+--CO-- SQL Server: Using SQL Sentry Plan Explorer
 --CO-- SQL Server: Virtualization
---TORR-- SQL Server: Why Physical Database Design Matters
+--CO-- SQL Server: Why Physical Database Design Matters
 --CO-- SQL on Hadoop - Analyzing Big Data with Hive
 --CO-- SQLite with Modern C++
 --CO-- SSCP®: Access Controls
@@ -4798,7 +4799,7 @@ Sculpting Integration Concepts in Maya and ZBrush
 Sculpting Male and Female Faces in ZBrush
 Sculpting Miniatures in ZBrush
 Sculpting Models for Illustration in ZBrush
-Sculpting Modular Structures in ZBrush
+--CO-- Sculpting Modular Structures in ZBrush
 Sculpting Mutated Creatures in ZBrush
 Sculpting Sci-Fi Mech Character Busts in ZBrush and KeyShot
 Sculpting Tips and Tricks in Mudbox
@@ -4904,7 +4905,7 @@ SharePoint 2010 Development
 --TORR-- SharePoint 2013 Development: Client Object Model and REST API
 SharePoint 2010 Document/Meeting Workspaces for End Users
 --CO-- SharePoint 2007 Features and Solutions by Example
---TORR-- SharePoint 2013 Fundamentals
+--CO-- SharePoint 2013 Fundamentals
 SharePoint 2010 Fundamentals
 SharePoint 2013 Fundamentals for Business Professionals
 SharePoint 2007 Fundamentals for Developers
@@ -5069,7 +5070,7 @@ Star Schema Foundations
 --CO-- Start Developing for Android
 Starting and Running a Successful User Group
 --CO-- Starting in Symfony2
---TORR-- Stateful Reactive Concurrent SPAs with SignalR and Akka.NET 
+--CO-- Stateful Reactive Concurrent SPAs with SignalR and Akka.NET 
 Static Websites with Jekyll
 Staying Organized While Creating Character Concepts in Photoshop
 Stereo Conversion from a 2D Movie to 3D Masterpiece in NUKE
@@ -5082,7 +5083,7 @@ Storefront, Curtain Walls, and Curtain Systems in Revit
 Storytelling with Type in After Effects
 Strategically Designing a 2D Game Level in Illustrator
 --CO-- Streaming in .NET 4.5
---TORR-- Streams, Collectors, and Optionals for Data Processing in Java 8
+--CO-- Streams, Collectors, and Optionals for Data Processing in Java 8
 --DOWN-- Stripe Fundamentals with ASP.NET MVC
 --CO-- Structuring JavaScript Code
 Studio Lighting Techniques in Maya
@@ -5221,14 +5222,14 @@ The Art of Speaking: Scott Hanselman
 --CO-- The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
 --CO-- The C Programming Language in Action
 --CO-- The Case for PowerShell
---TORR-- The Dark Side of Technology Careers
+--CO-- The Dark Side of Technology Careers
 --CO-- The Eclipse Guided Tour - Part 1
---TORR-- The Eclipse Guided Tour - Part 2
+--CO-- The Eclipse Guided Tour - Part 2
 --CO-- The Elements of Distributed Architecture
 --CO-- The Essentials of COM
 --CO-- The Essentials of COM - Part 2
 --CO-- The Essentials of the Windows Runtime
-The Evolution of XPath: What�s New in XPath 3.0
+--CO-- The Evolution of XPath: What’s New in XPath 3.0
 The Evolving Features of Illustrator CC
 The Evolving Features of Photoshop CC
 --CO-- The Future of Technology Careers
@@ -5364,7 +5365,7 @@ UX-driven Software Design
 Ultimate Fluids
 --CO-- Umbraco Jumpstart
 --CO-- Underscore.js Fundamentals
---DOWN-- Understanding ABAP Dictionary
+--CO-- Understanding ABAP Dictionary
 Understanding ASP.NET Core (Update)
 Understanding ASP.NET Core Security
 Understanding Algorithms for Recommendation Systems
@@ -5404,7 +5405,7 @@ Understanding and Applying Logistic Regression
 Understanding and Applying Numerical Optimization Techniques
 Understanding and Compositing Deep Images in NUKE
 --CO-- Understanding and Eliminating Technical Debt
---TORR-- Understanding and Profiting from On-line Advertising
+--CO-- Understanding and Profiting from On-line Advertising
 Understanding and Solving Java Memory Problems
 Understanding and Using Azure Storage
 Understanding and Using Essential Tools for Enterprise Linux 7
@@ -5415,7 +5416,7 @@ Understanding the Difference Between Microsoft Azure and Amazon AWS
 --CO-- Understanding the Java Virtual Machine: Class Loading and Reflection
 --CO-- Understanding the Java Virtual Machine: Memory Management
 --CO-- Understanding the Java Virtual Machine: Security
-Understanding the MapReduce Programming Model
+--CO-- Understanding the MapReduce Programming Model
 Understanding the Pen Tool in Photoshop
 Understanding the Relationship Between Logo, Identity, and Brand
 Understanding the Shellshock Bash Bug
@@ -5476,7 +5477,7 @@ Using Functoids in the BizTalk 2013 Mapper
 --CO-- Using GitFlow
 --CO-- Using Glimpse With ASP.NET, MVC4, and Entity Framework
 --CO-- Using Google PageSpeed Insights to Improve Web Performance
---TORR-- Using Google's Cloud For Developers - Google BigQuery
+--CO-- Using Google's Cloud For Developers - Google BigQuery
 Using HDR Images for 3D Lighting in Maya
 --CO-- Using HTML5 and CSS3
 Using Handles and Gizmos in Unity
@@ -5573,7 +5574,7 @@ Utilizing the Muscle System in CINEMA 4D
 Utilizing the Node Editor in Maya 2013
 Utilizing the Node Editor in Maya 2015
 V-Ray Hypershade Nodes in Maya
---TORR-- VBA Fundamentals
+--CO-- VBA Fundamentals
 --CO-- VB.NET Fundamentals
 --CO-- VLANs & Trunking for CCNP Routing & Switching 300-115 SWITCH
 VMware Advanced Features Up Close
@@ -5644,7 +5645,7 @@ VMware vSphere Troubleshooting: Troubleshoot vSphere Storage
 --CO-- VNX Block - Configuration and Operations
 VPNs for CCNA Security (210-260) IINS
 360 VR Compositing in NUKE
-VSTS 2008 By Example
+--CO-- VSTS 2008 By Example
 Vehicle Animation Dynamics in Maya
 --CO-- Viewing and Manipulating Data in Excel 2016
 Viewport Enhancements in 3ds Max 2010
@@ -5667,11 +5668,12 @@ Visual Studio 2015 Playbook
 --CO-- Visual Studio 2015: A First Look at the IDE 		
 --CO-- Visual Studio 2015: Essentials to the Power-User
 Hacking VS Code: Write Your First Extension for Visual Studio Code
+--CO-- Visual Studio Code
 --CO-- Visual Studio Data Tools for Developers
 --DOWN-- Visual Studio Development on a Mac
 --CO-- Visual Studio LightSwitch 2012 and 2013
 Visual Studio Team Services: Migrating from TFS
-Visual Studio Team System 2008 Developer Tools
+--CO-- Visual Studio Team System 2008 Developer Tools
 --CO-- Visual Studio Team System 2008 Fundamentals
 VoIP and Web Calls: Tips for Better Remote Communications
 Voronoi Dynamic Fracturing in Houdini
@@ -5708,7 +5710,7 @@ WAN Technologies for Cisco CCNA 200-125/200-105
 10 Ways to Improve Your Modeling in 3ds Max
 10 Ways to Work Faster in NUKE
 --CO-- Web API Design
---TORR-- Web API v2 Security
+--CO-- Web API v2 Security
 --CO-- Web Accessibility: Getting Started
 Web App Hacking: Caching Problems
 Web App Hacking: Cookie Attacks
@@ -5721,7 +5723,7 @@ Web Application Penetration Testing with Burp Suite
 Web Development with Django and AngularJS
 --CO-- Web Development with ExpressJS
 --CO-- Web Farms for Developers
-Web Mapping with OpenLayers 3
+--CO-- Web Mapping with OpenLayers 3
 --CO-- Tracking Real World Web Performance
 --CO-- Web Security and the OWASP Top 10: The Big Picture
 Web vs Apps: The Big Picture
@@ -5773,7 +5775,7 @@ What's New in vSphere 6.5
 What's new in Windows Embedded 8 Standard
 --CO-- What's new in Windows Workflow 4.5
 What�s New in BizTalk Server 2013
-What�s New in PostSharp v3
+--CO-- What’s New in PostSharp v3
 --CO-- WinJS Fundamentals
 Windows 7 Administration (70-680) Part 2: Initial Security Config
 Windows 7 Administration (70-680) Part 1: Install and Deploy
