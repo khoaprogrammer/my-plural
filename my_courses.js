@@ -5176,7 +5176,7 @@ Test-driven Development: The Big Picture
 --CO-- Testing AngularJS From Scratch
 Testing C# Code in Production with Scientist.NET
 --CO-- Testing Clientside JavaScript
-Testing JavaScript for Node.js with Mocha
+--CO-- Testing JavaScript for Node.js with Mocha
 Testing JavaScript with Jasmine and TypeScript
 --CO-- Testing .NET Code with xUnit.net 2
 Testing PowerShell with Pester
