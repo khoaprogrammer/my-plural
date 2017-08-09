@@ -157,7 +157,7 @@ Advanced Maya Fur Menus
 Advanced Methods for Enhancing Your AEM Website
 Advanced Modeling Techniques with Fusion 360
 Advanced Modeling Tools in Revit
-Advanced Node.js
+--CO-- Advanced Node.js
 --CO-- Advanced Orchard
 Advanced Production Techniques in 3DEqualizer and NUKE
 Advanced PyQt for Maya
@@ -1862,7 +1862,7 @@ Disaster Recovery for Developers
 Discovering Business Analysis Information Through Elicitation
 Discovering the Use of Weldments & Sheet Metal Design: SolidWorks
 Disintegration, Teleportation and Reintegration Effects in Houdini
-Distorting Nature in After Effects
+--CO-- Distorting Nature in After Effects
 --CO-- Django Fundamentals
 --CO-- D3.js Data Visualization Fundamentals
 --CO-- Docker Deep Dive
@@ -1937,7 +1937,7 @@ Editing for Documentaries in Premiere Pro
 Effective C# Unit Testing for Enterprise Applications
 Effective Email Communication
 Effective Facebook Advertising
-Effective Phone Skills
+--CO-- Effective Phone Skills
 Efficient Workflows for Creature Concept Design in Photoshop
 Elastic Scaling on Windows Azure
 Electron Fundamentals
@@ -2878,7 +2878,7 @@ Introduction to 3D in NUKE 10
 --CO-- Introduction to Data Warehousing and Business Intelligence
 --CO-- Introduction to Dates and Times in SQL Server
 --CO-- Introduction to Dates, Times and Intervals in Oracle
-Introduction to Delegation in Project Server/Project Online
+--CO-- Introduction to Delegation in Project Server/Project Online
 Introduction to Desktop Virtualization
 --CO-- Introduction to Developing Applications with IBM Bluemix
 Introduction to Drafting and Annotation in AutoCAD 2016
@@ -2923,7 +2923,7 @@ Introduction to InfraWorks 360
 Introduction to Internet Explorer 10
 Introduction to Inventor
 --CO-- Introduction to JavaScript & jQuery
-Introduction to Job Control Language (JCL)
+--CO-- Introduction to Job Control Language (JCL)
 --CO-- Introduction to Joomla!  				
 Introduction to Key Frame Animation in Toon Boom Harmony
 --CO-- Introduction to Koa Javascript
