@@ -92,7 +92,7 @@ Access Control Lists (ACLs) for Cisco CCNA 200-125/100-105
 Access Your Own Low Cost SAP Development System
 --CO-- Accessing Data with F# Type Providers
 Acrobat DC Building on the Fundamentals
-Acrobat DC Fundamentals
+--CO-- Acrobat DC Fundamentals
 Acrobat DC Updates
 Acrobat DC Working with Forms
 Acrobat XI Fundamentals for Business Professionals
@@ -149,13 +149,13 @@ Advanced HumanIK Workflows in Maya
 --CO-- Advanced Integration Services - Part 2
 Advanced Java Concurrent Patterns
 --CO-- Advanced JavaScript
-Advanced Lighting and Rendering Techniques in V-Ray for Maya
+--CO-- Advanced Lighting and Rendering Techniques in V-Ray for Maya
 --CO-- Advanced Machine Learning with ENCOG
 --CO-- Advanced Machine Learning with ENCOG - Part 2
 --CO-- Advanced Malware Analysis: Combating Exploit Kits
 Advanced Maya Fur Menus
 Advanced Methods for Enhancing Your AEM Website
-Advanced Modeling Techniques with Fusion 360
+--CO-- Advanced Modeling Techniques with Fusion 360
 Advanced Modeling Tools in Revit
 --CO-- Advanced Node.js
 --CO-- Advanced Orchard
@@ -308,7 +308,7 @@ Animate CC Lip Syncing
 Animate CC Mobile App Development
 Animate CC Programming
 Animate CC Updates
-Animate and Rig a Bouncing Ball in Maya
+--CO-- Animate and Rig a Bouncing Ball in Maya
 Animated Turntable Techniques in ZBrush and After Effects
 Animating Advanced Body Mechanics in Maya
 --CO-- Animating AngularJS Applications
@@ -345,7 +345,7 @@ Animating a Short Film in Maya and Unreal Engine
 Animating a Vector City with a 3D Camera in After Effects
 Animating a Walk Cycle in Blender
 Animating a Walking Quadruped in Toon Boom Harmony Premium
-Animating a Water Splash in Harmony
+--CO-- Animating a Water Splash in Harmony
 Animating an Acrobatic Fight Scene in Maya
 Animating an Infographic in After Effects
 Animating and Compositing Futuristic Menus in After Effects
@@ -358,8 +358,8 @@ Animation Ask DTs in Maya
 Animation Blocking Techniques in Maya
 Animation Blocking Techniques in Softimage
 Animation Blocking Techniques in 3ds Max
-Animation Fundamentals: Animating Varying Weights
-Animation Fundamentals: Animating a Ball Bounce
+--CO-- Animation Fundamentals: Animating Varying Weights
+--CO-- Animation Fundamentals: Animating a Ball Bounce
 Animation Layers in Maya
 Animation Polishing Techniques in CINEMA 4D
 Animation Polishing Techniques in Maya
@@ -460,7 +460,7 @@ Audition CC Fundamentals
 --CO-- Aurelia Fundamentals
 --CO-- Authenticating Your AngularJS SPA with ASP.NET Web API and Auth0
 Authoring Real-time Destruction in Unity 5
-Authoring Sci-fi Visual Effects in Unity 5
+--CO-- Authoring Sci-fi Visual Effects in Unity 5
 AutoCAD 2017 Essentials: Rendering Interior and Exterior Scenes
 AutoCAD 2018 Updates
 AutoCAD Essentials: Creating Sheet Sets
@@ -504,7 +504,7 @@ Azure Site Recovery: IaaS Migration and Disaster Recovery
 --CO-- Backbone.js Fundamentals
 --CO-- Backbone.js Persistence
 Baking Light Maps for Game Environments in Maya and mental ray
-Baking Texture Maps in Substance Designer
+--CO-- Baking Texture Maps in Substance Designer
 Basic Administration of SharePoint 2016
 --CO-- Basic HTML for Kids
 --CO-- Basic Networking for CCNP Routing and Switching 300-101 ROUTE
@@ -1035,9 +1035,9 @@ Commvault� Core Fundamentals
 Commvault� Help Desk Operator
 Commvault� Virtualization
 CompTIA Cloud Essentials
-CompTIA Mobility+ Part 3: Device Management and Troubleshooting
-CompTIA Mobility+ Part 1: Over-the-Air and Network Infrastructure
-CompTIA Mobility+ Part 2: Security
+--CO-- CompTIA Mobility+ Part 3: Device Management and Troubleshooting
+--CO-- CompTIA Mobility+ Part 1: Over-the-Air and Network Infrastructure
+--CO-- CompTIA Mobility+ Part 2: Security
 CompTIA Project+: Part 1
 CompTIA Project+: Part 2
 CompTIA Security+ (SY0-401) Access Control and Identity Management
@@ -1098,7 +1098,7 @@ Conceptualizing Interior Designs in Photoshop
 Conceptualizing Landscape Designs in Photoshop
 Conceptualizing Products for Industrial Design in Photoshop
 Conceptualizing a Movie Poster in Illustrator
-Conceptualizing a Sci-fi Environment in Photoshop and Maya
+--CO-- Conceptualizing a Sci-fi Environment in Photoshop and Maya
 --CO-- Concurrent Programming with Go
 Conducting Business Analysis & Developing Requirements
 Conducting Network Vulnerability Analysis
@@ -1182,7 +1182,7 @@ Creating Caricatures in ZBrush
 Creating Cartoon Characters in CINEMA 4D
 Creating Cartoon Characters in MODO
 Creating Cartoon Characters in MODO 301
-Creating Cartoon Characters in MODO and ZBrush
+--CO-- Creating Cartoon Characters in MODO and ZBrush
 Creating Cartoon Characters in Maya
 Creating Cartoon Characters in Maya
 Creating Cartoon Characters in 3ds Max
@@ -1386,7 +1386,7 @@ Creating Walk Cycles in Maya
 Creating Walk Cycles in MotionBuilder
 Creating Walk Cycles in Softimage
 Creating Walk Cycles in 3ds Max
-Creating Walk-throughs for Unity with Enlighten Using 3ds Max
+--CO-- Creating Walk-throughs for Unity with Enlighten Using 3ds Max
 Creating Web APIs That Developers Will Love
 --CO-- Creating Web Applications with Go
 --CO-- Creating Web Applications with Go
@@ -1457,7 +1457,7 @@ Creating a Kitchen Visualization in 3ds Max and V-Ray
 Creating a Live Action Composite from Various Elements in NUKE
 Creating a Low Poly Game Character in Maya and Silo
 Creating a Low-poly Game Building in Maya
-Creating a Low-poly Poster in CINEMA 4D and Photoshop
+--CO-- Creating a Low-poly Poster in CINEMA 4D and Photoshop
 Creating a Male Character Concept for 3D
 Creating a Matte Painting in 3ds Max and Vue xStream
 Creating a Mech Archer Concept in ZBrush
@@ -1469,7 +1469,7 @@ Creating a Mobile Puzzle Game in Unity
 Creating a Morning News Opener in CINEMA 4D and After Effects
 Creating a Multi-Page Brochure Layout in InDesign
 Creating a Narrative Previs Concept in Maya and After Effects
-Creating a Nebula Effect Using FumeFX in 3ds Max
+--CO-- Creating a Nebula Effect Using FumeFX in 3ds Max
 Creating a Paint-bubbling Effect Using Cloth in Cinema 4D
 Creating a Parametric Multi-Bodied CAD Model in SolidWorks
 Creating a Parametric Suspension Bridge Concept Model in Revit
@@ -1513,12 +1513,12 @@ Creating a Sea Creature in Maya and ZBrush
 Creating a Secondary Game Vehicle in 3ds Max
 --CO-- Creating a Secure Form with Acrobat DC
 Creating a Site Analysis in Revit
-Creating a Snake Rig for Animation in Maya
+--CO-- Creating a Snake Rig for Animation in Maya
 Creating a Space Flight Simulator in Unreal Engine
 Creating a Sports Magazine Cover in Illustrator and Photoshop
 Creating a Steampunk Concept Vehicle in Photoshop
 Creating a Studio Light Setup in Softimage
-Creating a Style Guide with Sketch
+--CO-- Creating a Style Guide with Sketch
 Creating a Stylized Cartoon Bird in ZBrush
 Creating a Stylized Creature for Games in ZBrush and 3ds Max
 Creating a Stylized House in 3ds Max and Photoshop
@@ -1574,7 +1574,7 @@ Creating an Interior Walkthrough in Unreal Engine and 3ds Max
 Creating an Optimized Architectural Visualization in 3ds Max and V-Ray
 Creating and Animating a Matte Painting in Photoshop and After Effects
 Creating and Integrating Weather Elements in Maya
-Creating and Joining Solid Geometry with Simple Tools in Rhino
+--CO-- Creating and Joining Solid Geometry with Simple Tools in Rhino
 Creating and Leading Effective Teams for Managers
 Creating and Manipulating 3D Geometry in AutoCAD
 Creating and Rigging a Low Poly Robot in 3ds Max and Photoshop
@@ -1601,7 +1601,7 @@ Creature Texturing in MARI 1.2
 Cross-platform C# Programming with JetBrains' Rider
 Cross-platform Development in .NET and WinRT
 Crowdfunding Fundamentals
-Crowds in Houdini 15
+--CO-- Crowds in Houdini 15
 --CO-- Cryptography Fundamentals for Developers and Security Professionals
 Cryptography: The Big Picture
 Cultivate Your Personal Strengths Using Gallup Tools
@@ -1669,8 +1669,8 @@ Database Delivery Best Practices
 'Daydreamer' Production Pipeline Volume 2: Rigging
 'Daydreamer' Production Pipeline Volume 4: Surfacing
 Dealing with Irrational Customers and Escalating Complaints
-Debugging Chronicles I
-Debugging Chronicles II
+--CO-- Debugging Chronicles I
+--CO-- Debugging Chronicles II
 --CO-- Debugging Chronicles III
 --CO-- Debugging Go Applications with Delve
 Debugging the Web with FireBug, WebDeveloper, and Fiddler
@@ -1770,7 +1770,7 @@ Designing a Jiggle System for Animation in Maya
 Designing a Low Poly Game Environment in Blender
 Designing a Modular Structure for Games in 3ds Max
 Designing a Product Advertisement in Illustrator
-Designing a Proper Invitation in Illustrator
+--CO-- Designing a Proper Invitation in Illustrator
 Designing a Rocket for 3D Printing in Tinkercad
 Designing a Scary Female Monster in ZBrush
 Designing a Sea Creature in ZBrush
@@ -1779,7 +1779,7 @@ Designing a Single Page Product Website in Photoshop and HTML
 Designing a Surreal Female Character in ZBrush
 Designing a Surreal Skull in Photoshop
 Designing a Two Color T-Shirt in Illustrator
-Designing a Vector Illustration for Advertisements in Illustrator
+--CO-- Designing a Vector Illustration for Advertisements in Illustrator
 Designing a Windmill Tower from Photo Reference in SolidWorks
 Designing an Action Composition in Illustrator
 Designing an Album Cover in Photoshop
@@ -1936,7 +1936,7 @@ Editing Dialogue in Premiere Pro
 Editing for Documentaries in Premiere Pro
 Effective C# Unit Testing for Enterprise Applications
 Effective Email Communication
-Effective Facebook Advertising
+--CO-- Effective Facebook Advertising
 --CO-- Effective Phone Skills
 Efficient Workflows for Creature Concept Design in Photoshop
 Elastic Scaling on Windows Azure
@@ -1992,7 +1992,7 @@ Enterprise Security: Policies, Practices, and Procedures
 --CO-- Entity Framework 4.0 By Example
 --CO-- Entity Framework 6: Ninja Edition - What's New in EF6
 --CO-- Entity Framework Code First Migrations
-Entity Framework Core: Getting Started
+--CO-- Entity Framework Core: Getting Started
 --CO-- Entity Framework Database Performance Anti-patterns
 Entity Framework Migrations for Large Teams
 --CO-- Entity Framework and Data Models
@@ -2136,7 +2136,7 @@ Exploring NURBS in Maya
 Exploring Options with the Swept Boss/Base Feature in SolidWorks
 Exploring Organic and Geometric Surfacing in Rhino
 Exploring Parameters and Dynamic Blocks in AutoCAD
---TORR-- Exploring SQL Server Tools and Language Enhancements
+--CO-- Exploring SQL Server Tools and Language Enhancements
 Exploring and Analyzing Data with QlikView
 Exploring 3ds Max 2018
 Exploring mental ray Materials in Maya
@@ -2634,7 +2634,7 @@ Implementing Proactive Windows Security
 Implementing SQL Server on Amazon RDS
 --CO-- Implementing Search in .NET Applications
 --CO-- Implementing Undo in ASP.NET WebForms and MVC
-Implementing Vector Art in a Pixel-based Advertisement
+--CO-- Implementing Vector Art in a Pixel-based Advertisement
 Implementing Windows 10
 Implementing Windows Server 2016 Connectivity and Remote Access
 --CO-- Implementing Windows Server 2016 DHCP
@@ -2656,7 +2656,7 @@ Implementing and Managing Azure Multi-factor Authentication
 --CO-- Implementing the Reactive Manifesto with Azure and AWS
 Importing and Exporting Oracle Data for DBAs
 Importing and Exporting Oracle Data for Developers
-Importing and Rendering a Stylized Environment in Unreal Engine
+--CO-- Importing and Rendering a Stylized Environment in Unreal Engine
 Improving Brownfield .NET Apps with Code Analysis and Metrics
 Improving CSS with PostCSS
 Improving CSS with Stylus
@@ -2718,7 +2718,7 @@ Information Systems Auditor: The Process of Auditing
 --CO-- Infrastructure Security for CCNP Routing & Switching 300-115 SWITCH
 Infrastructure Testing with Pester
 Infrastructure from Code: The Big Picture
-Infusing Energy into Illustrations Using Adobe CC
+--CO-- Infusing Energy into Illustrations Using Adobe CC
 Inking Comic Art in Illustrator
 Inkjet Printing for Photography
 Innovative Package Design Theory
@@ -2743,7 +2743,7 @@ Integrating 3D Type into Images in Photoshop
 --CO-- Integrating Docker with DevOps Automated Workflows
 Integrating Lead Forms, Salesforce, Slack, and Email with AWS
 --CO-- Integrating Linux in a Windows Enterprise Environment
-Integrating Live Action and CG in NUKE and RenderMan for Maya
+--CO-- Integrating Live Action and CG in NUKE and RenderMan for Maya
 Integrating Motion Graphics with Live-Action Footage in CINEMA 4D and After Effects
 Integrating Node Applications with GitHub
 --CO-- Integrating Payments with Ruby on Rails
@@ -2821,7 +2821,7 @@ Introduction to Autodesk Factory Design Utilities
 Introduction to Axure
 Introduction to Azure App Services
 --CO-- Introduction to Azure DocumentDB
-Introduction to Bifrost in Maya
+--CO-- Introduction to Bifrost in Maya
 Introduction to Bitcoin and Decentralized Technology
 Introduction to Blueprint in Unreal Engine
 --CO-- Introduction to Bootstrap
@@ -2836,7 +2836,7 @@ Introduction to C# and .NET
 Introduction to C# in Unity
 Introduction to C# in Unity 3.5
 Introduction to CAT in 3ds Max
-Introduction to CINEMA 4D Lite for Graphic Designers
+--CO-- Introduction to CINEMA 4D Lite for Graphic Designers
 Introduction to CINEMA 4D R14
 --CO-- Introduction to CSS
 --CO-- Introduction to CSS for Designers
@@ -2907,7 +2907,7 @@ Introduction to Git
 --CO-- Introduction to HTML5 and CSS3
 Introduction to HTML for Designers
 Introduction to HVAC Design in Revit MEP
-Introduction to Hair and Fur in Houdini 15
+--CO-- Introduction to Hair and Fur in Houdini 15
 Introduction to Houdini 15
 Introduction to Houdini Digital Assets
 Introduction to Houdini Pyro FX
@@ -2968,7 +2968,7 @@ Introduction to Maya Fur
 Introduction to Maya Muscle
 Introduction to Mecanim in Unity
 --CO-- Introduction to Microsoft Azure Infrastructure as a Service
-Introduction to Microsoft Business Intelligence End-user Tools
+--CO-- Introduction to Microsoft Business Intelligence End-user Tools
 --CO-- Introduction to Microsoft Office Open XML
 --CO-- Introduction to Microsoft Orleans
 Introduction to Microsoft Publisher 2013
@@ -3047,7 +3047,7 @@ Introduction to RealFlow 2013
 Introduction to RealFlow 2012
 Introduction to RealFlow 2014
 Introduction to Regular Expression (Regex)
-Introduction to RenderMan RIS in Houdini
+--CO-- Introduction to RenderMan RIS in Houdini
 Introduction to Rendering in CINEMA 4D
 Introduction to Rendering in Maya
 Introduction to Rendering in Maya 2011
@@ -3504,7 +3504,7 @@ Maximizing Your Wacom Device for Maya
 Maximizing Your Wacom Device for Mudbox
 Maximizing Your Wacom Device for ZBrush
 Maya 6 Unlimited: Hair
-Maya Animation Fundamentals
+--CO-- Maya Animation Fundamentals
 Maya Animation Reference Library: Animate
 Maya Animation Reference Library: Birds
 Maya Character and Environment FX with Bifrost and XGen
@@ -3819,7 +3819,7 @@ OPSEC for Penetration Testers
 --CO-- OWASP Top 10 Web Application Security Risks for ASP.NET
 Object Replacement with Magic in RealFlow
 Object Space Normal Maps in Softimage
-Object Tracking Methods in SynthEyes
+--CO-- Object Tracking Methods in SynthEyes
 Object Tracking in MatchMover and After Effects
 Object Tracking in MatchMover and Composite
 Object Tracking in MatchMover and NUKE
@@ -3986,7 +3986,7 @@ PgMP� - Planning Your Program
 PhoneGap Build Fundamentals
 Photo Manipulation Techniques: Character Design Process
 Photo-bashing an Interstellar Space Craft in Photoshop
-Photogrammetry in Memento and ZBrush
+--CO-- Photogrammetry in Memento and ZBrush
 Photographer's Toolbox: Image Editing Tips
 Photographing Digital Assets
 Photography Basics
@@ -4129,7 +4129,7 @@ Play by Play: iOS and Swift from Scratch
 --CO-- Play! 2 for Java
 --CO-- Play! 2 for Scala
 Playing with Fire Through Photo Manipulation
-Pluralsight Originals: Design from Concept to Production
+--CO-- Pluralsight Originals: Design from Concept to Production
 Polygon Modeling Tips and Tricks in Maya
 Polygon Modeling Workflows in CINEMA 4D
 Polygon and Sub-D Modeling Workflows in Maya
@@ -4234,7 +4234,7 @@ Preparing for the AutoCAD 2016 Professional Certification Exam
 Preparing to Migrate to Office 365
 Presentation Techniques for Game Art in Marmoset Toolbag
 Presentation Techniques in ZBrush
-Presenting 3D Models Online
+--CO-- Presenting 3D Models Online
 Presenting to the Boss(es)
 Previsualization Techniques in MotionBuilder
 Principles for Establishing Character Age
@@ -4287,7 +4287,7 @@ Professional Series: Particle Integration with ICE and Lagoa in Softimage
 Professional Series: Photorealistic Vehicle Rendering in Maya
 Professional Series: Texturing Military Vehicles in MARI
 Professional Site Design and Plan Production in AutoCAD
-Professional Tips for Creating Thumbnails in SketchBook Pro
+--CO-- Professional Tips for Creating Thumbnails in SketchBook Pro
 Professional Tips for Modeling Complex Shapes: Part 2
 --CO-- Professional Tips for Modeling Complex Shapes: Part 3
 --CO-- Professional Tips for Modeling Complex Shapes: Part 4
@@ -4720,7 +4720,7 @@ SQL Server: Replacing Profiler with Extended Events
 SQL Server: Scaling SQL Server 2012 and 2014: Part 2
 --TORR-- SQL Server: Temporary Objects
 --CO-- SQL Server: Transact-SQL Basic Data Modification
---TORR-- SQL Server: Transact-SQL Basic Data Retrieval
+--CO-- SQL Server: Transact-SQL Basic Data Retrieval
 SQL Server: Transact-SQL Common Table Expressions
 --CO-- SQL Server: Transactional Replication Fundamentals
 --CO-- SQL Server: Troubleshooting Query Plan Quality Issues
@@ -4990,7 +4990,7 @@ Simulating Fast-moving Smoke Characters in Maya and NUKE
 Simulating Hair Using nCloth in Maya
 Simulating Interactions Between Skin and Blood in Maya
 Simulating Large and Small Scale Liquids in Bifrost
-Simulating Realistic Melting Wax in RealFlow
+--CO-- Simulating Realistic Melting Wax in RealFlow
 Simulating Sandman Effects in Maya
 Simulating a Burning Matchstick Effect in Maya
 --CO-- Simulating a Burning Tree in Maya
@@ -5047,7 +5047,7 @@ Solving Common Issues with Matchmoving in PFTrack and Maya
 Solving Multiple Shot Types in PFTrack
 Space-Targeting for Animation in Maya
 Spaceship Concept Design Pipeline in Photoshop
---TORR-- Speaking Fundamentals
+--CO-- Speaking Fundamentals
 --CO-- SpecFlow Tips and Tricks
 Specification Pattern in C#
 Speed Modeling Your Architectural Ideas in 3ds Max
@@ -5091,7 +5091,7 @@ Studio Lighting Techniques with Maya and Arnold
 Styling Angular Applications
 --CO-- Styling React Components
 Styling Web Pages Using CSS Designer in Dreamweaver
-Stylized Texturing in Substance Painter
+--CO-- Stylized Texturing in Substance Painter
 --TORR-- Sublime Text 3 From Scratch
 Submerging a Scene Through Photo Manipulation
 Substance Designer Fundamentals
@@ -5190,7 +5190,7 @@ Texture Painting with Maya and Photoshop
 Texture Projection Techniques in MARI
 Texturing Animal Eyes in Maya
 Texturing Ask DTs in Maya
-Texturing Game Assets in MARI
+--CO-- Texturing Game Assets in MARI
 Texturing Game Characters in MARI
 Texturing Game Characters in Mudbox
 Texturing Game Props in 3ds Max and Photoshop
@@ -5202,7 +5202,7 @@ Texturing Sci-fi Game Assets in Substance Designer
 Texturing Techniques in UVLayout and Maxwell Render
 Texturing Tips and Tricks in Maya
 Texturing Using the Viewport Canvas in 3ds Max
-Texturing VFX Assets in MARI
+--CO-- Texturing VFX Assets in MARI
 Texturing a Female Hero in ZBrush
 Texturing a Game Character in Substance Painter and Designer
 Texturing a Low Polygon Sci-fi Weapon in MARI
@@ -5210,7 +5210,7 @@ Texturing a Photorealistic Human Using ZBrush
 Texturing a Realistic Human in Maya and ZBrush
 Texturing a Robot with Ptex in MARI
 Texturing a Stylized Game Environment in Photoshop
-Texturing a Stylized Weapon in Quixel SUITE 2
+--CO-- Texturing a Stylized Weapon in Quixel SUITE 2
 The 12 Principles of Animation in MODO
 The 35 Things Everyone Needs to Know About Dynamics CRM
 The Anatomy of Email Design in HTML
@@ -5543,7 +5543,7 @@ Using the RealFlow RenderKit in Maya
 Using the Reinforcement Panel in Revit
 Using the Sound Effector in CINEMA 4D
 --CO-- Using the Speech Recognition and Synthesis .NET APIs
-Using the Takes System to Create Variation in CINEMA 4D
+--CO-- Using the Takes System to Create Variation in CINEMA 4D
 Using the UV Unfold Feature in Softimage
 Using the Web Speech API with AngularJS
 Utilizing Advanced Shading Techniques Using V-Ray in Maya
@@ -5553,7 +5553,7 @@ Utilizing Design Representations in Inventor
 Utilizing Design, Materials and Rendering Options in Revit
 Utilizing Dynamic Blocks and Data Extraction for BIM in AutoCAD
 Utilizing Effects and Presets in After Effects
-Utilizing Extrudes, Lofts, and the Project Tool in Rhino
+--CO-- Utilizing Extrudes, Lofts, and the Project Tool in Rhino
 Utilizing Flash for Motion Graphics
 Utilizing Illustrator to Create Website Wireframes
 Utilizing Photobashing Techniques to Create Concept Art in Photoshop
@@ -5670,7 +5670,7 @@ Visual Studio 2015 Playbook
 Hacking VS Code: Write Your First Extension for Visual Studio Code
 --CO-- Visual Studio Code
 --CO-- Visual Studio Data Tools for Developers
---DOWN-- Visual Studio Development on a Mac
+--CO-- Visual Studio Development on a Mac
 --CO-- Visual Studio LightSwitch 2012 and 2013
 Visual Studio Team Services: Migrating from TFS
 --CO-- Visual Studio Team System 2008 Developer Tools
@@ -5742,7 +5742,7 @@ What is Dynamics CRM 2011?
 What's New in After Effects CS5.5
 --CO-- What's New in Angular 1.3
 --CO-- What's New in C# 6
-What's New in CINEMA 4D R17
+--CO-- What's New in CINEMA 4D R17
 --WEB PLEASE-- What's New in Django 1.7 and 1.8
 --CO-- What's New in ExtJS 5
 --CO-- What's New in Java 8
@@ -5803,7 +5803,7 @@ Windows 7 Deployment (70-681): Microsoft Deployment Toolkit
 Windows 8 Deployment with Microsoft Deployment Toolkit 2012 U1
 Windows 8 Deployment with Windows Deployment Services (WDS)
 Windows 8 Deployment: Windows Assessment and Deployment Kit
-Windows 10 First Look
+--CO-- Windows 10 First Look
 Windows 10 Foundations
 Windows 7 Fundamentals
 Windows 8 Managing and Maintaining (70-688) Part 1
@@ -5992,7 +5992,7 @@ Working with 3D in Toon Boom Harmony
 Working with DWG Files in Revit
 Working with Data and Schemas in Marten
 Working with Design Options in Revit
-Working with Enlighten and Image Effects in Unity
+--CO-- Working with Enlighten and Image Effects in Unity
 --CO-- Working with Entities in Drupal 7
 Working with Excel on the iPad
 Working with Geometric Constraints in AutoCAD
@@ -6063,7 +6063,7 @@ Your First Day with Oculus Rift in Unity
 Your First Day with PowerShell
 Your First Day with Shading Networks in Maya
 Your First Day with Storyboard Pro
-Your First Day with SynthEyes
+--CO-- Your First Day with SynthEyes
 Your First Day with WordPress CMS
 ZBrush Reference Library: 3D Brushes
 ZBrush and Mudbox Integration
