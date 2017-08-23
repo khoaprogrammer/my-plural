@@ -3747,7 +3747,7 @@ MySQL Fundamentals Part 2
 --CO-- MySQL Indexing for Performance
 --CO-- MySQL Query Optimization and Performance Tuning
 --CO-- MySQL Workbench Guided Tour
---CO-- .NET Debugging Power Tools 
+--YES-- .NET Debugging Power Tools 
 --CO-- .NET Distributed Systems Architecture
 --CO-- .NET Internals and Advanced Debugging Techniques
 --CO-- .NET Interoperability Fundamentals
