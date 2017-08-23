@@ -178,7 +178,7 @@ Advanced Techniques and Workflows in Vue
 --CO-- Advanced Techniques in JavaScript and jQuery
 --CO-- Advanced Theming For Drupal 7
 --CO-- Advanced TypeScript
---CO-- Advanced Unit Testing
+--YES-- Advanced Unit Testing
 Advanced V-Ray Techniques for Film and TV
 Advanced Web Application Penetration Testing with Burp Suite
 --CO-- Advanced Windows Debugging - Part 1
@@ -3223,7 +3223,7 @@ Java Fundamentals - Concurrency with Multithreading
 --CO-- Java Fundamentals: Generics
 Java Fundamentals: Object-oriented Design
 --CO-- Java Fundamentals: The Core Platform
---CO-- Java Fundamentals: The Java Language
+--YES-- Java Fundamentals: The Java Language
 Java Microservices with Spring Cloud: Developing Services
 --CO-- Java Persistence API (JPA) 2.1
 --CO-- Java Platform: Working with Databases Using JDBC
