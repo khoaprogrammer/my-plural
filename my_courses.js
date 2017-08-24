@@ -5727,7 +5727,7 @@ Web Development with Django and AngularJS
 --CO-- Tracking Real World Web Performance
 --CO-- Web Security and the OWASP Top 10: The Big Picture
 Web vs Apps: The Big Picture
---CO-- WebGL and Three.js Fundamentals
+--YES-- WebGL and Three.js Fundamentals
 --CO-- WebPageTest Deep Dive
 --CO-- WebRTC Fundamentals
 --CO-- WebStorm Fundamentals
