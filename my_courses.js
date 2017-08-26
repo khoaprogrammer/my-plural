@@ -92,7 +92,7 @@ Access Control Lists (ACLs) for Cisco CCNA 200-125/100-105
 Access Your Own Low Cost SAP Development System
 --CO-- Accessing Data with F# Type Providers
 Acrobat DC Building on the Fundamentals
---CO-- Acrobat DC Fundamentals
+--YES-- Acrobat DC Fundamentals
 Acrobat DC Updates
 Acrobat DC Working with Forms
 Acrobat XI Fundamentals for Business Professionals
@@ -149,13 +149,13 @@ Advanced HumanIK Workflows in Maya
 --CO-- Advanced Integration Services - Part 2
 Advanced Java Concurrent Patterns
 --CO-- Advanced JavaScript
---CO-- Advanced Lighting and Rendering Techniques in V-Ray for Maya
+--YES-- Advanced Lighting and Rendering Techniques in V-Ray for Maya
 --CO-- Advanced Machine Learning with ENCOG
 --CO-- Advanced Machine Learning with ENCOG - Part 2
 --CO-- Advanced Malware Analysis: Combating Exploit Kits
 Advanced Maya Fur Menus
 Advanced Methods for Enhancing Your AEM Website
---CO-- Advanced Modeling Techniques with Fusion 360
+--YES-- Advanced Modeling Techniques with Fusion 360
 Advanced Modeling Tools in Revit
 --CO-- Advanced Node.js
 --CO-- Advanced Orchard
@@ -3209,7 +3209,7 @@ Ionic Framework Tools and Patterns
 --CO-- IronRuby by Example
 JCache Fundamentals
 JD Edwards EnterpriseOne Fundamentals
---CO-- JIRA Fundamentals
+--YES-- JIRA Fundamentals
 --CO-- JS.Next: ES6
 Java 9 Modularity: First Look
 Java EE 7 Fundamentals
@@ -3225,12 +3225,12 @@ Java Fundamentals: Object-oriented Design
 --CO-- Java Fundamentals: The Core Platform
 --YES-- Java Fundamentals: The Java Language
 Java Microservices with Spring Cloud: Developing Services
---CO-- Java Persistence API (JPA) 2.1
+--YES-- Java Persistence API (JPA) 2.1
 --CO-- Java Platform: Working with Databases Using JDBC
 Java SE: Building Your First JavaFX Application
 --CO-- Java Swing Development Using NetBeans
---CO-- Java Web Fundamentals
---CO-- JavaScript Animation with GSAP
+--YES-- Java Web Fundamentals
+--YES-- JavaScript Animation with GSAP
 JavaScript Asynchronous Module Definition (AMD) Explained
 --CO-- JavaScript Best Practices
 --CO-- JavaScript Build Automation With Gulp.js
@@ -3239,10 +3239,10 @@ JavaScript Asynchronous Module Definition (AMD) Explained
 --CO-- JavaScript Fundamentals
 --CO-- JavaScript Fundamentals for ES6
 --CO-- JavaScript Module Fundamentals
---CO-- JavaScript Objects and Prototypes
+--YES-- JavaScript Objects and Prototypes
 --TORR-- JavaScript Templating with Handlebars
 --CO-- JavaScript for C# Developers
---CO-- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
+--YES-- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
 --CO-- JavaScript: From Fundamentals to Functional JS
 --CO-- JavaScript: The Good Parts
 Joint-based Facial Rigging in Maya
@@ -3257,10 +3257,10 @@ Juniper Networks JNCIS-ENT (JN0-343): Protocol-independent Routing
 Juniper Networks JNCIS-ENT (JN0-343): Spanning Tree
 --CO-- JustMock Lite Fundamentals
 Kanban Development With Jira Agile
---CO-- Kanban Fundamentals
+--YES-- Kanban Fundamentals
 Katana Essentials
 Keeping up with Technology
---CO-- Kendo UI and AngularJS from Scratch
+--YES-- Kendo UI and AngularJS from Scratch
 --CO-- Kendo and MVC From Scratch
 Keying Greenscreens in After Effects
 Keying Greenscreens in Composite
@@ -3294,15 +3294,15 @@ Label Creation for Sites in Civil 3D
 Layer 2 Security for CCNA Security (210-260) IINS
 --CO-- Layering for 2D Computer Animation in Photoshop
 Leadership and Communication Skills for Software Engineers
---CO-- Leadership: Getting Started
+--YES-- Leadership: Getting Started
 --CO-- Lean Software Development Fundamentals
 Lean and Agile Enterprise Architecture: Getting Started
 Learn Basic HTML5 and CSS3 by Building Your First Web Page
 --CO-- Learn How to Program with C++
---CO-- Learn Perl by Doing - Part 1
---CO-- Learn Perl by Doing - Part 2
---CO-- Learn Perl by Doing - Part 3
---CO-- Learn Perl by Doing - Part 4
+--YES-- Learn Perl by Doing - Part 1
+--YES-- Learn Perl by Doing - Part 2
+--YES-- Learn Perl by Doing - Part 3
+--YES-- Learn Perl by Doing - Part 4
 --CO-- Learn QlikView to Easily Create a Great Data Discovery Tool
 Learn by Building Redis with Ruby
 --CO-- Learn to Program With the Sphero Robot
@@ -3686,13 +3686,13 @@ Modeling and Rendering a Concept Design for Footwear in Blender and KeyShot
 Modeling and Rendering a Face Mask with ZBrush and KeyShot
 Modeling and Rigging a Cartoon Shark in 3ds Max
 Modeling and Rigging a Hydraulic Crane in 3ds Max
---CO-- Modeling and Texturing a Low Poly Game Environment in Maya
+--YES-- Modeling and Texturing a Low Poly Game Environment in Maya
 Modeling and Texturing a Low Poly Helmet for Games in 3ds Max
 Modeling and Texturing a Next-gen Building for Games in 3ds Max
 Modeling for Photorealistic Interiors with CINEMA 4D
 Modeling for Product Visualization in CINEMA 4D
 Modeling, Lighting, and Rendering Interior Visualizations in 3ds Max
---CO-- Modern Asynchronous JavaScript
+--YES-- Modern Asynchronous JavaScript
 --CO-- Modern C++ Concurrency
 --CO-- Modern C++ Libraries
 --CO-- Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
@@ -6101,7 +6101,7 @@ iPads in the Enterprise
 --CO-- jQuery In-Depth
 --CO-- jQuery Mobile and ASP.NET MVC 4
 --CO-- jQuery Plugins & jQuery UI
---CO-- jQuery Template Fundamentals
+--YES-- jQuery Template Fundamentals
 --CO-- jQuery Tips and Tricks
 --CO-- jQuery Plugins & jQuery UI
 --CO-- jQuery-free JavaScript
